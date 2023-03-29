@@ -1,0 +1,150 @@
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class DrivernationalitySeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        //
+        $nationalities = [
+            ['name_en'=>'Afghan','name_ar'=>'أفغاني'],
+            ['name_en'=>'Albanian','name_ar'=>'ألباني'],
+            ['name_en'=>'Algerian','name_ar'=>'جزائري'],
+            ['name_en'=>'Argentinian','name_ar'=>'أرجنتيني'],
+            ['name_en'=>'Armenian','name_ar'=>'أرميني'],
+            ['name_en'=>'Australian','name_ar'=>'أسترالي'],
+            ['name_en'=>'Azerbaijani','name_ar'=>'أذربيجاني'],
+            ['name_en'=>'Bahraini','name_ar'=>'بحريني'],
+            ['name_en'=>'Bangladeshi','name_ar'=>'بنجلاديشي'],
+            ['name_en'=>'Belgian','name_ar'=>'بلجيكي'],
+            ['name_en'=>'Brazilian','name_ar'=>'برازيلي'],
+            ['name_en'=>'Bulgarian','name_ar'=>'بلغاري'],
+            ['name_en'=>'Cambodian','name_ar'=>'كمبودي'],
+            ['name_en'=>'Cameroonian','name_ar'=>'كاميروني'],
+            ['name_en'=>'Canadian','name_ar'=>'كندي'],
+            ['name_en'=>'Chadian','name_ar'=>'تشادي'],
+            ['name_en'=>'Chilean','name_ar'=>'تشيلي'],
+            ['name_en'=>'Chinese','name_ar'=>'صيني'],
+            ['name_en'=>'Taiwanese','name_ar'=>'تيواني'],
+            ['name_en'=>'Colombian','name_ar'=>'كولومبي'],
+            ['name_en'=>'Costa Rican','name_ar'=>'كوستاريكا'],
+            ['name_en'=>'Croatian','name_ar'=>'كرواتي'],
+            ['name_en'=>'Cuban','name_ar'=>'كوبي'],
+            ['name_en'=>'Cypriot','name_ar'=>'قبرصي'],
+            ['name_en'=>'Czech','name_ar'=>'تشيكي'],
+            ['name_en'=>'Danish','name_ar'=>'دنماركي'],
+            ['name_en'=>'Dominican','name_ar'=>'دومينيكا'],
+            ['name_en'=>'Djiboutian','name_ar'=>'جيبوتي'],
+            ['name_en'=>'Ecuadorian','name_ar'=>'إكوادوري'],
+            ['name_en'=>'egypt','name_ar'=>'مصري'],
+            ['name_en'=>'Equatoguinean','name_ar'=>'غيني إستوائي'],
+            ['name_en'=>'Eritrean','name_ar'=>'إريتري'],
+            ['name_en'=>'Ethiopian','name_ar'=>'أثيوبي'],
+            ['name_en'=>'Georgian','name_ar'=>'جورجي'],
+            ['name_en'=>'Finnish','name_ar'=>'فنلندي'],
+            ['name_en'=>'French','name_ar'=>'فرنسي'],
+            ['name_en'=>'German','name_ar'=>'ألماني'],
+            ['name_en'=>'Ghanaian','name_ar'=>'غاني'],
+            ['name_en'=>'Greek','name_ar'=>'يوناني'],
+            ['name_en'=>'Guinean','name_ar'=>'غيني'],
+            ['name_en'=>'Hungarian','name_ar'=>'هنغاري'],
+            ['name_en'=>'Icelandic','name_ar'=>'ايسلندي'],
+            ['name_en'=>'Indian','name_ar'=>'هندي'],
+            ['name_en'=>'Indonesian','name_ar'=>'اندونيسي'],
+            ['name_en'=>'Iraqi','name_ar'=>'عراقي'],
+            ['name_en'=>'Irish','name_ar'=>'ايرلندي'],
+            ['name_en'=>'Italian','name_ar'=>'إيطالي'],
+            ['name_en'=>'Jamaican','name_ar'=>'جمايكي'],
+            ['name_en'=>'Japanese','name_ar'=>'ياباني'],
+            ['name_en'=>'Jordanian','name_ar'=>'أردني'],
+            ['name_en'=>'Kenyan','name_ar'=>'كيني'],
+            ['name_en'=>'Korean','name_ar'=>'كوري'],
+            ['name_en'=>'Kuwaiti','name_ar'=>'كويتي'],
+            ['name_en'=>'Kyrguz','name_ar'=>'قرغستاني'],
+            ['name_en'=>'Lebanese','name_ar'=>'لبناني'],
+            ['name_en'=>'Libyan','name_ar'=>'ليبي'],
+            ['name_en'=>'Macedonian','name_ar'=>'مقدوني'],
+            ['name_en'=>'Malagasy','name_ar'=>'ملغاشي'],
+            ['name_en'=>'Malaysian','name_ar'=>'ماليزي'],
+            ['name_en'=>'Maldivian','name_ar'=>'مالديفي'],
+            ['name_en'=>'Malian','name_ar'=>'مالي'],
+            ['name_en'=>'Maltese','name_ar'=>'مالطا'],
+            ['name_en'=>'Marshallese','name_ar'=>'مارشالي'],
+            ['name_en'=>'Mauritanian','name_ar'=>'موريتاني'],
+            ['name_en'=>'Mauritian','name_ar'=>'موريشيوس'],
+            ['name_en'=>'Mexican','name_ar'=>'مكسيكي'],
+            ['name_en'=>'Monegasque','name_ar'=>'موناكو'],
+            ['name_en'=>'Mongolian','name_ar'=>'منغولي'],
+            ['name_en'=>'Moroccan','name_ar'=>'مغربي'],
+            ['name_en'=>'Mozambican','name_ar'=>'موزمبيقي'],
+            ['name_en'=>'Burmese','name_ar'=>'بورمي'],
+            ['name_en'=>'Namibian','name_ar'=>'نامبي'],
+            ['name_en'=>'Nauruan','name_ar'=>'ناوروي'],
+            ['name_en'=>'Nepali','name_ar'=>'نيبالي'],
+            ['name_en'=>'Dutch','name_ar'=>'هولندي'],
+            ['name_en'=>'New Zealand','name_ar'=>'نيوزلندي'],
+            ['name_en'=>'Nigerian','name_ar'=>'نيجيري'],
+            ['name_en'=>'Norwegian','name_ar'=>'نرويجي'],
+            ['name_en'=>'Omani','name_ar'=>'عماني'],
+            ['name_en'=>'Pakstani','name_ar'=>'باكستاني'],
+            ['name_en'=>'Palauan','name_ar'=>'نيبالي'],
+            ['name_en'=>'Panamanian','name_ar'=>'بنمي'],
+            ['name_en'=>'Paraguayan','name_ar'=>'باراغواي'],
+            ['name_en'=>'Peruvian','name_ar'=>'بيرو'],
+            ['name_en'=>'Philippine','name_ar'=>'فلبيني'],
+            ['name_en'=>'Polish','name_ar'=>'بولندي'],
+            ['name_en'=>'Portuguese','name_ar'=>'برتغالي'],
+            ['name_en'=>'Qatari','name_ar'=>'قطري'],
+            ['name_en'=>'Romanian','name_ar'=>'روماني'],
+            ['name_en'=>'Russian','name_ar'=>'روسي'],
+            ['name_en'=>'Saudi','name_ar'=>'سعودي'],
+            ['name_en'=>'Senegalese','name_ar'=>'سنغالي'],
+            ['name_en'=>'Serbian','name_ar'=>'صربي'],
+            ['name_en'=>'Singaporean','name_ar'=>'سنغافوري'],
+            ['name_en'=>'Slovak','name_ar'=>'سولفيكي'],
+            ['name_en'=>'Slovenian','name_ar'=>'سولفيني'],
+            ['name_en'=>'Somali','name_ar'=>'صومالي'],
+            ['name_en'=>'South African','name_ar'=>'جنوب افريقي'],
+            ['name_en'=>'Spanish','name_ar'=>'اسباني'],
+            ['name_en'=>'Lankan','name_ar'=>'سريلانكي'],
+            ['name_en'=>'Sudanese','name_ar'=>'سوداني'],
+            ['name_en'=>'Swazi','name_ar'=>'سوازي'],
+            ['name_en'=>'Swedish','name_ar'=>'سويدي'],
+            ['name_en'=>'Swiss','name_ar'=>'سويسري'],
+            ['name_en'=>'Tanzanian','name_ar'=>'تنزاني'],
+            ['name_en'=>'Thai','name_ar'=>'تيلندي'],
+            ['name_en'=>'Tunisian','name_ar'=>'تونسي'],
+            ['name_en'=>'Turkish','name_ar'=>'تركي'],
+            ['name_en'=>'Ugandan','name_ar'=>'اوغندي'],
+            ['name_en'=>'Ukrainian','name_ar'=>'اوكراني'],
+            ['name_en'=>'Emirati','name_ar'=>'إماراتي'],
+            ['name_en'=>'British','name_ar'=>'بريطاني'],
+            ['name_en'=>'Uruguayan','name_ar'=>'أروغواي'],
+            ['name_en'=>'American','name_ar'=>'أمريكي'],
+            ['name_en'=>'Venezuelan','name_ar'=>'فنزويلي'],
+            ['name_en'=>'Vietnamese','name_ar'=>'فيتنامي'],
+            ['name_en'=>'Yemeni','name_ar'=>'يمني'],
+            ['name_en'=>'Zambian','name_ar'=>'زامبي'],
+            ['name_en'=>'Zimbabwean','name_ar'=>'زيمبابوي'],
+        ];
+
+
+
+        foreach ($nationalities as $nationality) {
+            DB::table('drivernationalities')->insert([
+                "name_en" => $nationality["name_en"],
+                "name_ar" => $nationality["name_ar"],
+            ]);
+        }
+    }
+}

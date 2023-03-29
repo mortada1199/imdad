@@ -1,0 +1,1001 @@
+id,name_en,name_ar,status,parent_id,isleaf,created_at,updated_at,reason,deleted_at,profile_id,type,created_by
+2,"Furniture and Storage","الأثاث والتخزين",approved,0,1,"2023-01-31 17:52:49","2023-01-31 17:52:49",NULL,NULL,NULL,products,NULL
+3,"Medical center and pharmacy","المركز الطبي و الصيدلة",approved,523,1,"2023-01-31 17:52:50","2023-01-31 17:52:50",NULL,NULL,NULL,products,NULL
+4,"Clothing and Textiles","الملبوسات و المنسوجات",approved,0,1,"2023-01-31 17:52:50","2023-01-31 17:52:50",NULL,NULL,NULL,products,NULL
+5,"Electronics and Smart Devices","الأجهزة الإلكترونية والذكية",approved,0,1,"2023-01-31 17:52:50","2023-01-31 17:52:50",NULL,NULL,NULL,products,NULL
+6,"Hygienic Tools and Equipments","معدات وأدوات النظافة والتعقيم",approved,0,1,"2023-01-31 17:52:50","2023-01-31 17:52:50",NULL,NULL,NULL,products,NULL
+7,"Kitchen Equipment and Consumables","معدات ومستهلكات المطبخ",approved,0,1,"2023-01-31 17:52:51","2023-01-31 17:52:51",NULL,NULL,NULL,products,NULL
+8,"Building and Construction","البناء و التشييد",approved,0,1,"2023-01-31 17:52:51","2023-01-31 17:52:51",NULL,NULL,NULL,products,NULL
+9,Industry,الصناعة,approved,904,1,"2023-01-31 17:52:51","2023-01-31 18:39:20",NULL,"2023-01-31 18:39:20",NULL,products,NULL
+10,Insurance,التأمين,approved,378,1,"2023-01-31 17:52:51","2023-01-31 17:52:51",NULL,NULL,NULL,products,NULL
+22,Footwear,الأحذية,approved,4,1,"2023-01-31 17:52:52","2023-01-31 17:52:52",NULL,NULL,NULL,products,NULL
+23,"Clothing and Fabrics","الملابس والأقمشة",approved,4,1,"2023-01-31 17:52:52","2023-01-31 17:52:52",NULL,NULL,NULL,products,NULL
+26,"Hotel and medical","الفندقية والطبية",approved,275,1,"2023-01-31 17:52:53","2023-01-31 17:52:53",NULL,NULL,NULL,products,NULL
+29,Medical,الطبية,approved,22,1,"2023-01-31 17:52:53","2023-01-31 17:52:53",NULL,NULL,NULL,products,NULL
+30,Formal,الرسمية,approved,22,1,"2023-01-31 17:52:53","2023-01-31 17:52:53",NULL,NULL,NULL,products,NULL
+31,Athletic,الرياضية,approved,22,1,"2023-01-31 17:52:53","2023-01-31 17:52:53",NULL,NULL,NULL,products,NULL
+32,Industrial,الصناعية,approved,22,1,"2023-01-31 17:52:54","2023-01-31 17:52:54",NULL,NULL,NULL,products,NULL
+33,Fabrics,الأقمشة,approved,23,1,"2023-01-31 17:52:54","2023-01-31 17:52:54",NULL,NULL,NULL,products,NULL
+34,Other,أخرى,approved,279,1,"2023-01-31 17:52:54","2023-01-31 17:52:54",NULL,NULL,NULL,products,NULL
+35,Bathrobes,أرواب,approved,26,1,"2023-01-31 17:52:54","2023-01-31 17:52:54",NULL,NULL,NULL,products,NULL
+36,Carpets,سجاد,approved,26,1,"2023-01-31 17:52:55","2023-01-31 17:52:55",NULL,NULL,NULL,products,NULL
+37,Curtains,الستائر,approved,26,1,"2023-01-31 17:52:55","2023-01-31 17:52:55",NULL,NULL,NULL,products,NULL
+38,Mattresses,مفارش,approved,26,1,"2023-01-31 17:52:56","2023-01-31 17:52:56",NULL,NULL,NULL,products,NULL
+39,Towels,المناشف,approved,26,1,"2023-01-31 17:52:56","2023-01-31 17:52:56",NULL,NULL,NULL,products,NULL
+40,Other,أخرى,approved,40,0,"2023-01-31 17:52:56","2023-01-31 17:52:56",NULL,NULL,NULL,products,NULL
+41,"Bakery and Pastry","المخبوزات والمعجنات",approved,1,1,"2023-01-31 17:52:57","2023-01-31 17:52:57",NULL,NULL,NULL,products,NULL
+42,"Health insurance","التامين الصحي",approved,10,1,"2023-01-31 17:52:57","2023-01-31 17:52:57",NULL,NULL,NULL,products,NULL
+43,"Property insurance","تأمين الممتلكات",approved,10,1,"2023-01-31 17:52:57","2023-01-31 17:52:57",NULL,NULL,NULL,products,NULL
+44,"Baked Goods",المخبوزات,approved,41,1,"2023-01-31 17:52:57","2023-01-31 17:52:57",NULL,NULL,NULL,products,NULL
+45,Fresh,"الخبز الطازج",approved,145,1,"2023-01-31 17:52:58","2023-01-31 17:52:58",NULL,NULL,NULL,products,NULL
+46,Packed,"الخبز المغلف",approved,220,1,"2023-01-31 17:52:58","2023-01-31 17:52:58",NULL,NULL,NULL,products,NULL
+47,Other,أخرى,approved,944,1,"2023-01-31 17:52:58","2023-01-31 17:52:58",NULL,NULL,NULL,products,NULL
+48,Pastries,المعجنات,approved,41,1,"2023-01-31 17:52:58","2023-01-31 17:52:58",NULL,NULL,NULL,products,NULL
+49,"Fresh Pastries","المعجنات الطازجة",approved,45,1,"2023-01-31 17:52:59","2023-01-31 17:52:59",NULL,NULL,NULL,products,NULL
+50,"Packed Pastries","المعجنات المغلفة",approved,51,1,"2023-01-31 17:52:59","2023-01-31 17:52:59",NULL,NULL,NULL,products,NULL
+51,Croissant,الكروسان,approved,211,1,"2023-01-31 17:52:59","2023-01-31 17:52:59",NULL,NULL,NULL,products,NULL
+52,"Securing shopkeepers","تأمين اصحاب المحلات",approved,10,1,"2023-01-31 17:52:59","2023-01-31 17:52:59",NULL,NULL,NULL,products,NULL
+53,"Vehicle insurance","تأمين المركبات",approved,10,1,"2023-01-31 17:53:00","2023-01-31 17:53:00",NULL,NULL,NULL,products,NULL
+54,Sweets,"الحلويات الطازجة",approved,50,1,"2023-01-31 17:53:00","2023-01-31 17:53:00",NULL,NULL,NULL,products,NULL
+56,"Dairy Products","منتجات الألبان",approved,1,1,"2023-01-31 17:53:00","2023-01-31 17:53:00",NULL,NULL,NULL,products,NULL
+57,Cheese,الأجبان,approved,56,1,"2023-01-31 17:53:00","2023-01-31 17:53:00",NULL,NULL,NULL,products,NULL
+58,Cheddar,"جبنة التشيدر",approved,49,1,"2023-01-31 17:53:01","2023-01-31 17:53:01",NULL,NULL,NULL,products,NULL
+60,Fresh,"الجبنة الطازجة",approved,59,1,"2023-01-31 17:53:01","2023-01-31 17:53:01",NULL,NULL,NULL,products,NULL
+61,Cream,القشطة,approved,56,1,"2023-01-31 17:53:01","2023-01-31 17:53:01",NULL,NULL,NULL,products,NULL
+62,Canned,معلبة,approved,152,1,"2023-01-31 17:53:01","2023-01-31 17:53:01",NULL,NULL,NULL,products,NULL
+63,Fresh,طازجة,approved,62,1,"2023-01-31 17:53:02","2023-01-31 17:53:02",NULL,NULL,NULL,products,NULL
+66,Laban,اللبن,approved,56,1,"2023-01-31 17:53:02","2023-01-31 17:53:02",NULL,NULL,NULL,products,NULL
+67,Flavored,"لبن بنكهات",approved,63,1,"2023-01-31 17:53:02","2023-01-31 17:53:02",NULL,NULL,NULL,products,NULL
+68,"Full Fat","كامل الدسم",approved,67,1,"2023-01-31 17:53:03","2023-01-31 17:53:03",NULL,NULL,NULL,products,NULL
+69,"Low Fat","قليل الدسم",approved,68,1,"2023-01-31 17:53:03","2023-01-31 17:53:03",NULL,NULL,NULL,products,NULL
+71,Labneh,اللبنة,approved,56,1,"2023-01-31 17:53:03","2023-01-31 17:53:03",NULL,NULL,NULL,products,NULL
+72,Canned,معلبة,approved,1275,1,"2023-01-31 17:53:03","2023-01-31 17:53:03",NULL,NULL,NULL,products,NULL
+73,Fresh,طازجة,approved,72,1,"2023-01-31 17:53:04","2023-01-31 17:53:04",NULL,NULL,NULL,products,NULL
+75,Milk,الحليب,approved,56,1,"2023-01-31 17:53:04","2023-01-31 17:53:04",NULL,NULL,NULL,products,NULL
+76,"Powdered Milk","حليب بودرة",approved,75,1,"2023-01-31 17:53:04","2023-01-31 17:53:04",NULL,NULL,NULL,products,NULL
+77,Flavored,"حليب بنكهات",approved,73,1,"2023-01-31 17:53:04","2023-01-31 17:53:04",NULL,NULL,NULL,products,NULL
+78,"Full Fat","كامل الدسم",approved,77,1,"2023-01-31 17:53:05","2023-01-31 17:53:05",NULL,NULL,NULL,products,NULL
+79,"Oil, Margarine and butter","زيت و سمن و زبدة",approved,158,1,"2023-01-31 17:53:05","2023-01-31 17:53:05",NULL,NULL,NULL,products,NULL
+80,Butter,زبدة,approved,79,1,"2023-01-31 17:53:05","2023-01-31 17:53:05",NULL,NULL,NULL,products,NULL
+81,Margarine,سمن,approved,79,1,"2023-01-31 17:53:05","2023-01-31 17:53:05",NULL,NULL,NULL,products,NULL
+82,Oil,زيت,approved,79,1,"2023-01-31 17:53:06","2023-01-31 17:53:06",NULL,NULL,NULL,products,NULL
+84,Yogurt,زبادي,approved,56,1,"2023-01-31 17:53:06","2023-01-31 17:53:06",NULL,NULL,NULL,products,NULL
+85,Flavored,"زبادي بنكهات",approved,78,1,"2023-01-31 17:53:06","2023-01-31 17:53:06",NULL,NULL,NULL,products,NULL
+86,"Full Fat","كامل الدسم",approved,85,1,"2023-01-31 17:53:06","2023-01-31 17:53:06",NULL,NULL,NULL,products,NULL
+88,Fresh,طازج,approved,87,1,"2023-01-31 17:53:07","2023-01-31 17:53:07",NULL,NULL,NULL,products,NULL
+89,Cream,قشطة,approved,87,1,"2023-01-31 17:53:07","2023-01-31 17:53:07",NULL,NULL,NULL,products,NULL
+91,"Electric iron",كوايات,approved,90,1,"2023-01-31 17:53:07","2023-01-31 17:53:07",NULL,NULL,NULL,products,NULL
+93,"Optical projectors","اجهزة العرض الضوئية",approved,92,1,"2023-01-31 17:53:07","2023-01-31 17:53:07",NULL,NULL,NULL,products,NULL
+94,TVs,"اجهزة التلفزيون",approved,92,1,"2023-01-31 17:53:08","2023-01-31 17:53:08",NULL,NULL,NULL,products,NULL
+95,Others,اخرى,approved,92,1,"2023-01-31 17:53:08","2023-01-31 17:53:08",NULL,NULL,NULL,products,NULL
+99,"Optical projectors","اجهزة العرض الضوئية",approved,98,1,"2023-01-31 17:53:08","2023-01-31 17:53:08",NULL,NULL,NULL,products,NULL
+100,TVs,"اجهزة التلفزيون",approved,98,1,"2023-01-31 17:53:08","2023-01-31 17:53:08",NULL,NULL,NULL,products,NULL
+101,Others,اخرى,approved,98,1,"2023-01-31 17:53:09","2023-01-31 17:53:09",NULL,NULL,NULL,products,NULL
+102,"Air conditioners","اجهزة تكييف",approved,90,1,"2023-01-31 17:53:09","2023-01-31 17:53:09",NULL,NULL,NULL,products,NULL
+103,Games,الالعاب,approved,90,1,"2023-01-31 17:53:09","2023-01-31 17:53:09",NULL,NULL,NULL,products,NULL
+104,"Hair Dryer",استشوار,approved,90,1,"2023-01-31 17:53:09","2023-01-31 17:53:09",NULL,NULL,NULL,products,NULL
+105,Shavers,"اجهزة حلاقة",approved,90,1,"2023-01-31 17:53:10","2023-01-31 17:53:10",NULL,NULL,NULL,products,NULL
+106,"Vacuum cleaners","مكانس كهربائية",approved,90,1,"2023-01-31 17:53:10","2023-01-31 17:53:10",NULL,NULL,NULL,products,NULL
+107,"Washing machines and dryers","غسالات و نشافات",approved,90,1,"2023-01-31 17:53:10","2023-01-31 17:53:10",NULL,NULL,NULL,products,NULL
+108,Others,اخرى,approved,90,1,"2023-01-31 17:53:10","2023-01-31 17:53:10",NULL,NULL,NULL,products,NULL
+110,"Data centres","مراكز بيانات",approved,109,1,"2023-01-31 17:53:11","2023-01-31 17:53:11",NULL,NULL,NULL,products,NULL
+111,Development,تطوير,approved,109,1,"2023-01-31 17:53:11","2023-01-31 17:53:11",NULL,NULL,NULL,products,NULL
+112,"Integrated systems","انظمة متكاملة",approved,109,1,"2023-01-31 17:53:11","2023-01-31 17:53:11",NULL,NULL,NULL,products,NULL
+113,Networks,شبكات,approved,109,1,"2023-01-31 17:53:11","2023-01-31 17:53:11",NULL,NULL,NULL,products,NULL
+114,"Protection and security","حماية و امان",approved,109,1,"2023-01-31 17:53:11","2023-01-31 17:53:11",NULL,NULL,NULL,products,NULL
+115,Software,برمجيات,approved,109,1,"2023-01-31 17:53:12","2023-01-31 17:53:12",NULL,NULL,NULL,products,NULL
+116,"Software and applications","برامج و تطبيقات",approved,109,1,"2023-01-31 17:53:12","2023-01-31 17:53:12",NULL,NULL,NULL,products,NULL
+117,Others,اخرى,approved,109,1,"2023-01-31 17:53:12","2023-01-31 17:53:12",NULL,NULL,NULL,products,NULL
+119,"Coffee machine and kettles","آلة القهوة و الغلايات",approved,118,1,"2023-01-31 17:53:12","2023-01-31 17:53:12",NULL,NULL,NULL,products,NULL
+120,"Cooler and freezer","التبريد و التجميد",approved,118,1,"2023-01-31 17:53:13","2023-01-31 17:53:13",NULL,NULL,NULL,products,NULL
+121,Cooling,التبريد,approved,120,1,"2023-01-31 17:53:13","2023-01-31 17:53:13",NULL,NULL,NULL,products,NULL
+122,Freeze,التجميد,approved,120,1,"2023-01-31 17:53:13","2023-01-31 17:53:13",NULL,NULL,NULL,products,NULL
+123,"Dish washers","غسالة صحون",approved,118,1,"2023-01-31 17:53:14","2023-01-31 17:53:14",NULL,NULL,NULL,products,NULL
+124,"Food preparations","محضرات طعام",approved,118,1,"2023-01-31 17:53:14","2023-01-31 17:53:14",NULL,NULL,NULL,products,NULL
+125,Freezer,برادات,approved,118,1,"2023-01-31 17:53:14","2023-01-31 17:53:14",NULL,NULL,NULL,products,NULL
+126,"Insect appliances","اجهزة الحشرات",approved,118,1,"2023-01-31 17:53:14","2023-01-31 17:53:14",NULL,NULL,NULL,products,NULL
+127,Microwave,افران,approved,118,1,"2023-01-31 17:53:15","2023-01-31 17:53:15",NULL,NULL,NULL,products,NULL
+128,Others,اخرى,approved,118,1,"2023-01-31 17:53:15","2023-01-31 17:53:15",NULL,NULL,NULL,products,NULL
+130,"Speakers and Amplifiers","سماعات و ادوات مكبرات الصوت",approved,129,1,"2023-01-31 17:53:15","2023-01-31 17:53:15",NULL,NULL,NULL,products,NULL
+133,Headphones,سماعات,approved,130,1,"2023-01-31 17:53:15","2023-01-31 17:53:15",NULL,NULL,NULL,products,NULL
+134,Amplifiers,"ادوات تكبير الصوت",approved,130,1,"2023-01-31 17:53:16","2023-01-31 17:53:16",NULL,NULL,NULL,products,NULL
+135,"Sound Mixer","ادوات تعديل الصوت",approved,130,1,"2023-01-31 17:53:16","2023-01-31 17:53:16",NULL,NULL,NULL,products,NULL
+136,"Phones and tablets","الهواتف و الاجهزة اللوحية",approved,129,1,"2023-01-31 17:53:16","2023-01-31 17:53:16",NULL,NULL,NULL,products,NULL
+137,Accessories,اكسسوارات,approved,136,1,"2023-01-31 17:53:16","2023-01-31 17:53:16",NULL,NULL,NULL,products,NULL
+138,Landline,"الهاتف الثابت",approved,136,1,"2023-01-31 17:53:17","2023-01-31 17:53:17",NULL,NULL,NULL,products,NULL
+139,Mobiles,الجوالات,approved,136,1,"2023-01-31 17:53:17","2023-01-31 17:53:17",NULL,NULL,NULL,products,NULL
+140,Tablets,"اجهزة لوحية",approved,136,1,"2023-01-31 17:53:17","2023-01-31 17:53:17",NULL,NULL,NULL,products,NULL
+141,Others,اخرى,approved,136,1,"2023-01-31 17:53:17","2023-01-31 17:53:17",NULL,NULL,NULL,products,NULL
+142,Projectors,"اجهزة العرض",approved,129,1,"2023-01-31 17:53:18","2023-01-31 17:53:18",NULL,NULL,NULL,products,NULL
+143,"Optical projectors","اجهزة العرض الضوئية",approved,142,1,"2023-01-31 17:53:18","2023-01-31 17:53:18",NULL,NULL,NULL,products,NULL
+144,TVs,"اجهزة التلفزيون",approved,142,1,"2023-01-31 17:53:18","2023-01-31 17:53:18",NULL,NULL,NULL,products,NULL
+145,Brown,"خبز أسمر",approved,146,1,"2023-01-31 17:53:18","2023-01-31 17:53:18",NULL,NULL,NULL,products,NULL
+146,White,"خبز أبيض",approved,200,1,"2023-01-31 17:53:19","2023-01-31 17:53:19",NULL,NULL,NULL,products,NULL
+147,Brown,"خبز أسمر",approved,46,1,"2023-01-31 17:53:19","2023-01-31 17:53:19",NULL,NULL,NULL,products,NULL
+148,White,"خبز أبيض",approved,46,1,"2023-01-31 17:53:19","2023-01-31 17:53:19",NULL,NULL,NULL,products,NULL
+149,Cookies,الكوكيز,approved,54,1,"2023-01-31 17:53:19","2023-01-31 17:53:19",NULL,NULL,NULL,products,NULL
+150,Cake,الكيك,approved,54,1,"2023-01-31 17:53:20","2023-01-31 17:53:20",NULL,NULL,NULL,products,NULL
+151,Donuts,الدونات,approved,54,1,"2023-01-31 17:53:20","2023-01-31 17:53:20",NULL,NULL,NULL,products,NULL
+152,Unsalted,"الجبنة غير المملحة",approved,60,1,"2023-01-31 17:53:20","2023-01-31 17:53:20",NULL,NULL,NULL,products,NULL
+153,Other,أخرى,approved,1246,1,"2023-01-31 17:53:20","2023-01-31 17:53:20",NULL,NULL,NULL,products,NULL
+154,Skimmed,"خالي الدسم",approved,69,1,"2023-01-31 17:53:21","2023-01-31 17:53:21",NULL,NULL,NULL,products,NULL
+155,"Liquid Milk","حليب سائل",approved,75,1,"2023-01-31 17:53:21","2023-01-31 17:53:21",NULL,NULL,NULL,products,NULL
+156,"Evaporated Milk","حليب مبخر",approved,75,1,"2023-01-31 17:53:21","2023-01-31 17:53:21",NULL,NULL,NULL,products,NULL
+157,"Low Fat","قليل الدسم",approved,86,1,"2023-01-31 17:53:21","2023-01-31 17:53:21",NULL,NULL,NULL,products,NULL
+158,Skimmed,"خالي الدسم",approved,157,1,"2023-01-31 17:53:22","2023-01-31 17:53:22",NULL,NULL,NULL,products,NULL
+159,"Dairy Products","منتجات الألبان",approved,70,1,"2023-01-31 17:53:22","2023-01-31 17:53:22",NULL,NULL,NULL,products,NULL
+160,Snacks,"الوجبات الخفيفة",approved,70,1,"2023-01-31 17:53:22","2023-01-31 17:53:22",NULL,NULL,NULL,products,NULL
+161,Beverages,المشروبات,approved,1,1,"2023-01-31 17:53:23","2023-01-31 17:53:23",NULL,NULL,NULL,products,NULL
+163,"Coffee Beans","حبوب القهوة",approved,162,1,"2023-01-31 17:53:23","2023-01-31 17:53:23",NULL,NULL,NULL,products,NULL
+164,"Instant Coffee","القهوة الفورية",approved,162,1,"2023-01-31 17:53:23","2023-01-31 17:53:23",NULL,NULL,NULL,products,NULL
+165,Juices,العصائر,approved,161,1,"2023-01-31 17:53:23","2023-01-31 17:53:23",NULL,NULL,NULL,products,NULL
+166,"Fresh Juices","عصائر طازجة",approved,165,1,"2023-01-31 17:53:24","2023-01-31 17:53:24",NULL,NULL,NULL,products,NULL
+167,"Long Life Juices","عصائر طويلة الأجل",approved,165,1,"2023-01-31 17:53:24","2023-01-31 17:53:24",NULL,NULL,NULL,products,NULL
+168,"Soft Drinks","المشروبات الغازية",approved,161,1,"2023-01-31 17:53:24","2023-01-31 17:53:24",NULL,NULL,NULL,products,NULL
+169,"Energy drinks","مشروبات الطاقة",approved,168,1,"2023-01-31 17:53:25","2023-01-31 17:53:25",NULL,NULL,NULL,products,NULL
+170,"Flavored soft drinks","مشروبات غازية منكهة",approved,168,1,"2023-01-31 17:53:25","2023-01-31 17:53:25",NULL,NULL,NULL,products,NULL
+171,"Soft drinks in barley","مشروبات غازية بالشعير",approved,1293,1,"2023-01-31 17:53:25","2023-01-31 17:53:25",NULL,NULL,NULL,products,NULL
+172,Water,المياه,approved,161,1,"2023-01-31 17:53:25","2023-01-31 17:53:25",NULL,NULL,NULL,products,NULL
+173,Drinking,"مياه شرب",approved,172,1,"2023-01-31 17:53:26","2023-01-31 17:53:26",NULL,NULL,NULL,products,NULL
+174,Ice,ثلج,approved,172,1,"2023-01-31 17:53:26","2023-01-31 17:53:26",NULL,NULL,NULL,products,NULL
+175,"Sparkling water","مياه غازية",approved,172,1,"2023-01-31 17:53:26","2023-01-31 17:53:26",NULL,NULL,NULL,products,NULL
+176,"Frozen food","الأطعمة المجمدة",approved,1,1,"2023-01-31 17:53:26","2023-01-31 17:53:26",NULL,NULL,NULL,products,NULL
+177,"Ice cream",الآيسكريم,approved,176,1,"2023-01-31 17:53:27","2023-01-31 17:53:27",NULL,NULL,NULL,products,NULL
+178,Pastries,المعجنات,approved,176,1,"2023-01-31 17:53:27","2023-01-31 17:53:27",NULL,NULL,NULL,products,NULL
+179,"Poultry and meat","دواجن و لحوم",approved,171,1,"2023-01-31 17:53:27","2023-01-31 17:53:27",NULL,NULL,NULL,products,NULL
+180,"Ready to Cook Meals","وجبات جاهز للطهي",approved,176,1,"2023-01-31 17:53:27","2023-01-31 17:53:27",NULL,NULL,NULL,products,NULL
+181,Seafood,"مأكولات بحرية",approved,179,1,"2023-01-31 17:53:28","2023-01-31 17:53:28",NULL,NULL,NULL,products,NULL
+182,"Vegetables and fruits","الخضار و الفواكه",approved,176,1,"2023-01-31 17:53:28","2023-01-31 17:53:28",NULL,NULL,NULL,products,NULL
+183,Other,أخرى,approved,1269,1,"2023-01-31 17:53:28","2023-01-31 17:53:28",NULL,NULL,NULL,products,NULL
+184,"Fruits and Vegetables","الفواكه و الخضار",approved,1,1,"2023-01-31 17:53:28","2023-01-31 17:53:28",NULL,NULL,NULL,products,NULL
+185,Dates,التمور,approved,184,1,"2023-01-31 17:53:29","2023-01-31 17:53:29",NULL,NULL,NULL,products,NULL
+186,Fruits,الفواكه,approved,184,1,"2023-01-31 17:53:29","2023-01-31 17:53:29",NULL,NULL,NULL,products,NULL
+187,Dried,مجففة,approved,186,1,"2023-01-31 17:53:29","2023-01-31 17:53:29",NULL,NULL,NULL,products,NULL
+188,Fresh,طازجة,approved,186,1,"2023-01-31 17:53:29","2023-01-31 17:53:29",NULL,NULL,NULL,products,NULL
+189,Vegetables,الخضار,approved,184,1,"2023-01-31 17:53:30","2023-01-31 17:53:30",NULL,NULL,NULL,products,NULL
+190,Dried,مجففة,approved,189,1,"2023-01-31 17:53:30","2023-01-31 17:53:30",NULL,NULL,NULL,products,NULL
+191,Fresh,طازجة,approved,189,1,"2023-01-31 17:53:30","2023-01-31 17:53:30",NULL,NULL,NULL,products,NULL
+192,"Meat, Poultry and Fish","اللحوم و الدواجن و الأسماك",approved,1,1,"2023-01-31 17:53:30","2023-01-31 17:53:30",NULL,NULL,NULL,products,NULL
+193,Egg,البيض,approved,493,1,"2023-01-31 17:53:31","2023-01-31 17:53:31",NULL,NULL,NULL,products,NULL
+194,"Fish and Seafood","الأسماك والمأكولات البحرية",approved,192,1,"2023-01-31 17:53:31","2023-01-31 17:53:31",NULL,NULL,NULL,products,NULL
+195,Local,محلية,approved,194,1,"2023-01-31 17:53:31","2023-01-31 17:53:31",NULL,NULL,NULL,products,NULL
+196,Imported,مستورد,approved,225,1,"2023-01-31 17:53:32","2023-01-31 17:53:32",NULL,NULL,NULL,products,NULL
+197,Local,محلي,approved,1273,1,"2023-01-31 17:53:32","2023-01-31 17:53:32",NULL,NULL,NULL,products,NULL
+198,Imported,مستوردة,approved,194,1,"2023-01-31 17:53:32","2023-01-31 17:53:32",NULL,NULL,NULL,products,NULL
+199,Imported,مستورد,approved,202,1,"2023-01-31 17:53:32","2023-01-31 17:53:32",NULL,NULL,NULL,products,NULL
+200,Local,محلي,approved,203,1,"2023-01-31 17:53:33","2023-01-31 17:53:33",NULL,NULL,NULL,products,NULL
+201,Frozen,مجمدة,approved,197,1,"2023-01-31 17:53:33","2023-01-31 17:53:33",NULL,NULL,NULL,products,NULL
+202,Imported,مستورد,approved,201,1,"2023-01-31 17:53:33","2023-01-31 17:53:33",NULL,NULL,NULL,products,NULL
+203,Local,محلي,approved,201,1,"2023-01-31 17:53:33","2023-01-31 17:53:33",NULL,NULL,NULL,products,NULL
+204,Meat,اللحوم,approved,192,1,"2023-01-31 17:53:34","2023-01-31 17:53:34",NULL,NULL,NULL,products,NULL
+205,Chilled,مبردة,approved,204,1,"2023-01-31 17:53:34","2023-01-31 17:53:34",NULL,NULL,NULL,products,NULL
+207,Imported,مستورد,approved,205,1,"2023-01-31 17:53:34","2023-01-31 17:53:34",NULL,NULL,NULL,products,NULL
+208,Local,محلي,approved,205,1,"2023-01-31 17:53:34","2023-01-31 17:53:34",NULL,NULL,NULL,products,NULL
+209,Fresh,طازجة,approved,199,1,"2023-01-31 17:53:35","2023-01-31 17:53:35",NULL,NULL,NULL,products,NULL
+210,Imported,مستورد,approved,209,1,"2023-01-31 17:53:35","2023-01-31 17:53:35",NULL,NULL,NULL,products,NULL
+211,Local,محلي,approved,209,1,"2023-01-31 17:53:35","2023-01-31 17:53:35",NULL,NULL,NULL,products,NULL
+212,Frozen,مجمدة,approved,204,1,"2023-01-31 17:53:35","2023-01-31 17:53:35",NULL,NULL,NULL,products,NULL
+213,Imported,مستورد,approved,212,1,"2023-01-31 17:53:36","2023-01-31 17:53:36",NULL,NULL,NULL,products,NULL
+214,Local,محلي,approved,212,1,"2023-01-31 17:53:36","2023-01-31 17:53:36",NULL,NULL,NULL,products,NULL
+215,Poultry,الدواجن,approved,192,1,"2023-01-31 17:53:36","2023-01-31 17:53:36",NULL,NULL,NULL,products,NULL
+216,Chilled,مبردة,approved,215,1,"2023-01-31 17:53:36","2023-01-31 17:53:36",NULL,NULL,NULL,products,NULL
+217,Imported,مستورد,approved,216,1,"2023-01-31 17:53:36","2023-01-31 17:53:36",NULL,NULL,NULL,products,NULL
+218,Local,محلي,approved,216,1,"2023-01-31 17:53:37","2023-01-31 17:53:37",NULL,NULL,NULL,products,NULL
+219,Egg,بيض,approved,215,1,"2023-01-31 17:53:37","2023-01-31 17:53:37",NULL,NULL,NULL,products,NULL
+220,Imported,مستورد,approved,210,1,"2023-01-31 17:53:37","2023-01-31 17:53:37",NULL,NULL,NULL,products,NULL
+221,Local,محلي,approved,219,1,"2023-01-31 17:53:37","2023-01-31 17:53:37",NULL,NULL,NULL,products,NULL
+222,Frozen,مجمدة,approved,215,1,"2023-01-31 17:53:38","2023-01-31 17:53:38",NULL,NULL,NULL,products,NULL
+223,Imported,مستورد,approved,222,1,"2023-01-31 17:53:38","2023-01-31 17:53:38",NULL,NULL,NULL,products,NULL
+224,Local,محلي,approved,222,1,"2023-01-31 17:53:38","2023-01-31 17:53:38",NULL,NULL,NULL,products,NULL
+225,Seafood,"المأكولات البحرية",approved,193,1,"2023-01-31 17:53:39","2023-01-31 17:53:39",NULL,NULL,NULL,products,NULL
+228,Flour,طحين,approved,227,1,"2023-01-31 17:53:39","2023-01-31 17:53:39",NULL,NULL,NULL,products,NULL
+229,"Starch & Baking Powder","نشاء و بايكنج باودر",approved,227,1,"2023-01-31 17:53:39","2023-01-31 17:53:39",NULL,NULL,NULL,products,NULL
+230,Other,أخرى,approved,1243,1,"2023-01-31 17:53:39","2023-01-31 17:53:39",NULL,NULL,NULL,products,NULL
+232,"Chocolate jar","شوكولاته قابلة للدهن",approved,231,1,"2023-01-31 17:53:40","2023-01-31 17:53:40",NULL,NULL,NULL,products,NULL
+233,Cornflakes,"حبوب الإفطار",approved,231,1,"2023-01-31 17:53:40","2023-01-31 17:53:40",NULL,NULL,NULL,products,NULL
+234,Halawa,"حلاوة طحينية",approved,231,1,"2023-01-31 17:53:40","2023-01-31 17:53:40",NULL,NULL,NULL,products,NULL
+235,Honey,عسل,approved,231,1,"2023-01-31 17:53:40","2023-01-31 17:53:40",NULL,NULL,NULL,products,NULL
+236,Jam,مربى,approved,231,1,"2023-01-31 17:53:41","2023-01-31 17:53:41",NULL,NULL,NULL,products,NULL
+237,Oat,شوفان,approved,231,1,"2023-01-31 17:53:41","2023-01-31 17:53:41",NULL,NULL,NULL,products,NULL
+238,"Peanut Butter","زبدة الفول السوداني",approved,231,1,"2023-01-31 17:53:41","2023-01-31 17:53:41",NULL,NULL,NULL,products,NULL
+239,Other,أخرى,approved,230,1,"2023-01-31 17:53:41","2023-01-31 17:53:41",NULL,NULL,NULL,products,NULL
+241,"Meat and chicken","لحوم و دجاج",approved,181,1,"2023-01-31 17:53:42","2023-01-31 17:53:42",NULL,NULL,NULL,products,NULL
+242,"Tuna and fish","تونة و أسماك",approved,240,1,"2023-01-31 17:53:42","2023-01-31 17:53:42",NULL,NULL,NULL,products,NULL
+243,"Vegetables and legumes","خضار و بقوليات",approved,240,1,"2023-01-31 17:53:42","2023-01-31 17:53:42",NULL,NULL,NULL,products,NULL
+245,"Artificial flavors","نكهات صناعية",approved,244,1,"2023-01-31 17:53:42","2023-01-31 17:53:42",NULL,NULL,NULL,products,NULL
+246,"Natural flavors","نكهات طبيعية",approved,244,1,"2023-01-31 17:53:43","2023-01-31 17:53:43",NULL,NULL,NULL,products,NULL
+247,Other,أخرى,approved,1263,1,"2023-01-31 17:53:43","2023-01-31 17:53:43",NULL,NULL,NULL,products,NULL
+248,"Hot drinks and sugar.","مشروبات ساخنة و سكر",approved,1300,1,"2023-01-31 17:53:43","2023-01-31 17:53:43",NULL,NULL,NULL,products,NULL
+253,Coffee,قهوة,approved,248,1,"2023-01-31 17:53:44","2023-01-31 17:53:44",NULL,NULL,NULL,products,NULL
+254,"Arabic Coffee","قهوة عربية",approved,253,1,"2023-01-31 17:53:44","2023-01-31 17:53:44",NULL,NULL,NULL,products,NULL
+256,"Black Coffee","قهوة سوداء",approved,253,1,"2023-01-31 17:53:44","2023-01-31 17:53:44",NULL,NULL,NULL,products,NULL
+257,"Turkish Coffee","قهوة تركية",approved,253,1,"2023-01-31 17:53:45","2023-01-31 17:53:45",NULL,NULL,NULL,products,NULL
+258,"Coffee Whitener","مبيض قهوة",approved,248,1,"2023-01-31 17:53:45","2023-01-31 17:53:45",NULL,NULL,NULL,products,NULL
+260,Sugar,سكر,approved,248,1,"2023-01-31 17:53:45","2023-01-31 17:53:45",NULL,NULL,NULL,products,NULL
+261,Tea,شاي,approved,248,1,"2023-01-31 17:53:45","2023-01-31 17:53:45",NULL,NULL,NULL,products,NULL
+262,Pasta,مكرونة,approved,250,1,"2023-01-31 17:53:46","2023-01-31 17:53:46",NULL,NULL,NULL,products,NULL
+263,Rice,أرز,approved,250,1,"2023-01-31 17:53:46","2023-01-31 17:53:46",NULL,NULL,NULL,products,NULL
+264,Sauces,صلصات,approved,251,1,"2023-01-31 17:53:46","2023-01-31 17:53:46",NULL,NULL,NULL,products,NULL
+265,Spices,"توابل و بهارات",approved,251,1,"2023-01-31 17:53:46","2023-01-31 17:53:46",NULL,NULL,NULL,products,NULL
+266,Other,أخرى,approved,1262,1,"2023-01-31 17:53:46","2023-01-31 17:53:46",NULL,NULL,NULL,products,NULL
+267,Noodles,الشعيرية,approved,252,1,"2023-01-31 17:53:47","2023-01-31 17:53:47",NULL,NULL,NULL,products,NULL
+268,Soup,الحساء,approved,252,1,"2023-01-31 17:53:47","2023-01-31 17:53:47",NULL,NULL,NULL,products,NULL
+269,Snacks,"الأطعمة الخفيفة",approved,1,1,"2023-01-31 17:53:47","2023-01-31 17:53:47",NULL,NULL,NULL,products,NULL
+270,Biscuits,البساكيت,approved,269,1,"2023-01-31 17:53:47","2023-01-31 17:53:47",NULL,NULL,NULL,products,NULL
+272,"Packed Chocolate","الشوكولاتة المغلفة",approved,271,1,"2023-01-31 17:53:48","2023-01-31 17:53:48",NULL,NULL,NULL,products,NULL
+273,"Ice cream",المثلجات,approved,258,1,"2023-01-31 17:53:48","2023-01-31 17:53:48",NULL,NULL,NULL,products,NULL
+275,Other,أخرى,approved,266,1,"2023-01-31 17:53:48","2023-01-31 17:53:48",NULL,NULL,NULL,products,NULL
+276,Medical,الطبية,approved,39,1,"2023-01-31 17:53:48","2023-01-31 17:53:48",NULL,NULL,NULL,products,NULL
+277,Formal,الرسمية,approved,247,1,"2023-01-31 17:53:49","2023-01-31 17:53:49",NULL,NULL,NULL,products,NULL
+278,"Safe and supported","الآمنة و المدعمة",approved,35,1,"2023-01-31 17:53:49","2023-01-31 17:53:49",NULL,NULL,NULL,products,NULL
+279,Other,أخرى,approved,1267,0,"2023-01-31 17:53:49","2023-01-31 17:53:49",NULL,NULL,NULL,products,NULL
+280,Hotels,فنادق,approved,25,1,"2023-01-31 17:53:49","2023-01-31 17:53:49",NULL,NULL,NULL,products,NULL
+281,Military,عسكرية,approved,25,1,"2023-01-31 17:53:50","2023-01-31 17:53:50",NULL,NULL,NULL,products,NULL
+282,Restaurants,مطاعم,approved,25,1,"2023-01-31 17:53:50","2023-01-31 17:53:50",NULL,NULL,NULL,products,NULL
+283,"Security and safety","امن و سلامة",approved,25,1,"2023-01-31 17:53:50","2023-01-31 17:53:50",NULL,NULL,NULL,products,NULL
+284,"The centres are","المراكز الصية",approved,25,1,"2023-01-31 17:53:51","2023-01-31 17:53:51",NULL,NULL,NULL,products,NULL
+285,Others,اخرى,approved,25,1,"2023-01-31 17:53:51","2023-01-31 17:53:51",NULL,NULL,NULL,products,NULL
+286,"Laboratory materials","مواد المختبر",approved,3,1,"2023-01-31 17:53:51","2023-01-31 17:53:51",NULL,NULL,NULL,products,NULL
+287,"Blood transfusion","نقل الدم",approved,286,1,"2023-01-31 17:53:52","2023-01-31 17:53:52",NULL,NULL,NULL,products,NULL
+288,"Cell science","علم الخلايا",approved,286,1,"2023-01-31 17:53:52","2023-01-31 17:53:52",NULL,NULL,NULL,products,NULL
+289,Chemistry,الكيمياء,approved,286,1,"2023-01-31 17:53:52","2023-01-31 17:53:52",NULL,NULL,NULL,products,NULL
+290,Hematology,"علم الدم و المرضية",approved,286,1,"2023-01-31 17:53:52","2023-01-31 17:53:52",NULL,NULL,NULL,products,NULL
+291,Immunology,"علم المناعة",approved,286,1,"2023-01-31 17:53:53","2023-01-31 17:53:53",NULL,NULL,NULL,products,NULL
+292,Microbiology,"علم الاحياء الدقيقة",approved,286,1,"2023-01-31 17:53:53","2023-01-31 17:53:53",NULL,NULL,NULL,products,NULL
+293,"Surgical Pathology","علم الامراض الجراحي",approved,286,1,"2023-01-31 17:53:53","2023-01-31 17:53:53",NULL,NULL,NULL,products,NULL
+294,Other,أخرى,approved,286,1,"2023-01-31 17:53:53","2023-01-31 17:53:53",NULL,NULL,NULL,products,NULL
+295,"Medical and surgical instruments","الادوات الطبية و الجراحية",approved,3,1,"2023-01-31 17:53:53","2023-01-31 17:53:53",NULL,NULL,NULL,products,NULL
+296,"Bones and joints","العظام و المفاصل",approved,295,1,"2023-01-31 17:53:54","2023-01-31 17:53:54",NULL,NULL,NULL,products,NULL
+297,Dermatology,الجلدية,approved,295,1,"2023-01-31 17:53:54","2023-01-31 17:53:54",NULL,NULL,NULL,products,NULL
+298,Eyes,العيون,approved,295,1,"2023-01-31 17:53:54","2023-01-31 17:53:54",NULL,NULL,NULL,products,NULL
+299,Heart,القلب,approved,295,1,"2023-01-31 17:53:54","2023-01-31 17:53:54",NULL,NULL,NULL,products,NULL
+300,Surgeries,العمليات,approved,295,1,"2023-01-31 17:53:55","2023-01-31 17:53:55",NULL,NULL,NULL,products,NULL
+301,"Women and childbirth","النساء و الولادة",approved,295,1,"2023-01-31 17:53:55","2023-01-31 17:53:55",NULL,NULL,NULL,products,NULL
+302,Other,أخرى,approved,295,1,"2023-01-31 17:53:55","2023-01-31 17:53:55",NULL,NULL,NULL,products,NULL
+303,"Medical consumables","مستهلكات طبية",approved,3,1,"2023-01-31 17:53:55","2023-01-31 17:53:55",NULL,NULL,NULL,products,NULL
+304,"Bones and joints","العظام و المفاصل",approved,303,1,"2023-01-31 17:53:56","2023-01-31 17:53:56",NULL,NULL,NULL,products,NULL
+305,"Brain and nerves","المخ و الاعصاب",approved,303,1,"2023-01-31 17:53:56","2023-01-31 17:53:56",NULL,NULL,NULL,products,NULL
+306,Chest,الصدر,approved,303,1,"2023-01-31 17:53:56","2023-01-31 17:53:56",NULL,NULL,NULL,products,NULL
+307,"Children and newborns","الاطفال و حديثي الولادة",approved,303,1,"2023-01-31 17:53:56","2023-01-31 17:53:56",NULL,NULL,NULL,products,NULL
+308,Clinics,العيادات,approved,303,1,"2023-01-31 17:53:57","2023-01-31 17:53:57",NULL,NULL,NULL,products,NULL
+309,Cosmetics,التجميل,approved,303,1,"2023-01-31 17:53:57","2023-01-31 17:53:57",NULL,NULL,NULL,products,NULL
+310,Dermatology,الجلدية,approved,303,1,"2023-01-31 17:53:57","2023-01-31 17:53:57",NULL,NULL,NULL,products,NULL
+311,Diabetes,السكري,approved,303,1,"2023-01-31 17:53:57","2023-01-31 17:53:57",NULL,NULL,NULL,products,NULL
+312,Emergency,الطوارئ,approved,303,1,"2023-01-31 17:53:58","2023-01-31 17:53:58",NULL,NULL,NULL,products,NULL
+313,"Esoteric and digestive system","الباطنية و الجهاز الهضمي",approved,303,1,"2023-01-31 17:53:58","2023-01-31 17:53:58",NULL,NULL,NULL,products,NULL
+314,Eyes,العيون,approved,303,1,"2023-01-31 17:53:58","2023-01-31 17:53:58",NULL,NULL,NULL,products,NULL
+315,"General surgery and endoscopy","الجراحة العامة و المناظير",approved,303,1,"2023-01-31 17:53:58","2023-01-31 17:53:58",NULL,NULL,NULL,products,NULL
+316,"Heart and blood vessels","القلب و الاوعية الدموية",approved,303,1,"2023-01-31 17:53:59","2023-01-31 17:53:59",NULL,NULL,NULL,products,NULL
+317,"Infection control","مكافحة العدوى",approved,303,1,"2023-01-31 17:53:59","2023-01-31 17:53:59",NULL,NULL,NULL,products,NULL
+318,"Kidney and dialysis","الكلى و الغسيل الكلوي",approved,303,1,"2023-01-31 17:53:59","2023-01-31 17:53:59",NULL,NULL,NULL,products,NULL
+319,Lab,المختبر,approved,303,1,"2023-01-31 17:53:59","2023-01-31 17:53:59",NULL,NULL,NULL,products,NULL
+320,"Nose, ear and throat","الانف و الاذن و الحنجرة",approved,303,1,"2023-01-31 17:54:00","2023-01-31 17:54:00",NULL,NULL,NULL,products,NULL
+321,Physiotherapy,"العلاج الطبيعي",approved,303,1,"2023-01-31 17:54:00","2023-01-31 17:54:00",NULL,NULL,NULL,products,NULL
+322,PPE,PPE,approved,303,1,"2023-01-31 17:54:00","2023-01-31 17:54:00",NULL,NULL,NULL,products,NULL
+323,Surgery,الجراحة,approved,303,1,"2023-01-31 17:54:00","2023-01-31 17:54:00",NULL,NULL,NULL,products,NULL
+324,Teeth,الأسنان,approved,303,1,"2023-01-31 17:54:01","2023-01-31 17:54:01",NULL,NULL,NULL,products,NULL
+325,"Urinary tract","المسالك البولية",approved,303,1,"2023-01-31 17:54:01","2023-01-31 17:54:01",NULL,NULL,NULL,products,NULL
+326,"Women and childbirth","النساء و الولادة",approved,303,1,"2023-01-31 17:54:01","2023-01-31 17:54:01",NULL,NULL,NULL,products,NULL
+327,X-ray,الأشعة,approved,303,1,"2023-01-31 17:54:01","2023-01-31 17:54:01",NULL,NULL,NULL,products,NULL
+328,Other,أخرى,approved,303,1,"2023-01-31 17:54:02","2023-01-31 17:54:02",NULL,NULL,NULL,products,NULL
+329,"Bags and medical waste","الاكياس و النفايات الطبية",approved,317,1,"2023-01-31 17:54:02","2023-01-31 17:54:02",NULL,NULL,NULL,products,NULL
+330,"Surgery Soap","صابون العمليات",approved,317,1,"2023-01-31 17:54:02","2023-01-31 17:54:02",NULL,NULL,NULL,products,NULL
+331,Sterile,معقمات,approved,317,1,"2023-01-31 17:54:02","2023-01-31 17:54:02",NULL,NULL,NULL,products,NULL
+332,"Face Mask",كمامات,approved,317,1,"2023-01-31 17:54:03","2023-01-31 17:54:03",NULL,NULL,NULL,products,NULL
+333,"Medical devices and maintenance","الاجهزة الطبية و الصيانة",approved,3,1,"2023-01-31 17:54:03","2023-01-31 17:54:03",NULL,NULL,NULL,products,NULL
+334,"Examination and reports","الفحص و التقارير",approved,333,1,"2023-01-31 17:54:03","2023-01-31 17:54:03",NULL,NULL,NULL,products,NULL
+335,"Insulation rooms","غرف العزل",approved,334,1,"2023-01-31 17:54:03","2023-01-31 17:54:03",NULL,NULL,NULL,products,NULL
+336,"Medical devices","الأجهزة الطبية",approved,334,1,"2023-01-31 17:54:04","2023-01-31 17:54:04",NULL,NULL,NULL,products,NULL
+339,"X Ray",الأشعة,approved,334,1,"2023-01-31 17:54:04","2023-01-31 17:54:04",NULL,NULL,NULL,products,NULL
+340,Other,أخرى,approved,334,1,"2023-01-31 17:54:04","2023-01-31 17:54:04",NULL,NULL,NULL,products,NULL
+341,"Maintenance of equipment","صيانة الاجهزة",approved,333,1,"2023-01-31 17:54:05","2023-01-31 17:54:05",NULL,NULL,NULL,products,NULL
+342,"Medical devices","الاجهزة الطبية",approved,333,1,"2023-01-31 17:54:05","2023-01-31 17:54:05",NULL,NULL,NULL,products,NULL
+343,Bone,العظام,approved,342,1,"2023-01-31 17:54:05","2023-01-31 17:54:05",NULL,NULL,NULL,products,NULL
+344,"Brain and nerves","المخ و الاعصاب",approved,342,1,"2023-01-31 17:54:05","2023-01-31 17:54:05",NULL,NULL,NULL,products,NULL
+345,Chest,الصدر,approved,342,1,"2023-01-31 17:54:05","2023-01-31 17:54:05",NULL,NULL,NULL,products,NULL
+346,Clinics,العيادات,approved,342,1,"2023-01-31 17:54:06","2023-01-31 17:54:06",NULL,NULL,NULL,products,NULL
+347,Cosmetics,التجميل,approved,342,1,"2023-01-31 17:54:06","2023-01-31 17:54:06",NULL,NULL,NULL,products,NULL
+348,Dermatology,الجلدية,approved,342,1,"2023-01-31 17:54:06","2023-01-31 17:54:06",NULL,NULL,NULL,products,NULL
+349,Diabetes,السكري,approved,342,1,"2023-01-31 17:54:07","2023-01-31 17:54:07",NULL,NULL,NULL,products,NULL
+350,Dialysis,"غسيل الكلى",approved,342,1,"2023-01-31 17:54:07","2023-01-31 17:54:07",NULL,NULL,NULL,products,NULL
+351,Emergency,الطوارئ,approved,342,1,"2023-01-31 17:54:07","2023-01-31 17:54:07",NULL,NULL,NULL,products,NULL
+352,Endoscopy,المناظير,approved,342,1,"2023-01-31 17:54:07","2023-01-31 17:54:07",NULL,NULL,NULL,products,NULL
+353,Eyes,العيون,approved,342,1,"2023-01-31 17:54:07","2023-01-31 17:54:07",NULL,NULL,NULL,products,NULL
+354,Heart,القلب,approved,342,1,"2023-01-31 17:54:08","2023-01-31 17:54:08",NULL,NULL,NULL,products,NULL
+355,"Infection control","مكافحة العدوى",approved,342,1,"2023-01-31 17:54:08","2023-01-31 17:54:08",NULL,NULL,NULL,products,NULL
+356,"Measuring devices","اجهزة القياس",approved,355,1,"2023-01-31 17:54:08","2023-01-31 17:54:08",NULL,NULL,NULL,products,NULL
+357,"Sterilization devices","اجهزة التعقيم",approved,355,1,"2023-01-31 17:54:08","2023-01-31 17:54:08",NULL,NULL,NULL,products,NULL
+358,Lab,المختبر,approved,342,1,"2023-01-31 17:54:09","2023-01-31 17:54:09",NULL,NULL,NULL,products,NULL
+359,"Medical refrigerators","الثلاجات الطبية",approved,342,1,"2023-01-31 17:54:09","2023-01-31 17:54:09",NULL,NULL,NULL,products,NULL
+360,Cooling,تبريد,approved,359,1,"2023-01-31 17:54:09","2023-01-31 17:54:09",NULL,NULL,NULL,products,NULL
+361,Freeze,تجميد,approved,359,1,"2023-01-31 17:54:10","2023-01-31 17:54:10",NULL,NULL,NULL,products,NULL
+362,"Nose, ear and throat","الانف و الاذن و الحنجرة",approved,342,1,"2023-01-31 17:54:10","2023-01-31 17:54:10",NULL,NULL,NULL,products,NULL
+363,Physiotherapy,"العلاج الطبيعي",approved,342,1,"2023-01-31 17:54:10","2023-01-31 17:54:10",NULL,NULL,NULL,products,NULL
+364,Surgeries,العمليات,approved,342,1,"2023-01-31 17:54:10","2023-01-31 17:54:10",NULL,NULL,NULL,products,NULL
+366,Teeth,الأسنان,approved,342,1,"2023-01-31 17:54:11","2023-01-31 17:54:11",NULL,NULL,NULL,products,NULL
+367,"Urinary tract","المسالك البولية",approved,342,1,"2023-01-31 17:54:11","2023-01-31 17:54:11",NULL,NULL,NULL,products,NULL
+368,"Women and childbirth","النساء و الولادة",approved,342,1,"2023-01-31 17:54:11","2023-01-31 17:54:11",NULL,NULL,NULL,products,NULL
+369,Other,أخرى,approved,342,1,"2023-01-31 17:54:12","2023-01-31 17:54:12",NULL,NULL,NULL,products,NULL
+370,"Medical gas","الغاز الطبي",approved,333,1,"2023-01-31 17:54:12","2023-01-31 17:54:12",NULL,NULL,NULL,products,NULL
+371,"Gas cylinders","اسطوانات الغاز",approved,370,1,"2023-01-31 17:54:12","2023-01-31 17:54:12",NULL,NULL,NULL,products,NULL
+372,"Gas stations","محطات الغاز",approved,370,1,"2023-01-31 17:54:12","2023-01-31 17:54:12",NULL,NULL,NULL,products,NULL
+373,Refilling.,"إعادة التعبئة",approved,370,1,"2023-01-31 17:54:13","2023-01-31 17:54:13",NULL,NULL,NULL,products,NULL
+374,Other,أخرى,approved,370,1,"2023-01-31 17:54:13","2023-01-31 17:54:13",NULL,NULL,NULL,products,NULL
+375,Spare,"قطع الغيار",approved,333,1,"2023-01-31 17:54:13","2023-01-31 17:54:13",NULL,NULL,NULL,products,NULL
+376,"Medical furniture","الاثاث الطبي",approved,3,1,"2023-01-31 17:54:13","2023-01-31 17:54:13",NULL,NULL,NULL,products,NULL
+377,Beds,الأسرة,approved,376,1,"2023-01-31 17:54:14","2023-01-31 17:54:14",NULL,NULL,NULL,products,NULL
+378,Ambulance,الإسعاف,approved,377,1,"2023-01-31 17:54:14","2023-01-31 17:54:14",NULL,NULL,NULL,products,NULL
+379,Emergency,الطوارئ,approved,377,1,"2023-01-31 17:54:14","2023-01-31 17:54:14",NULL,NULL,NULL,products,NULL
+380,Hypnotherapy,التنويم,approved,377,1,"2023-01-31 17:54:14","2023-01-31 17:54:14",NULL,NULL,NULL,products,NULL
+381,Transport,النقل,approved,377,1,"2023-01-31 17:54:15","2023-01-31 17:54:15",NULL,NULL,NULL,products,NULL
+382,Other,أخرى,approved,377,1,"2023-01-31 17:54:15","2023-01-31 17:54:15",NULL,NULL,NULL,products,NULL
+383,Chairs,الكراسي,approved,376,1,"2023-01-31 17:54:15","2023-01-31 17:54:15",NULL,NULL,NULL,products,NULL
+384,Disabled,المعاقين,approved,383,1,"2023-01-31 17:54:16","2023-01-31 17:54:16",NULL,NULL,NULL,products,NULL
+385,Employee,الموظفين,approved,383,1,"2023-01-31 17:54:16","2023-01-31 17:54:16",NULL,NULL,NULL,products,NULL
+386,Nurse,الممرضين,approved,383,1,"2023-01-31 17:54:16","2023-01-31 17:54:16",NULL,NULL,NULL,products,NULL
+387,Waiting,الانتظار,approved,383,1,"2023-01-31 17:54:16","2023-01-31 17:54:16",NULL,NULL,NULL,products,NULL
+388,Other,أخرى,approved,383,1,"2023-01-31 17:54:17","2023-01-31 17:54:17",NULL,NULL,NULL,products,NULL
+390,Boards,لوحات,approved,389,1,"2023-01-31 17:54:17","2023-01-31 17:54:17",NULL,NULL,NULL,products,NULL
+391,"Carry and evacuate","حمل و إخلاء",approved,389,1,"2023-01-31 17:54:17","2023-01-31 17:54:17",NULL,NULL,NULL,products,NULL
+393,Hypnosis,التنويم,approved,392,1,"2023-01-31 17:54:18","2023-01-31 17:54:18",NULL,NULL,NULL,products,NULL
+394,Isolation,العزل,approved,392,1,"2023-01-31 17:54:18","2023-01-31 17:54:18",NULL,NULL,NULL,products,NULL
+395,pharmaceutical,الأدوية,approved,392,1,"2023-01-31 17:54:18","2023-01-31 17:54:18",NULL,NULL,NULL,products,NULL
+396,Surgeries,العمليات,approved,392,1,"2023-01-31 17:54:18","2023-01-31 17:54:18",NULL,NULL,NULL,products,NULL
+397,X-rays,الأشعة,approved,392,1,"2023-01-31 17:54:19","2023-01-31 17:54:19",NULL,NULL,NULL,products,NULL
+399,"Medical files","الملفات الطبية",approved,398,1,"2023-01-31 17:54:19","2023-01-31 17:54:19",NULL,NULL,NULL,products,NULL
+400,Fixed,ثابتة,approved,399,1,"2023-01-31 17:54:19","2023-01-31 17:54:19",NULL,NULL,NULL,products,NULL
+401,Moving,متحركة,approved,399,1,"2023-01-31 17:54:19","2023-01-31 17:54:19",NULL,NULL,NULL,products,NULL
+402,Medicines,الادوية,approved,398,1,"2023-01-31 17:54:19","2023-01-31 17:54:19",NULL,NULL,NULL,products,NULL
+403,"External Pharmacy","الصيدلية الداخلية",approved,402,1,"2023-01-31 17:54:20","2023-01-31 17:54:20",NULL,NULL,NULL,products,NULL
+404,"In-house pharmacy","الصيدلية الخارجية",approved,402,1,"2023-01-31 17:54:20","2023-01-31 17:54:20",NULL,NULL,NULL,products,NULL
+405,"Medical materials","المعدات الطبية",approved,402,1,"2023-01-31 17:54:20","2023-01-31 17:54:20",NULL,NULL,NULL,products,NULL
+406,"Shelves for medical departments","المواد الطبية",approved,398,1,"2023-01-31 17:54:20","2023-01-31 17:54:20",NULL,NULL,NULL,products,NULL
+407,"Shelves for warehouses","ارفف مستودعات",approved,406,1,"2023-01-31 17:54:21","2023-01-31 17:54:21",NULL,NULL,NULL,products,NULL
+408,Other,أخرى,approved,406,1,"2023-01-31 17:54:21","2023-01-31 17:54:21",NULL,NULL,NULL,products,NULL
+410,Emergency,الطوارئ,approved,409,1,"2023-01-31 17:54:21","2023-01-31 17:54:21",NULL,NULL,NULL,products,NULL
+411,Manufacturing,التصنيع,approved,409,1,"2023-01-31 17:54:21","2023-01-31 17:54:21",NULL,NULL,NULL,products,NULL
+412,Medicine,الأدوية,approved,409,1,"2023-01-31 17:54:22","2023-01-31 17:54:22",NULL,NULL,NULL,products,NULL
+413,Service,الخدمة,approved,409,1,"2023-01-31 17:54:22","2023-01-31 17:54:22",NULL,NULL,NULL,products,NULL
+414,"Stainless Steel Cars","عربات ستاينلس ستيل",approved,409,1,"2023-01-31 17:54:22","2023-01-31 17:54:22",NULL,NULL,NULL,products,NULL
+416,"Family food service","خدمة الطعام للاسرة",approved,415,1,"2023-01-31 17:54:23","2023-01-31 17:54:23",NULL,NULL,NULL,products,NULL
+417,"Medical tables","طاولات طبية",approved,415,1,"2023-01-31 17:54:23","2023-01-31 17:54:23",NULL,NULL,NULL,products,NULL
+418,Other,أخرى,approved,415,1,"2023-01-31 17:54:23","2023-01-31 17:54:23",NULL,NULL,NULL,products,NULL
+421,Doors,الأبواب,approved,376,1,"2023-01-31 17:54:23","2023-01-31 17:54:23",NULL,NULL,NULL,products,NULL
+423,Designs,تصميم,approved,421,1,"2023-01-31 17:54:24","2023-01-31 17:54:24",NULL,NULL,NULL,products,NULL
+424,Emergency,الطوارئ,approved,421,1,"2023-01-31 17:54:24","2023-01-31 17:54:24",NULL,NULL,NULL,products,NULL
+426,Movable,متحركة,approved,421,1,"2023-01-31 17:54:24","2023-01-31 17:54:24",NULL,NULL,NULL,products,NULL
+427,Rooms,"الغرف و العمليات",approved,421,1,"2023-01-31 17:54:24","2023-01-31 17:54:24",NULL,NULL,NULL,products,NULL
+428,Evacuation,الإخلاء,approved,376,1,"2023-01-31 17:54:25","2023-01-31 17:54:25",NULL,NULL,NULL,products,NULL
+429,Boards,لوحات,approved,428,1,"2023-01-31 17:54:25","2023-01-31 17:54:25",NULL,NULL,NULL,products,NULL
+430,"Carry and evacuate","حمل و إخلاء",approved,428,1,"2023-01-31 17:54:25","2023-01-31 17:54:25",NULL,NULL,NULL,products,NULL
+431,Rooms,الغرف,approved,376,1,"2023-01-31 17:54:25","2023-01-31 17:54:25",NULL,NULL,NULL,products,NULL
+432,Hypnosis,التنويم,approved,431,1,"2023-01-31 17:54:26","2023-01-31 17:54:26",NULL,NULL,NULL,products,NULL
+433,Isolation,العزل,approved,431,1,"2023-01-31 17:54:26","2023-01-31 17:54:26",NULL,NULL,NULL,products,NULL
+434,pharmaceutical,الأدوية,approved,431,1,"2023-01-31 17:54:26","2023-01-31 17:54:26",NULL,NULL,NULL,products,NULL
+435,Surgeries,العمليات,approved,431,1,"2023-01-31 17:54:27","2023-01-31 17:54:27",NULL,NULL,NULL,products,NULL
+436,X-rays,الأشعة,approved,431,1,"2023-01-31 17:54:27","2023-01-31 17:54:27",NULL,NULL,NULL,products,NULL
+437,Shelves,الأرفف,approved,376,1,"2023-01-31 17:54:27","2023-01-31 17:54:27",NULL,NULL,NULL,products,NULL
+438,"Medical files","الملفات الطبية",approved,437,1,"2023-01-31 17:54:27","2023-01-31 17:54:27",NULL,NULL,NULL,products,NULL
+439,Medicines,الأدوية,approved,437,1,"2023-01-31 17:54:28","2023-01-31 17:54:28",NULL,NULL,NULL,products,NULL
+440,"Shelves for medical departments","المواد الطبية",approved,437,1,"2023-01-31 17:54:28","2023-01-31 17:54:28",NULL,NULL,NULL,products,NULL
+441,Fixed,ثابتة,approved,438,1,"2023-01-31 17:54:28","2023-01-31 17:54:28",NULL,NULL,NULL,products,NULL
+442,Moving,متحركة,approved,438,1,"2023-01-31 17:54:28","2023-01-31 17:54:28",NULL,NULL,NULL,products,NULL
+443,"External Pharmacy","الصيدلية الخارجية",approved,439,1,"2023-01-31 17:54:29","2023-01-31 17:54:29",NULL,NULL,NULL,products,NULL
+444,"In-house pharmacy","الصيدلية الداخلية",approved,439,1,"2023-01-31 17:54:29","2023-01-31 17:54:29",NULL,NULL,NULL,products,NULL
+445,"Medical materials","المعدات الطبية",approved,439,1,"2023-01-31 17:54:29","2023-01-31 17:54:29",NULL,NULL,NULL,products,NULL
+446,"Shelves for warehouses","ارفف مستودعات",approved,440,1,"2023-01-31 17:54:30","2023-01-31 17:54:30",NULL,NULL,NULL,products,NULL
+447,Other,أخرى,approved,440,1,"2023-01-31 17:54:30","2023-01-31 17:54:30",NULL,NULL,NULL,products,NULL
+448,stroller,العربات,approved,376,1,"2023-01-31 17:54:30","2023-01-31 17:54:30",NULL,NULL,NULL,products,NULL
+449,Emergency,الطوارئ,approved,448,1,"2023-01-31 17:54:30","2023-01-31 17:54:30",NULL,NULL,NULL,products,NULL
+450,Manufacturing,التصنيع,approved,448,1,"2023-01-31 17:54:31","2023-01-31 17:54:31",NULL,NULL,NULL,products,NULL
+451,Medicine,"عربة الأدوية",approved,448,1,"2023-01-31 17:54:31","2023-01-31 17:54:31",NULL,NULL,NULL,products,NULL
+452,Service,الخدمة,approved,448,1,"2023-01-31 17:54:31","2023-01-31 17:54:31",NULL,NULL,NULL,products,NULL
+453,"Steinels Steel Cars","عربات ستاينلس ستيل",approved,448,1,"2023-01-31 17:54:31","2023-01-31 17:54:31",NULL,NULL,NULL,products,NULL
+454,Tables,طاولات,approved,376,1,"2023-01-31 17:54:32","2023-01-31 17:54:32",NULL,NULL,NULL,products,NULL
+455,"Family food service","خدمة الطعام للاسرة",approved,454,1,"2023-01-31 17:54:32","2023-01-31 17:54:32",NULL,NULL,NULL,products,NULL
+456,"Medical tables","طاولات طبية",approved,454,1,"2023-01-31 17:54:32","2023-01-31 17:54:32",NULL,NULL,NULL,products,NULL
+457,Other,أخرى,approved,454,1,"2023-01-31 17:54:32","2023-01-31 17:54:32",NULL,NULL,NULL,products,NULL
+458,"Upper unit of the bed","الوحدة العلوية للسرير",approved,376,1,"2023-01-31 17:54:33","2023-01-31 17:54:33",NULL,NULL,NULL,products,NULL
+459,Pharmacy,الصيدلية,approved,3,1,"2023-01-31 17:54:33","2023-01-31 17:54:33",NULL,NULL,NULL,products,NULL
+460,Accessories,مستلزمات,approved,459,1,"2023-01-31 17:54:33","2023-01-31 17:54:33",NULL,NULL,NULL,products,NULL
+461,"Care and Beauty","العناية و الجمال",approved,459,1,"2023-01-31 17:54:33","2023-01-31 17:54:33",NULL,NULL,NULL,products,NULL
+462,"Drug medications and treatments","الادويه  المخدرة و العلاجات",approved,459,1,"2023-01-31 17:54:34","2023-01-31 17:54:34",NULL,NULL,NULL,products,NULL
+463,"Vitamins and supplements","الفيتامينات و المكملات الغذائية",approved,459,1,"2023-01-31 17:54:34","2023-01-31 17:54:34",NULL,NULL,NULL,products,NULL
+464,"Medical equipment","الاجهزة و المعدات الطبية",approved,460,1,"2023-01-31 17:54:34","2023-01-31 17:54:34",NULL,NULL,NULL,products,NULL
+465,"Shaving tools","ادوات الحلاقة",approved,460,1,"2023-01-31 17:54:34","2023-01-31 17:54:34",NULL,NULL,NULL,products,NULL
+466,"Sugar appliances","اجهزة السكر",approved,460,1,"2023-01-31 17:54:35","2023-01-31 17:54:35",NULL,NULL,NULL,products,NULL
+467,Other,أخرى,approved,460,1,"2023-01-31 17:54:35","2023-01-31 17:54:35",NULL,NULL,NULL,products,NULL
+468,"Body care","العناية بالجسم",approved,461,1,"2023-01-31 17:54:35","2023-01-31 17:54:35",NULL,NULL,NULL,products,NULL
+469,"Caring for the child and mother","العناية بالطفل و الام",approved,461,1,"2023-01-31 17:54:35","2023-01-31 17:54:35",NULL,NULL,NULL,products,NULL
+470,Cosmetics,"أدوات التجميل",approved,461,1,"2023-01-31 17:54:36","2023-01-31 17:54:36",NULL,NULL,NULL,products,NULL
+471,"Hair Care","العناية بالشعر",approved,461,1,"2023-01-31 17:54:36","2023-01-31 17:54:36",NULL,NULL,NULL,products,NULL
+472,"Oral and dental care","العناية بالفم و الاسنان",approved,461,1,"2023-01-31 17:54:36","2023-01-31 17:54:36",NULL,NULL,NULL,products,NULL
+473,"Skin care","العناية بالبشرة",approved,461,1,"2023-01-31 17:54:36","2023-01-31 17:54:36",NULL,NULL,NULL,products,NULL
+474,"Children's and newborns' medicines","ادوية الاطفال و المواليد",approved,462,1,"2023-01-31 17:54:37","2023-01-31 17:54:37",NULL,NULL,NULL,products,NULL
+475,"Eye and ear","العين و الاذن",approved,462,1,"2023-01-31 17:54:37","2023-01-31 17:54:37",NULL,NULL,NULL,products,NULL
+476,"Injectable medicines","الادوية عن طريق الحقن",approved,462,1,"2023-01-31 17:54:37","2023-01-31 17:54:37",NULL,NULL,NULL,products,NULL
+477,"Intravenous infusion solutions","محاليل التسريب الوريدي",approved,462,1,"2023-01-31 17:54:38","2023-01-31 17:54:38",NULL,NULL,NULL,products,NULL
+478,"Narcotic drugs","الادوية المخدرة",approved,462,1,"2023-01-31 17:54:38","2023-01-31 17:54:38",NULL,NULL,NULL,products,NULL
+479,"Oral medicines","أدوية عن طريق الفم",approved,462,1,"2023-01-31 17:54:38","2023-01-31 17:54:38",NULL,NULL,NULL,products,NULL
+480,"Skin medicine","الادوية الجلدية",approved,462,1,"2023-01-31 17:54:38","2023-01-31 17:54:38",NULL,NULL,NULL,products,NULL
+481,Vaccines,"اللقاحات و المناعة",approved,462,1,"2023-01-31 17:54:39","2023-01-31 17:54:39",NULL,NULL,NULL,products,NULL
+482,Other,أخرى,approved,462,1,"2023-01-31 17:54:39","2023-01-31 17:54:39",NULL,NULL,NULL,products,NULL
+483,"Herbal supplements","مكملات عشبية",approved,463,1,"2023-01-31 17:54:39","2023-01-31 17:54:39",NULL,NULL,NULL,products,NULL
+484,Metals,معادن,approved,463,1,"2023-01-31 17:54:39","2023-01-31 17:54:39",NULL,NULL,NULL,products,NULL
+485,Supplements,"مكملات غذائية",approved,463,1,"2023-01-31 17:54:40","2023-01-31 17:54:40",NULL,NULL,NULL,products,NULL
+486,Vitamins,فيتامينات,approved,463,1,"2023-01-31 17:54:40","2023-01-31 17:54:40",NULL,NULL,NULL,products,NULL
+487,Other,أخرى,approved,463,1,"2023-01-31 17:54:40","2023-01-31 17:54:40",NULL,NULL,NULL,products,NULL
+488,Uniforms,"الأزياء الموحدة",approved,4,1,"2023-01-31 17:54:40","2023-01-31 17:54:40",NULL,NULL,NULL,products,NULL
+489,Hospitality,فندقية,approved,1272,1,"2023-01-31 17:54:41","2023-01-31 17:54:41",NULL,NULL,NULL,products,NULL
+490,Military,عسكرية,approved,489,1,"2023-01-31 17:54:41","2023-01-31 17:54:41",NULL,NULL,NULL,products,NULL
+491,Restaurants,مطاعم,approved,490,1,"2023-01-31 17:54:41","2023-01-31 17:54:41",NULL,NULL,NULL,products,NULL
+492,"Security and safety","أمن و سلامة",approved,491,1,"2023-01-31 17:54:41","2023-01-31 17:54:41",NULL,NULL,NULL,products,NULL
+493,"The medical Centers","المراكز الصحية",approved,492,1,"2023-01-31 17:54:42","2023-01-31 17:54:42",NULL,NULL,NULL,products,NULL
+494,Other,أخرى,approved,34,1,"2023-01-31 17:54:42","2023-01-31 17:54:42",NULL,NULL,NULL,products,NULL
+499,"Financial Devices","الأجهزة المالية",approved,5,1,"2023-01-31 17:54:42","2023-01-31 17:54:42",NULL,NULL,NULL,products,NULL
+500,Cashier,كاشير,approved,499,1,"2023-01-31 17:54:42","2023-01-31 17:54:42",NULL,NULL,NULL,products,NULL
+501,"Banknote Counter","آلة عد النقود",approved,499,1,"2023-01-31 17:54:43","2023-01-31 17:54:43",NULL,NULL,NULL,products,NULL
+502,"Counterfeit Bill Detector","كاشف النقود المزورة",approved,499,1,"2023-01-31 17:54:43","2023-01-31 17:54:43",NULL,NULL,NULL,products,NULL
+503,Safe,خزنة,approved,499,1,"2023-01-31 17:54:43","2023-01-31 17:54:43",NULL,NULL,NULL,products,NULL
+504,Other,أخرى,approved,953,1,"2023-01-31 17:54:43","2023-01-31 17:54:43",NULL,NULL,NULL,products,NULL
+505,Household,المنزلية,approved,506,1,"2023-01-31 17:54:44","2023-01-31 17:54:44",NULL,NULL,NULL,products,NULL
+506,"Air Conditioners","أجهزة تكييف",approved,504,1,"2023-01-31 17:54:44","2023-01-31 17:54:44",NULL,NULL,NULL,products,NULL
+507,"Electric Iron",كوايات,approved,505,1,"2023-01-31 17:54:44","2023-01-31 17:54:44",NULL,NULL,NULL,products,NULL
+508,"Video Games","الألعاب الإلكترونية",approved,505,1,"2023-01-31 17:54:44","2023-01-31 17:54:44",NULL,NULL,NULL,products,NULL
+509,"Hair Styling Tools","أدوات تصفيف الشعر",approved,510,1,"2023-01-31 17:54:45","2023-01-31 17:54:45",NULL,NULL,NULL,products,NULL
+510,"Shaving Devices","أجهزة الحلاقة",approved,513,1,"2023-01-31 17:54:45","2023-01-31 17:54:45",NULL,NULL,NULL,products,NULL
+511,"Vacuum Cleaners","مكانس كهربائية",approved,505,1,"2023-01-31 17:54:45","2023-01-31 17:54:45",NULL,NULL,NULL,products,NULL
+512,"Washing and Dryer Machines","غسالات ونشافات",approved,505,1,"2023-01-31 17:54:45","2023-01-31 17:54:45",NULL,NULL,NULL,products,NULL
+513,Other,أخرى,approved,954,1,"2023-01-31 17:54:46","2023-01-31 17:54:46",NULL,NULL,NULL,products,NULL
+515,"Applications and Software","تطبيقات وبرامج",approved,514,1,"2023-01-31 17:54:46","2023-01-31 17:54:46",NULL,NULL,NULL,products,NULL
+517,Applications,تطبيقات,approved,515,1,"2023-01-31 17:54:46","2023-01-31 17:54:46",NULL,NULL,NULL,products,NULL
+518,Software,برامج,approved,515,1,"2023-01-31 17:54:46","2023-01-31 17:54:46",NULL,NULL,NULL,products,NULL
+519,"Data Centers","مراكز البيانات",approved,514,1,"2023-01-31 17:54:47","2023-01-31 17:54:47",NULL,NULL,NULL,products,NULL
+520,"Integrated Systems","أنظمة متكاملة",approved,514,1,"2023-01-31 17:54:47","2023-01-31 17:54:47",NULL,NULL,NULL,products,NULL
+521,Networks,شبكات,approved,514,1,"2023-01-31 17:54:47","2023-01-31 17:54:47",NULL,NULL,NULL,products,NULL
+522,Security,"حماية وأمان",approved,514,1,"2023-01-31 17:54:48","2023-01-31 17:54:48",NULL,NULL,NULL,products,NULL
+523,Other,أخرى,approved,509,1,"2023-01-31 17:54:48","2023-01-31 17:54:48",NULL,NULL,NULL,products,NULL
+525,Coffee,"القهوة وملحقاتها",approved,524,1,"2023-01-31 17:54:48","2023-01-31 17:54:48",NULL,NULL,NULL,products,NULL
+528,"Insect appliances","أجهزة الحشرات",approved,916,1,"2023-01-31 17:54:48","2023-01-31 17:54:48",NULL,NULL,NULL,products,NULL
+529,Microwaves,مايكرويف,approved,524,1,"2023-01-31 17:54:49","2023-01-31 17:54:49",NULL,NULL,NULL,products,NULL
+530,Ovens,أفران,approved,524,1,"2023-01-31 17:54:49","2023-01-31 17:54:49",NULL,NULL,NULL,products,NULL
+531,"Cooling and Freezing","التبريد والتجميد",approved,524,1,"2023-01-31 17:54:49","2023-01-31 17:54:49",NULL,NULL,NULL,products,NULL
+532,Cooling,التبريد,approved,531,1,"2023-01-31 17:54:50","2023-01-31 17:54:50",NULL,NULL,NULL,products,NULL
+533,Freezing,التجميد,approved,531,1,"2023-01-31 17:54:50","2023-01-31 17:54:50",NULL,NULL,NULL,products,NULL
+534,Other,أخرى,approved,528,1,"2023-01-31 17:54:50","2023-01-31 17:54:50",NULL,NULL,NULL,products,NULL
+535,"TVs and Entertainment Devices","التلفزيونات وأجهزة الترفيه",approved,5,1,"2023-01-31 17:54:50","2023-01-31 17:54:50",NULL,NULL,NULL,products,NULL
+537,"Optical Projectors","أجهزة العرض الضوئية",approved,535,1,"2023-01-31 17:54:51","2023-01-31 17:54:51",NULL,NULL,NULL,products,NULL
+538,TVs,"أجهزة التلفزيون",approved,535,1,"2023-01-31 17:54:51","2023-01-31 17:54:51",NULL,NULL,NULL,products,NULL
+539,Other,أخرى,approved,1250,1,"2023-01-31 17:54:51","2023-01-31 17:54:51",NULL,NULL,NULL,products,NULL
+541,"Tablets and Smart Devices","اللوحيات والأجهزة الذكية",approved,5,1,"2023-01-31 17:54:51","2023-01-31 17:54:51",NULL,NULL,NULL,products,NULL
+542,"Headphones and Speakers","سماعات وأدوات مكبرات الصوت",approved,541,1,"2023-01-31 17:54:52","2023-01-31 17:54:52",NULL,NULL,NULL,products,NULL
+543,Headphones,سماعات,approved,542,1,"2023-01-31 17:54:52","2023-01-31 17:54:52",NULL,NULL,NULL,products,NULL
+544,"Audio Adjustment Tools","أدوات تعديل الصوت",approved,542,1,"2023-01-31 17:54:52","2023-01-31 17:54:52",NULL,NULL,NULL,products,NULL
+545,Speakers,"أدوات تكبير الصوت",approved,542,1,"2023-01-31 17:54:53","2023-01-31 17:54:53",NULL,NULL,NULL,products,NULL
+546,"Phones and Tablets","الهواتف والأجهزة اللوحية",approved,541,1,"2023-01-31 17:54:53","2023-01-31 17:54:53",NULL,NULL,NULL,products,NULL
+547,Accessories,اكسسوارات,approved,546,1,"2023-01-31 17:54:53","2023-01-31 17:54:53",NULL,NULL,NULL,products,NULL
+548,Landline,"الهاتف الثابت",approved,546,1,"2023-01-31 17:54:53","2023-01-31 17:54:53",NULL,NULL,NULL,products,NULL
+549,"Mobile and smartphones","الهواتف المحمولة و الذكية",approved,546,1,"2023-01-31 17:54:53","2023-01-31 17:54:53",NULL,NULL,NULL,products,NULL
+550,Tablets,"أجهزة لوحية",approved,546,1,"2023-01-31 17:54:54","2023-01-31 17:54:54",NULL,NULL,NULL,products,NULL
+551,Other,أخرى,approved,1344,1,"2023-01-31 17:54:54","2023-01-31 17:54:54",NULL,NULL,NULL,products,NULL
+552,Disposables,المستهلكات,approved,7,1,"2023-01-31 17:54:54","2023-01-31 17:54:54",NULL,NULL,NULL,products,NULL
+553,"Cork Plates and Cups","أواني وكاسات الفلين",approved,552,1,"2023-01-31 17:54:55","2023-01-31 17:54:55",NULL,NULL,NULL,products,NULL
+554,Packaging,التغليف,approved,552,1,"2023-01-31 17:54:55","2023-01-31 17:54:55",NULL,NULL,NULL,products,NULL
+555,"Paper Products",الورقيات,approved,552,1,"2023-01-31 17:54:55","2023-01-31 17:54:55",NULL,NULL,NULL,products,NULL
+556,"Plastic Plates and Cups","أواني وأكواب بلاستيكية",approved,552,1,"2023-01-31 17:54:55","2023-01-31 17:54:55",NULL,NULL,NULL,products,NULL
+557,"Aluminum Foil Plates","أواني قصدير",approved,552,1,"2023-01-31 17:54:56","2023-01-31 17:54:56",NULL,NULL,NULL,products,NULL
+559,Other,أخرى,approved,913,1,"2023-01-31 17:54:56","2023-01-31 17:54:56",NULL,NULL,NULL,products,NULL
+560,"Cooking Tools","أدوات الطهي",approved,7,1,"2023-01-31 17:54:56","2023-01-31 17:54:56",NULL,NULL,NULL,products,NULL
+561,"Cake Molds","قوالب الكيك",approved,560,1,"2023-01-31 17:54:56","2023-01-31 17:54:56",NULL,NULL,NULL,products,NULL
+562,"Frying Tools","أدوات القلي",approved,560,1,"2023-01-31 17:54:56","2023-01-31 17:54:56",NULL,NULL,NULL,products,NULL
+563,"Grilling Tools","أدوات الشواء",approved,560,1,"2023-01-31 17:54:57","2023-01-31 17:54:57",NULL,NULL,NULL,products,NULL
+566,"Oven Trays","صواني الفرن",approved,560,1,"2023-01-31 17:54:57","2023-01-31 17:54:57",NULL,NULL,NULL,products,NULL
+567,Other,أخرى,approved,559,1,"2023-01-31 17:54:57","2023-01-31 17:54:57",NULL,NULL,NULL,products,NULL
+568,"Food Warmers and Coolers","حافظات الطعام",approved,7,1,"2023-01-31 17:54:58","2023-01-31 17:54:58",NULL,NULL,NULL,products,NULL
+569,Cold,البارد,approved,568,1,"2023-01-31 17:54:58","2023-01-31 17:54:58",NULL,NULL,NULL,products,NULL
+570,Drinks,المشروبات,approved,569,1,"2023-01-31 17:54:58","2023-01-31 17:54:58",NULL,NULL,NULL,products,NULL
+571,Food,الأطعمة,approved,569,1,"2023-01-31 17:54:58","2023-01-31 17:54:58",NULL,NULL,NULL,products,NULL
+572,Hot,الساخن,approved,568,1,"2023-01-31 17:54:58","2023-01-31 17:54:58",NULL,NULL,NULL,products,NULL
+573,Drinks,المشروبات,approved,572,1,"2023-01-31 17:54:59","2023-01-31 17:54:59",NULL,NULL,NULL,products,NULL
+574,Food,الأطعمة,approved,572,1,"2023-01-31 17:54:59","2023-01-31 17:54:59",NULL,NULL,NULL,products,NULL
+577,"Dough tools","أدوات العجن",approved,575,1,"2023-01-31 17:54:59","2023-01-31 17:54:59",NULL,NULL,NULL,products,NULL
+578,"Food packaging equipment","معدات تغليف الاطعمة",approved,575,1,"2023-01-31 17:55:00","2023-01-31 17:55:00",NULL,NULL,NULL,products,NULL
+580,"Food scale",ميزان,approved,575,1,"2023-01-31 17:55:00","2023-01-31 17:55:00",NULL,NULL,NULL,products,NULL
+581,Mixers,خلاطات,approved,575,1,"2023-01-31 17:55:00","2023-01-31 17:55:00",NULL,NULL,NULL,products,NULL
+582,Other,أخرى,approved,567,1,"2023-01-31 17:55:00","2023-01-31 17:55:00",NULL,NULL,NULL,products,NULL
+583,Serveware,"أدوات التقديم",approved,7,1,"2023-01-31 17:55:01","2023-01-31 17:55:01",NULL,NULL,NULL,products,NULL
+584,"Cups and Glassware","الأكواب والكاسات",approved,583,1,"2023-01-31 17:55:01","2023-01-31 17:55:01",NULL,NULL,NULL,products,NULL
+585,Plates,الصحون,approved,583,1,"2023-01-31 17:55:01","2023-01-31 17:55:01",NULL,NULL,NULL,products,NULL
+587,Cutlery,"الملاعق والشوك والسكاكين",approved,583,1,"2023-01-31 17:55:01","2023-01-31 17:55:01",NULL,NULL,NULL,products,NULL
+588,Other,أخرى,approved,1259,1,"2023-01-31 17:55:01","2023-01-31 17:55:01",NULL,NULL,NULL,products,NULL
+589,"Food Service Storage Systems","أنظمة تخزين الغذاء",approved,7,1,"2023-01-31 17:55:02","2023-01-31 17:55:02",NULL,NULL,NULL,products,NULL
+595,"Cooling and Freezing","التبريد والتجميد",approved,589,1,"2023-01-31 17:55:02","2023-01-31 17:55:02",NULL,NULL,NULL,products,NULL
+596,"Cold Storage Rooms","غرف تبريد",approved,595,1,"2023-01-31 17:55:02","2023-01-31 17:55:02",NULL,NULL,NULL,products,NULL
+597,"Display Refrigerators","ثلاجات عرض المنتجات",approved,595,1,"2023-01-31 17:55:02","2023-01-31 17:55:02",NULL,NULL,NULL,products,NULL
+601,"Fire alarm systems","انظمة تنبيه الحرائق",approved,600,1,"2023-01-31 17:55:03","2023-01-31 17:55:03",NULL,NULL,NULL,products,NULL
+602,"Fire fighting systems","انظمة مكافحة الحريق",approved,600,1,"2023-01-31 17:55:03","2023-01-31 17:55:03",NULL,NULL,NULL,products,NULL
+603,"Fire fighting tools","ادوات مكافحة الحريق",approved,600,1,"2023-01-31 17:55:03","2023-01-31 17:55:03",NULL,NULL,NULL,products,NULL
+604,"Surveillance cameras","كاميرات المراقبة",approved,600,1,"2023-01-31 17:55:03","2023-01-31 17:55:03",NULL,NULL,NULL,products,NULL
+605,Gas,غاز,approved,1401,1,"2023-01-31 17:55:04","2023-01-31 17:55:04",NULL,NULL,NULL,products,NULL
+606,"Central cylinders","اسطوانات مركزية",approved,605,1,"2023-01-31 17:55:04","2023-01-31 17:55:04",NULL,NULL,NULL,products,NULL
+607,"Individual cylinders","اسطوانات فردية",approved,605,1,"2023-01-31 17:55:04","2023-01-31 17:55:04",NULL,NULL,NULL,products,NULL
+609,"Ice grinding","طحن الثلج",approved,608,1,"2023-01-31 17:55:05","2023-01-31 17:55:05",NULL,NULL,NULL,products,NULL
+610,"Ice makers","صانعات الثلج",approved,608,1,"2023-01-31 17:55:05","2023-01-31 17:55:05",NULL,NULL,NULL,products,NULL
+613,Trollies,العربيات,approved,589,1,"2023-01-31 17:55:05","2023-01-31 17:55:05",NULL,NULL,NULL,products,NULL
+614,"Service Trolley","عربيات الخدمة",approved,613,1,"2023-01-31 17:55:05","2023-01-31 17:55:05",NULL,NULL,NULL,products,NULL
+615,"Insulated Food Trollies","عربيات حافظة للحرارة",approved,613,1,"2023-01-31 17:55:06","2023-01-31 17:55:06",NULL,NULL,NULL,products,NULL
+616,Other,أخرى,approved,622,1,"2023-01-31 17:55:06","2023-01-31 17:55:06",NULL,NULL,NULL,products,NULL
+622,Other,أخرى,approved,582,1,"2023-01-31 17:55:06","2023-01-31 17:55:06",NULL,NULL,NULL,products,NULL
+623,Disposables,"المنتجات الاستهلاكية",approved,6,1,"2023-01-31 17:55:06","2023-01-31 17:55:06",NULL,NULL,NULL,products,NULL
+624,Tissues,المناديل,approved,623,1,"2023-01-31 17:55:07","2023-01-31 17:55:07",NULL,NULL,NULL,products,NULL
+625,"Facial Tissues",الوجه,approved,624,1,"2023-01-31 17:55:07","2023-01-31 17:55:07",NULL,NULL,NULL,products,NULL
+626,"Kitchen Towels","مناشف المطبخ",approved,624,1,"2023-01-31 17:55:07","2023-01-31 17:55:07",NULL,NULL,NULL,products,NULL
+627,"Toilet Paper","دورات المياه",approved,624,1,"2023-01-31 17:55:07","2023-01-31 17:55:07",NULL,NULL,NULL,products,NULL
+628,Other,أخرى,approved,551,1,"2023-01-31 17:55:08","2023-01-31 17:55:08",NULL,NULL,NULL,products,NULL
+629,"Towels and mops","الفوط و الممسحات",approved,630,1,"2023-01-31 17:55:08","2023-01-31 17:55:08",NULL,NULL,NULL,products,NULL
+630,Other,أخرى,approved,628,1,"2023-01-31 17:55:08","2023-01-31 17:55:08",NULL,NULL,NULL,products,NULL
+631,"Detergents, Disinfectants and Sterilizers","المنظفات والمطهرات والمعقمات",approved,6,1,"2023-01-31 17:55:08","2023-01-31 17:55:08",NULL,NULL,NULL,products,NULL
+632,Flooring,الارضيات,approved,631,1,"2023-01-31 17:55:09","2023-01-31 17:55:09",NULL,NULL,NULL,products,NULL
+634,Vinyl,الڤينيل,approved,632,1,"2023-01-31 17:55:09","2023-01-31 17:55:09",NULL,NULL,NULL,products,NULL
+635,"Marble and Ceramic","الرخام والسيراميك",approved,632,1,"2023-01-31 17:55:09","2023-01-31 17:55:09",NULL,NULL,NULL,products,NULL
+636,Other,أخرى,approved,629,1,"2023-01-31 17:55:09","2023-01-31 17:55:09",NULL,NULL,NULL,products,NULL
+640,"Kitchen Chemicals","منظفات المطبخ",approved,631,1,"2023-01-31 17:55:09","2023-01-31 17:55:09",NULL,NULL,NULL,products,NULL
+641,Aluminium,الألمنيوم,approved,9,1,"2023-01-31 17:55:10","2023-01-31 17:55:10",NULL,NULL,NULL,products,NULL
+642,Ovens,الافران,approved,640,1,"2023-01-31 17:55:10","2023-01-31 17:55:10",NULL,NULL,NULL,products,NULL
+644,"Vegetables and fruits","الخضار و الفواكة",approved,646,1,"2023-01-31 17:55:10","2023-01-31 17:55:10",NULL,NULL,NULL,products,NULL
+645,"Bricks, cement, concrete","الطوب والاسمنت والخرسانة",approved,9,1,"2023-01-31 17:55:11","2023-01-31 17:55:11",NULL,NULL,NULL,products,NULL
+646,Other,أخرى,approved,636,1,"2023-01-31 17:55:11","2023-01-31 17:55:11",NULL,NULL,NULL,products,NULL
+647,Food,غذاء,approved,9,1,"2023-01-31 17:55:11","2023-01-31 17:55:11",NULL,NULL,NULL,products,NULL
+648,Laundry,"مغسلة الملابس",approved,631,1,"2023-01-31 17:55:11","2023-01-31 17:55:11",NULL,NULL,NULL,products,NULL
+649,Powder,البودرة,approved,648,1,"2023-01-31 17:55:12","2023-01-31 17:55:12",NULL,NULL,NULL,products,NULL
+650,"Glass factories","مصانع الزجاج",approved,9,1,"2023-01-31 17:55:12","2023-01-31 17:55:12",NULL,NULL,NULL,products,NULL
+651,Tablets,أقراص,approved,648,1,"2023-01-31 17:55:12","2023-01-31 17:55:12",NULL,NULL,NULL,products,NULL
+652,Gypsum,الجبس,approved,9,1,"2023-01-31 17:55:12","2023-01-31 17:55:12",NULL,NULL,NULL,products,NULL
+653,Other,أخرى,approved,644,1,"2023-01-31 17:55:13","2023-01-31 17:55:13",NULL,NULL,NULL,products,NULL
+654,Soap,الصابون,approved,631,1,"2023-01-31 17:55:13","2023-01-31 17:55:13",NULL,NULL,NULL,products,NULL
+655,"Marble, ceamic, stone","الرخام والسيراميك والحجر",approved,9,1,"2023-01-31 17:55:13","2023-01-31 17:55:13",NULL,NULL,NULL,products,NULL
+656,"Hand Soap","صابون اليدين",approved,654,1,"2023-01-31 17:55:13","2023-01-31 17:55:13",NULL,NULL,NULL,products,NULL
+657,"Paper factories","مصانع الورق",approved,9,1,"2023-01-31 17:55:14","2023-01-31 17:55:14",NULL,NULL,NULL,products,NULL
+658,"Sterile Soap","صابون معقم",approved,654,1,"2023-01-31 17:55:14","2023-01-31 17:55:14",NULL,NULL,NULL,products,NULL
+659,Other,أخرى,approved,669,1,"2023-01-31 17:55:14","2023-01-31 17:55:14",NULL,NULL,NULL,products,NULL
+660,"Plastic factories","مصانع البلاستيك",approved,9,1,"2023-01-31 17:55:14","2023-01-31 17:55:14",NULL,NULL,NULL,products,NULL
+661,Surfaces,الاسطح,approved,631,1,"2023-01-31 17:55:15","2023-01-31 17:55:15",NULL,NULL,NULL,products,NULL
+662,"Printing press",مطابع,approved,9,1,"2023-01-31 17:55:15","2023-01-31 17:55:15",NULL,NULL,NULL,products,NULL
+663,Aluminum,ألمنيوم,approved,661,1,"2023-01-31 17:55:15","2023-01-31 17:55:15",NULL,NULL,NULL,products,NULL
+664,Cladding,كلادينج,approved,661,1,"2023-01-31 17:55:15","2023-01-31 17:55:15",NULL,NULL,NULL,products,NULL
+665,"Steel factories","مصانع الحديد",approved,9,1,"2023-01-31 17:55:16","2023-01-31 17:55:16",NULL,NULL,NULL,products,NULL
+666,Other,أخرى,approved,1007,1,"2023-01-31 17:55:16","2023-01-31 17:55:16",NULL,NULL,NULL,products,NULL
+667,"Water plants","مصانع مياة",approved,9,1,"2023-01-31 17:55:16","2023-01-31 17:55:16",NULL,NULL,NULL,products,NULL
+669,Other,أخرى,approved,653,1,"2023-01-31 17:55:16","2023-01-31 17:55:16",NULL,NULL,NULL,products,NULL
+670,"Cleaning Tools and Equipment","معدات وأدوات التنظيف",approved,6,1,"2023-01-31 17:55:17","2023-01-31 17:55:17",NULL,NULL,NULL,products,NULL
+674,Carpet,السجاد,approved,673,1,"2023-01-31 17:55:17","2023-01-31 17:55:17",NULL,NULL,NULL,products,NULL
+675,Kitchen,مطابخ,approved,641,1,"2023-01-31 17:55:17","2023-01-31 17:55:17",NULL,NULL,NULL,products,NULL
+676,"External Facilities","المرافق الخارجية",approved,673,1,"2023-01-31 17:55:17","2023-01-31 17:55:17",NULL,NULL,NULL,products,NULL
+677,Other,أخرى,approved,641,1,"2023-01-31 17:55:18","2023-01-31 17:55:18",NULL,NULL,NULL,products,NULL
+678,Flooring,الارضيات,approved,673,1,"2023-01-31 17:55:18","2023-01-31 17:55:18",NULL,NULL,NULL,products,NULL
+679,Parking,المواقف,approved,673,1,"2023-01-31 17:55:18","2023-01-31 17:55:18",NULL,NULL,NULL,products,NULL
+681,"Cleaning Services","خدمات النظافة",approved,680,1,"2023-01-31 17:55:19","2023-01-31 17:55:19",NULL,NULL,NULL,products,NULL
+682,"Moving clothes","نقل الملابس",approved,616,1,"2023-01-31 17:55:19","2023-01-31 17:55:19",NULL,NULL,NULL,products,NULL
+683,"Waste Transport","نقل النفايات",approved,680,1,"2023-01-31 17:55:19","2023-01-31 17:55:19",NULL,NULL,NULL,products,NULL
+684,Brick,طوب,approved,645,1,"2023-01-31 17:55:19","2023-01-31 17:55:19",NULL,NULL,NULL,products,NULL
+685,Other,أخرى,approved,1030,1,"2023-01-31 17:55:20","2023-01-31 17:55:20",NULL,NULL,NULL,products,NULL
+686,Cement,اسمنت,approved,645,1,"2023-01-31 17:55:20","2023-01-31 17:55:20",NULL,NULL,NULL,products,NULL
+687,Dispensers,الموزعات,approved,6,1,"2023-01-31 17:55:20","2023-01-31 17:55:20",NULL,NULL,NULL,products,NULL
+688,"Washing Machines","أجهزة غسيل الملابس",approved,687,1,"2023-01-31 17:55:20","2023-01-31 17:55:20",NULL,NULL,NULL,products,NULL
+689,Concrete,خرسانة,approved,645,1,"2023-01-31 17:55:21","2023-01-31 17:55:21",NULL,NULL,NULL,products,NULL
+691,Soap,"موزع الصابون السائل",approved,690,1,"2023-01-31 17:55:21","2023-01-31 17:55:21",NULL,NULL,NULL,products,NULL
+692,Napkins,"منظم المناديل",approved,690,1,"2023-01-31 17:55:21","2023-01-31 17:55:21",NULL,NULL,NULL,products,NULL
+693,Dishwasher,"غسالة الصحون",approved,690,1,"2023-01-31 17:55:21","2023-01-31 17:55:21",NULL,NULL,NULL,products,NULL
+694,"Washing Machines","أجهزة غسيل الملابس",approved,690,1,"2023-01-31 17:55:22","2023-01-31 17:55:22",NULL,NULL,NULL,products,NULL
+696,Dates,تمور,approved,647,1,"2023-01-31 17:55:22","2023-01-31 17:55:22",NULL,NULL,NULL,products,NULL
+697,Drinks,المشروبات,approved,647,1,"2023-01-31 17:55:23","2023-01-31 17:55:23",NULL,NULL,NULL,products,NULL
+698,Sweets,حلويات,approved,647,1,"2023-01-31 17:55:23","2023-01-31 17:55:23",NULL,NULL,NULL,products,NULL
+699,Ceramic,السيراميك,approved,655,1,"2023-01-31 17:55:23","2023-01-31 17:55:23",NULL,NULL,NULL,products,NULL
+700,Marble,الرخام,approved,655,1,"2023-01-31 17:55:23","2023-01-31 17:55:23",NULL,NULL,NULL,products,NULL
+701,Materials,المواد,approved,655,1,"2023-01-31 17:55:24","2023-01-31 17:55:24",NULL,NULL,NULL,products,NULL
+702,Stone,الحجر,approved,655,1,"2023-01-31 17:55:24","2023-01-31 17:55:24",NULL,NULL,NULL,products,NULL
+703,"Glasses and cups","الكاسات والأكواب",approved,657,1,"2023-01-31 17:55:24","2023-01-31 17:55:24",NULL,NULL,NULL,products,NULL
+704,Medical,الطبي,approved,657,1,"2023-01-31 17:55:24","2023-01-31 17:55:24",NULL,NULL,NULL,products,NULL
+705,Tissues,المناديل,approved,657,1,"2023-01-31 17:55:25","2023-01-31 17:55:25",NULL,NULL,NULL,products,NULL
+706,Face,الوجه,approved,705,1,"2023-01-31 17:55:25","2023-01-31 17:55:25",NULL,NULL,NULL,products,NULL
+708,Plastic,بلاستيك,approved,707,1,"2023-01-31 17:55:25","2023-01-31 17:55:25",NULL,NULL,NULL,products,NULL
+709,Kitchen,المطبخ,approved,705,1,"2023-01-31 17:55:25","2023-01-31 17:55:25",NULL,NULL,NULL,products,NULL
+710,Steel,ستيل,approved,707,1,"2023-01-31 17:55:26","2023-01-31 17:55:26",NULL,NULL,NULL,products,NULL
+712,Sterile,"مناديل معقمة",approved,705,1,"2023-01-31 17:55:26","2023-01-31 17:55:26",NULL,NULL,NULL,products,NULL
+713,Electric,كهربائية,approved,711,1,"2023-01-31 17:55:26","2023-01-31 17:55:26",NULL,NULL,NULL,products,NULL
+714,Manual,يدوية,approved,711,1,"2023-01-31 17:55:26","2023-01-31 17:55:26",NULL,NULL,NULL,products,NULL
+715,Toilet,"دورات المياه",approved,705,1,"2023-01-31 17:55:27","2023-01-31 17:55:27",NULL,NULL,NULL,products,NULL
+716,"Chairs and tables","الكراسي والطاولات",approved,660,1,"2023-01-31 17:55:27","2023-01-31 17:55:27",NULL,NULL,NULL,products,NULL
+717,"Glasses, plates, spoons and forks","الكاسات والصحون والملاعق والشوك",approved,660,1,"2023-01-31 17:55:27","2023-01-31 17:55:27",NULL,NULL,NULL,products,NULL
+718,"Resealable bags","اكياس قابلة للإغلاق",approved,660,1,"2023-01-31 17:55:27","2023-01-31 17:55:27",NULL,NULL,NULL,products,NULL
+719,"Shopping bags","اكياس تسوق",approved,660,1,"2023-01-31 17:55:28","2023-01-31 17:55:28",NULL,NULL,NULL,products,NULL
+720,"Waste bags","اكياس نفايات",approved,660,1,"2023-01-31 17:55:28","2023-01-31 17:55:28",NULL,NULL,NULL,products,NULL
+721,Other,أخرى,approved,660,1,"2023-01-31 17:55:28","2023-01-31 17:55:28",NULL,NULL,NULL,products,NULL
+722,Food,الأطعمة,approved,718,1,"2023-01-31 17:55:28","2023-01-31 17:55:28",NULL,NULL,NULL,products,NULL
+723,Medical,"الاحتياجات الطبية",approved,718,1,"2023-01-31 17:55:29","2023-01-31 17:55:29",NULL,NULL,NULL,products,NULL
+724,Other,أخرى,approved,718,1,"2023-01-31 17:55:29","2023-01-31 17:55:29",NULL,NULL,NULL,products,NULL
+725,Customized,"حسب الطلب",approved,719,1,"2023-01-31 17:55:29","2023-01-31 17:55:29",NULL,NULL,NULL,products,NULL
+726,Ready,جاهزة,approved,719,1,"2023-01-31 17:55:29","2023-01-31 17:55:29",NULL,NULL,NULL,products,NULL
+727,Medical,الطبية,approved,720,1,"2023-01-31 17:55:30","2023-01-31 17:55:30",NULL,NULL,NULL,products,NULL
+728,Other,أخرى,approved,720,1,"2023-01-31 17:55:30","2023-01-31 17:55:30",NULL,NULL,NULL,products,NULL
+729,Boards,لوحات,approved,662,1,"2023-01-31 17:55:30","2023-01-31 17:55:30",NULL,NULL,NULL,products,NULL
+730,"Adhesive boards","لوحات لاصقة",approved,729,1,"2023-01-31 17:55:30","2023-01-31 17:55:30",NULL,NULL,NULL,products,NULL
+731,Banners,"لافتة (بنر)",approved,729,1,"2023-01-31 17:55:31","2023-01-31 17:55:31",NULL,NULL,NULL,products,NULL
+733,"External boards","لوحات خارجية",approved,729,1,"2023-01-31 17:55:31","2023-01-31 17:55:31",NULL,NULL,NULL,products,NULL
+734,"Internal boards","لوحات داخلية",approved,729,1,"2023-01-31 17:55:31","2023-01-31 17:55:31",NULL,NULL,NULL,products,NULL
+735,Other,أخرى,approved,729,1,"2023-01-31 17:55:31","2023-01-31 17:55:31",NULL,NULL,NULL,products,NULL
+736,"Brochures and publications","كتيبات ومنشورات",approved,662,1,"2023-01-31 17:55:32","2023-01-31 17:55:32",NULL,NULL,NULL,products,NULL
+737,Cards,بطاقات,approved,662,1,"2023-01-31 17:55:32","2023-01-31 17:55:32",NULL,NULL,NULL,products,NULL
+738,Forms,نماذج,approved,662,1,"2023-01-31 17:55:32","2023-01-31 17:55:32",NULL,NULL,NULL,products,NULL
+739,"Restaurant Menu","منيو المطاعم",approved,662,1,"2023-01-31 17:55:33","2023-01-31 17:55:33",NULL,NULL,NULL,products,NULL
+740,Other,أخرى,approved,662,1,"2023-01-31 17:55:33","2023-01-31 17:55:33",NULL,NULL,NULL,products,NULL
+741,Boards,لوحات,approved,665,1,"2023-01-31 17:55:33","2023-01-31 17:55:33",NULL,NULL,NULL,products,NULL
+742,Bridges,جسور,approved,665,1,"2023-01-31 17:55:33","2023-01-31 17:55:33",NULL,NULL,NULL,products,NULL
+743,Cladding,كلادينق,approved,665,1,"2023-01-31 17:55:33","2023-01-31 17:55:33",NULL,NULL,NULL,products,NULL
+744,Iron,حديد,approved,665,1,"2023-01-31 17:55:34","2023-01-31 17:55:34",NULL,NULL,NULL,products,NULL
+745,"Shelves and warehouses","الأرفف والمستودعات",approved,665,1,"2023-01-31 17:55:34","2023-01-31 17:55:34",NULL,NULL,NULL,products,NULL
+746,Stands,قواعد,approved,665,1,"2023-01-31 17:55:34","2023-01-31 17:55:34",NULL,NULL,NULL,products,NULL
+747,Other,أخرى,approved,665,1,"2023-01-31 17:55:34","2023-01-31 17:55:34",NULL,NULL,NULL,products,NULL
+748,"Desalination plants","مصانع التحلية",approved,667,1,"2023-01-31 17:55:35","2023-01-31 17:55:35",NULL,NULL,NULL,products,NULL
+749,Water,المياه,approved,667,1,"2023-01-31 17:55:35","2023-01-31 17:55:35",NULL,NULL,NULL,products,NULL
+750,"Desalinated drinking water","مياه شرب محلاة",approved,749,1,"2023-01-31 17:55:35","2023-01-31 17:55:35",NULL,NULL,NULL,products,NULL
+751,Ice,ثلج,approved,749,1,"2023-01-31 17:55:35","2023-01-31 17:55:35",NULL,NULL,NULL,products,NULL
+752,"Soda drinking water","مياه شرب غازية",approved,749,1,"2023-01-31 17:55:36","2023-01-31 17:55:36",NULL,NULL,NULL,products,NULL
+754,Cashier,كاشير,approved,753,1,"2023-01-31 17:55:36","2023-01-31 17:55:36",NULL,NULL,NULL,products,NULL
+755,"Count the money","عد النقود",approved,753,1,"2023-01-31 17:55:36","2023-01-31 17:55:36",NULL,NULL,NULL,products,NULL
+756,"Counterfeit cash detector","كاشف النقود المزورة",approved,753,1,"2023-01-31 17:55:36","2023-01-31 17:55:36",NULL,NULL,NULL,products,NULL
+757,Safe,خزنة,approved,753,1,"2023-01-31 17:55:37","2023-01-31 17:55:37",NULL,NULL,NULL,products,NULL
+758,Other,أخرى,approved,539,1,"2023-01-31 17:55:37","2023-01-31 17:55:37",NULL,NULL,NULL,products,NULL
+760,"Computer equipment","مستلزمات اجهزة الحاسب الألي",approved,759,1,"2023-01-31 17:55:37","2023-01-31 17:55:37",NULL,NULL,NULL,products,NULL
+761,"Fixed devices","أجهزة ثابتة",approved,759,1,"2023-01-31 17:55:37","2023-01-31 17:55:37",NULL,NULL,NULL,products,NULL
+762,"Portable devices","أجهزة محمولة",approved,759,1,"2023-01-31 17:55:38","2023-01-31 17:55:38",NULL,NULL,NULL,products,NULL
+763,Carpeting,المفروشات,approved,2,1,"2023-01-31 17:55:38","2023-01-31 17:55:38",NULL,NULL,NULL,products,NULL
+765,Agriculture,الزراعة,approved,8,1,"2023-01-31 17:55:38","2023-01-31 17:55:38",NULL,NULL,NULL,products,NULL
+767,Building,البناء,approved,8,1,"2023-01-31 17:55:38","2023-01-31 17:55:38",NULL,NULL,NULL,products,NULL
+768,Curtains,الستائر,approved,763,1,"2023-01-31 17:55:39","2023-01-31 17:55:39",NULL,NULL,NULL,products,NULL
+769,Carpets,السجاد,approved,763,1,"2023-01-31 17:55:39","2023-01-31 17:55:39",NULL,NULL,NULL,products,NULL
+770,Other,أخرى,approved,1352,1,"2023-01-31 17:55:39","2023-01-31 17:55:39",NULL,NULL,NULL,products,NULL
+771,Services,الخدمات,approved,764,1,"2023-01-31 17:55:39","2023-01-31 17:55:39",NULL,NULL,NULL,products,NULL
+773,Medical,الطبية,approved,837,1,"2023-01-31 17:55:40","2023-01-31 17:55:40",NULL,NULL,NULL,products,NULL
+774,"Umbrellas and Screens","المظلات والسواتر",approved,779,1,"2023-01-31 17:55:40","2023-01-31 17:55:40",NULL,NULL,NULL,products,NULL
+775,"Copy machiens","أجهزة نسخ",approved,772,1,"2023-01-31 17:55:40","2023-01-31 17:55:40",NULL,NULL,NULL,products,NULL
+776,"Demolition and restoration","الهدم والترميم",approved,778,1,"2023-01-31 17:55:41","2023-01-31 17:55:41",NULL,NULL,NULL,products,NULL
+777,Printers,الطابعات,approved,772,1,"2023-01-31 17:55:41","2023-01-31 17:55:41",NULL,NULL,NULL,products,NULL
+778,"Decor and design","ديكور وتصميم",approved,773,1,"2023-01-31 17:55:41","2023-01-31 17:55:41",NULL,NULL,NULL,products,NULL
+779,Kitchen,مطابخ,approved,776,1,"2023-01-31 17:55:41","2023-01-31 17:55:41",NULL,NULL,NULL,products,NULL
+781,Black,"طباعة أسود",approved,777,1,"2023-01-31 17:55:42","2023-01-31 17:55:42",NULL,NULL,NULL,products,NULL
+782,"Card printer","طابعة بطاقات",approved,777,1,"2023-01-31 17:55:42","2023-01-31 17:55:42",NULL,NULL,NULL,products,NULL
+783,Colored,"طباعة ملون",approved,777,1,"2023-01-31 17:55:42","2023-01-31 17:55:42",NULL,NULL,NULL,products,NULL
+784,Other,أخرى,approved,846,1,"2023-01-31 17:55:42","2023-01-31 17:55:42",NULL,NULL,NULL,products,NULL
+785,Sapling,شتلات,approved,256,1,"2023-01-31 17:55:43","2023-01-31 17:55:43",NULL,NULL,NULL,products,NULL
+786,"Printer with scanner","طابعة مع ماسح ضوئي",approved,777,1,"2023-01-31 17:55:43","2023-01-31 17:55:43",NULL,NULL,NULL,products,NULL
+787,Natural,طبيعي,approved,785,1,"2023-01-31 17:55:43","2023-01-31 17:55:43",NULL,NULL,NULL,products,NULL
+788,Other,أخرى,approved,919,1,"2023-01-31 17:55:44","2023-01-31 17:55:44",NULL,NULL,NULL,products,NULL
+789,Fake,صناعي,approved,785,1,"2023-01-31 17:55:44","2023-01-31 17:55:44",NULL,NULL,NULL,products,NULL
+790,Flowers,ورود,approved,261,1,"2023-01-31 17:55:44","2023-01-31 17:55:44",NULL,NULL,NULL,products,NULL
+791,Scanners,"ماسحة ضوئية",approved,772,1,"2023-01-31 17:55:44","2023-01-31 17:55:44",NULL,NULL,NULL,products,NULL
+792,Natural,Fake,approved,790,1,"2023-01-31 17:55:44","2023-01-31 17:55:44",NULL,NULL,NULL,products,NULL
+793,Other,أخرى,approved,788,1,"2023-01-31 17:55:45","2023-01-31 17:55:45",NULL,NULL,NULL,products,NULL
+795,Furniture,الأثاث,approved,2,1,"2023-01-31 17:55:45","2023-01-31 17:55:45",NULL,NULL,NULL,products,NULL
+796,"Outdoor Plants","النباتات الخارجية",approved,765,1,"2023-01-31 17:55:45","2023-01-31 17:55:45",NULL,NULL,NULL,products,NULL
+797,"Fruitful Plants","النباتات المثمرة",approved,796,1,"2023-01-31 17:55:45","2023-01-31 17:55:45",NULL,NULL,NULL,products,NULL
+798,Bedroom,"غرف النوم",approved,795,1,"2023-01-31 17:55:46","2023-01-31 17:55:46",NULL,NULL,NULL,products,NULL
+799,Citrus,الحمضيات,approved,797,1,"2023-01-31 17:55:46","2023-01-31 17:55:46",NULL,NULL,NULL,products,NULL
+800,"Palm Trees",النخيل,approved,797,1,"2023-01-31 17:55:46","2023-01-31 17:55:46",NULL,NULL,NULL,products,NULL
+801,Home,منزلي,approved,798,1,"2023-01-31 17:55:46","2023-01-31 17:55:46",NULL,NULL,NULL,products,NULL
+802,Vegetables,الخضروات,approved,254,1,"2023-01-31 17:55:46","2023-01-31 17:55:46",NULL,NULL,NULL,products,NULL
+803,Hotel,الفندقي,approved,798,1,"2023-01-31 17:55:47","2023-01-31 17:55:47",NULL,NULL,NULL,products,NULL
+804,Other,أخرى,approved,494,1,"2023-01-31 17:55:47","2023-01-31 17:55:47",NULL,NULL,NULL,products,NULL
+805,Other,أخرى,approved,770,1,"2023-01-31 17:55:47","2023-01-31 17:55:47",NULL,NULL,NULL,products,NULL
+806,"Basins Cultivation","الأحواض الزراعية",approved,796,1,"2023-01-31 17:55:47","2023-01-31 17:55:47",NULL,NULL,NULL,products,NULL
+807,"Office Furniture","الأثاث المكتبي",approved,795,1,"2023-01-31 17:55:48","2023-01-31 17:55:48",NULL,NULL,NULL,products,NULL
+808,Flowers,الورد,approved,796,1,"2023-01-31 17:55:48","2023-01-31 17:55:48",NULL,NULL,NULL,products,NULL
+809,Other,أخرى,approved,855,1,"2023-01-31 17:55:48","2023-01-31 17:55:48",NULL,NULL,NULL,products,NULL
+810,"Agricultural Tools","الأدوات الزراعية",approved,765,1,"2023-01-31 17:55:48","2023-01-31 17:55:48",NULL,NULL,NULL,products,NULL
+811,Seeds,البذور,approved,765,1,"2023-01-31 17:55:49","2023-01-31 17:55:49",NULL,NULL,NULL,products,NULL
+812,"Kitchens and Restaurants","المطاعم والمطابخ",approved,795,1,"2023-01-31 17:55:49","2023-01-31 17:55:49",NULL,NULL,NULL,products,NULL
+813,"Gardens Decorations","زينة الحدائق",approved,765,1,"2023-01-31 17:55:49","2023-01-31 17:55:49",NULL,NULL,NULL,products,NULL
+814,"Fertilizers and Manure","الأسمدة الطبيعية والصناعية",approved,765,1,"2023-01-31 17:55:49","2023-01-31 17:55:49",NULL,NULL,NULL,products,NULL
+815,"Agricultural Equipment","المعدات الزراعية",approved,765,1,"2023-01-31 17:55:50","2023-01-31 17:55:50",NULL,NULL,NULL,products,NULL
+816,"Outdoor Furniture","الأثاث الخارجي",approved,795,1,"2023-01-31 17:55:50","2023-01-31 17:55:50",NULL,NULL,NULL,products,NULL
+817,Divers,الغطاسات,approved,815,1,"2023-01-31 17:55:50","2023-01-31 17:55:50",NULL,NULL,NULL,products,NULL
+819,"Pumping Machines","مكائن ضخ المياه",approved,815,1,"2023-01-31 17:55:50","2023-01-31 17:55:50",NULL,NULL,NULL,products,NULL
+820,"Lawn mowers","مكائن قص الحشائش",approved,260,1,"2023-01-31 17:55:51","2023-01-31 17:55:51",NULL,NULL,NULL,products,NULL
+821,"Hotel tables","طاولات الفنادق",approved,818,1,"2023-01-31 17:55:51","2023-01-31 17:55:51",NULL,NULL,NULL,products,NULL
+822,"Crop Machines","مكائن المحاصيل",approved,815,1,"2023-01-31 17:55:51","2023-01-31 17:55:51",NULL,NULL,NULL,products,NULL
+823,"Office tables","طاولات المكاتب",approved,818,1,"2023-01-31 17:55:51","2023-01-31 17:55:51",NULL,NULL,NULL,products,NULL
+824,"Pest Control Products","منتجات مكافحة الحشرات",approved,765,1,"2023-01-31 17:55:52","2023-01-31 17:55:52",NULL,NULL,NULL,products,NULL
+825,Other,أخرى,approved,809,1,"2023-01-31 17:55:52","2023-01-31 17:55:52",NULL,NULL,NULL,products,NULL
+826,"Restaurant tables","طاولات المطاعم",approved,818,1,"2023-01-31 17:55:52","2023-01-31 17:55:52",NULL,NULL,NULL,products,NULL
+827,Other,أخرى,approved,844,1,"2023-01-31 17:55:52","2023-01-31 17:55:52",NULL,NULL,NULL,products,NULL
+828,"Building Supplies","مستلزمات البناء",approved,767,1,"2023-01-31 17:55:53","2023-01-31 17:55:53",NULL,NULL,NULL,products,NULL
+830,"Umbrellas and Fences","المظلات والحواجز",approved,828,1,"2023-01-31 17:55:53","2023-01-31 17:55:53",NULL,NULL,NULL,products,NULL
+831,"Building Tools and Equipment","أدوات ومعدات البناء",approved,767,1,"2023-01-31 17:55:53","2023-01-31 17:55:53",NULL,NULL,NULL,products,NULL
+833,"Construction tools","ادوات البنات",approved,840,1,"2023-01-31 17:55:53","2023-01-31 17:55:53",NULL,NULL,NULL,products,NULL
+835,"Construction Equipment","معدات البناء",approved,831,1,"2023-01-31 17:55:54","2023-01-31 17:55:54",NULL,NULL,NULL,products,NULL
+836,Umbrellas,المظلات,approved,830,1,"2023-01-31 17:55:54","2023-01-31 17:55:54",NULL,NULL,NULL,products,NULL
+837,Umbrellas,مضلات,approved,833,1,"2023-01-31 17:55:54","2023-01-31 17:55:54",NULL,NULL,NULL,products,NULL
+838,"Construction Machinery","آلات البناء",approved,831,1,"2023-01-31 17:55:54","2023-01-31 17:55:54",NULL,NULL,NULL,products,NULL
+840,Iron,حديد,approved,1312,1,"2023-01-31 17:55:54","2023-01-31 17:55:54",NULL,NULL,NULL,products,NULL
+843,"Marble, ceramic, stone","الرخام و السيراميك و الحجر",approved,257,1,"2023-01-31 17:55:55","2023-01-31 17:55:55",NULL,NULL,NULL,products,NULL
+844,Other,أخرى,approved,805,1,"2023-01-31 17:55:55","2023-01-31 17:55:55",NULL,NULL,NULL,products,NULL
+846,Other,أخرى,approved,921,1,"2023-01-31 17:55:55","2023-01-31 17:55:55",NULL,NULL,NULL,products,NULL
+847,Marble,الرخام,approved,843,1,"2023-01-31 17:55:56","2023-01-31 17:55:56",NULL,NULL,NULL,products,NULL
+849,Ceramic,السيراميك,approved,843,1,"2023-01-31 17:55:56","2023-01-31 17:55:56",NULL,NULL,NULL,products,NULL
+851,Stone,الحجر,approved,843,1,"2023-01-31 17:55:56","2023-01-31 17:55:56",NULL,NULL,NULL,products,NULL
+853,Files,الملفات,approved,852,1,"2023-01-31 17:55:56","2023-01-31 17:55:56",NULL,NULL,NULL,products,NULL
+854,"Paper file holders","ملفات حفظ الاوراق",approved,852,1,"2023-01-31 17:55:57","2023-01-31 17:55:57",NULL,NULL,NULL,products,NULL
+855,Other,أخرى,approved,804,1,"2023-01-31 17:55:57","2023-01-31 17:55:57",NULL,NULL,NULL,products,NULL
+856,"Building Materials","مواد البناء",approved,828,1,"2023-01-31 17:55:57","2023-01-31 17:55:57",NULL,NULL,NULL,products,NULL
+857,Bricks,البلوك,approved,856,1,"2023-01-31 17:55:57","2023-01-31 17:55:57",NULL,NULL,NULL,products,NULL
+858,"Medical files holder","ملفات طبية",approved,852,1,"2023-01-31 17:55:58","2023-01-31 17:55:58",NULL,NULL,NULL,products,NULL
+859,Concrete,الخرسانة,approved,856,1,"2023-01-31 17:55:58","2023-01-31 17:55:58",NULL,NULL,NULL,products,NULL
+860,Electricity,الكهرباء,approved,828,1,"2023-01-31 17:55:58","2023-01-31 17:55:58",NULL,NULL,NULL,products,NULL
+861,"Office tools","ادوات مكتبية",approved,852,1,"2023-01-31 17:55:58","2023-01-31 17:55:58",NULL,NULL,NULL,products,NULL
+862,Lamps,المصابيح,approved,860,1,"2023-01-31 17:55:59","2023-01-31 17:55:59",NULL,NULL,NULL,products,NULL
+864,Stationery,قرطاسية,approved,852,1,"2023-01-31 17:55:59","2023-01-31 17:55:59",NULL,NULL,NULL,products,NULL
+865,Other,أخرى,approved,827,1,"2023-01-31 17:55:59","2023-01-31 17:55:59",NULL,NULL,NULL,products,NULL
+866,Decorations,"الديكور والتجميل",approved,2,1,"2023-01-31 17:55:59","2023-01-31 17:55:59",NULL,NULL,NULL,products,NULL
+868,Interior,الداخلية,approved,862,1,"2023-01-31 17:56:00","2023-01-31 17:56:00",NULL,NULL,NULL,products,NULL
+869,Exterior,الخارجية,approved,862,1,"2023-01-31 17:56:00","2023-01-31 17:56:00",NULL,NULL,NULL,products,NULL
+870,"Electrical Equipment","المعدات و الأدوات الكهربائية",approved,860,1,"2023-01-31 17:56:00","2023-01-31 17:56:00",NULL,NULL,NULL,products,NULL
+871,"Electrical Transformers","المحولات الكهربائية",approved,860,1,"2023-01-31 17:56:00","2023-01-31 17:56:00",NULL,NULL,NULL,products,NULL
+872,Boards,لوحات,approved,867,1,"2023-01-31 17:56:01","2023-01-31 17:56:01",NULL,NULL,NULL,products,NULL
+873,"External boards","لوحات خارجية",approved,867,1,"2023-01-31 17:56:01","2023-01-31 17:56:01",NULL,NULL,NULL,products,NULL
+876,Other,أخرى,approved,793,1,"2023-01-31 17:56:01","2023-01-31 17:56:01",NULL,NULL,NULL,products,NULL
+877,Cables,الكابلات,approved,860,1,"2023-01-31 17:56:01","2023-01-31 17:56:01",NULL,NULL,NULL,products,NULL
+878,"Brochures and publications","كتيبات ومنشورات",approved,867,1,"2023-01-31 17:56:02","2023-01-31 17:56:02",NULL,NULL,NULL,products,NULL
+880,Other,أخرى,approved,825,1,"2023-01-31 17:56:02","2023-01-31 17:56:02",NULL,NULL,NULL,products,NULL
+881,Cards,بطاقات,approved,867,1,"2023-01-31 17:56:02","2023-01-31 17:56:02",NULL,NULL,NULL,products,NULL
+882,"Sanitary Wares and Plumbing","الأدوات الصحية و السباكة",approved,828,1,"2023-01-31 17:56:02","2023-01-31 17:56:02",NULL,NULL,NULL,products,NULL
+883,Reservoirs,الخزانات,approved,882,1,"2023-01-31 17:56:03","2023-01-31 17:56:03",NULL,NULL,NULL,products,NULL
+884,"Plumbing Tools","أدوات السباكة",approved,882,1,"2023-01-31 17:56:03","2023-01-31 17:56:03",NULL,NULL,NULL,products,NULL
+885,Forms,نماذج,approved,867,1,"2023-01-31 17:56:03","2023-01-31 17:56:03",NULL,NULL,NULL,products,NULL
+886,"Water Boilers",السخانات,approved,882,1,"2023-01-31 17:56:03","2023-01-31 17:56:03",NULL,NULL,NULL,products,NULL
+887,"Sanitary Ware","الأدوات الصحية",approved,882,1,"2023-01-31 17:56:04","2023-01-31 17:56:04",NULL,NULL,NULL,products,NULL
+888,"Restaurant Menu","منيو مطاعم",approved,867,1,"2023-01-31 17:56:04","2023-01-31 17:56:04",NULL,NULL,NULL,products,NULL
+889,Pumps,المضخات,approved,882,1,"2023-01-31 17:56:04","2023-01-31 17:56:04",NULL,NULL,NULL,products,NULL
+890,Other,أخرى,approved,1353,1,"2023-01-31 17:56:04","2023-01-31 17:56:04",NULL,NULL,NULL,products,NULL
+891,Desalination,"تحلية المياه",approved,882,1,"2023-01-31 17:56:05","2023-01-31 17:56:05",NULL,NULL,NULL,products,NULL
+893,Theaters,مسارح,approved,2,1,"2023-01-31 17:56:05","2023-01-31 17:56:05",NULL,NULL,NULL,products,NULL
+894,"Warehouses and Storage","المخازن والمستودعات",approved,2,1,"2023-01-31 17:56:05","2023-01-31 17:56:05",NULL,NULL,NULL,products,NULL
+895,Shelves,الأرفف,approved,894,1,"2023-01-31 17:56:06","2023-01-31 17:56:06",NULL,NULL,NULL,products,NULL
+896,Other,أخرى,approved,880,1,"2023-01-31 17:56:06","2023-01-31 17:56:06",NULL,NULL,NULL,products,NULL
+897,Movable,متحركة,approved,895,1,"2023-01-31 17:56:06","2023-01-31 17:56:06",NULL,NULL,NULL,products,NULL
+898,Paint,الدهان,approved,828,1,"2023-01-31 17:56:06","2023-01-31 17:56:06",NULL,NULL,NULL,products,NULL
+899,Paint,الدهانات,approved,898,1,"2023-01-31 17:56:07","2023-01-31 17:56:07",NULL,NULL,NULL,products,NULL
+900,Stable,ثابتة,approved,895,1,"2023-01-31 17:56:07","2023-01-31 17:56:07",NULL,NULL,NULL,products,NULL
+901,"Exterior Paint","الدهانات الخارجية",approved,899,1,"2023-01-31 17:56:07","2023-01-31 17:56:07",NULL,NULL,NULL,products,NULL
+902,"Interior Paint","الدهانات الداخلية",approved,899,1,"2023-01-31 17:56:07","2023-01-31 17:56:07",NULL,NULL,NULL,products,NULL
+903,Pallet,الطبليات,approved,894,1,"2023-01-31 17:56:08","2023-01-31 17:56:08",NULL,NULL,NULL,products,NULL
+904,"Medical Paint","دهان طبي",approved,666,1,"2023-01-31 17:56:08","2023-01-31 17:56:08",NULL,NULL,NULL,products,NULL
+905,"Paint Tools","أدوات الدهان",approved,898,1,"2023-01-31 17:56:08","2023-01-31 17:56:08",NULL,NULL,NULL,products,NULL
+906,Lockers,"الخزائن الشخصية",approved,894,1,"2023-01-31 17:56:08","2023-01-31 17:56:08",NULL,NULL,NULL,products,NULL
+907,"Paint Equipment","مكائن الدهان",approved,898,1,"2023-01-31 17:56:09","2023-01-31 17:56:09",NULL,NULL,NULL,products,NULL
+909,"Sand, gravel and water","الرمال و الحصى و المياه",approved,820,1,"2023-01-31 17:56:09","2023-01-31 17:56:09",NULL,NULL,NULL,products,NULL
+910,Sand,رمل,approved,909,1,"2023-01-31 17:56:09","2023-01-31 17:56:09",NULL,NULL,NULL,products,NULL
+911,"Shipping Trolley","عربات الشحن",approved,894,1,"2023-01-31 17:56:09","2023-01-31 17:56:09",NULL,NULL,NULL,products,NULL
+912,Gravel,حصى,approved,909,1,"2023-01-31 17:56:10","2023-01-31 17:56:10",NULL,NULL,NULL,products,NULL
+913,Other,أخرى,approved,890,1,"2023-01-31 17:56:10","2023-01-31 17:56:10",NULL,NULL,NULL,products,NULL
+914,"Undrinkable water","مياه غير صالحة للشرب",approved,909,1,"2023-01-31 17:56:10","2023-01-31 17:56:10",NULL,NULL,NULL,products,NULL
+915,Carpentry,النجارة,approved,828,1,"2023-01-31 17:56:10","2023-01-31 17:56:10",NULL,NULL,NULL,products,NULL
+916,Wood,خشب,approved,774,1,"2023-01-31 17:56:11","2023-01-31 17:56:11",NULL,NULL,NULL,products,NULL
+918,"Carpentry Tools","أدوات النجارة",approved,915,1,"2023-01-31 17:56:11","2023-01-31 17:56:11",NULL,NULL,NULL,products,NULL
+919,Other,أخرى,approved,865,1,"2023-01-31 17:56:11","2023-01-31 17:56:11",NULL,NULL,NULL,products,NULL
+920,"Carpentry Equipment","معدات النجارة",approved,915,1,"2023-01-31 17:56:11","2023-01-31 17:56:11",NULL,NULL,NULL,products,NULL
+921,Other,أخرى,approved,896,1,"2023-01-31 17:56:12","2023-01-31 17:56:12",NULL,NULL,NULL,products,NULL
+922,"Windows and Doors","النوافذ و الأبواب",approved,828,1,"2023-01-31 17:56:12","2023-01-31 17:56:12",NULL,NULL,NULL,products,NULL
+923,"Support and operation services","الخدمات المساندة و التشغيل",approved,1335,1,"2023-01-31 17:56:12","2023-01-31 17:56:12",NULL,NULL,NULL,products,NULL
+924,Logistics,"الخدمات اللوجستية",approved,923,1,"2023-01-31 17:56:12","2023-01-31 17:56:12",NULL,NULL,NULL,products,NULL
+926,Windows,النوافذ,approved,922,1,"2023-01-31 17:56:13","2023-01-31 17:56:13",NULL,NULL,NULL,products,NULL
+927,Doors,الأبواب,approved,922,1,"2023-01-31 17:56:13","2023-01-31 17:56:13",NULL,NULL,NULL,products,NULL
+928,"Automatic Doors","الأبواب الأوتوماتيكية",approved,927,1,"2023-01-31 17:56:13","2023-01-31 17:56:13",NULL,NULL,NULL,products,NULL
+929,"Fixed Doors","الأبواب الثابتة",approved,927,1,"2023-01-31 17:56:14","2023-01-31 17:56:14",NULL,NULL,NULL,products,NULL
+930,Flooring,الأرضيات,approved,828,1,"2023-01-31 17:56:14","2023-01-31 17:56:14",NULL,NULL,NULL,products,NULL
+931,"Industrial Virilization","التجلية الصناعية",approved,930,1,"2023-01-31 17:56:14","2023-01-31 17:56:14",NULL,NULL,NULL,products,NULL
+932,Parquet,الباركيه,approved,930,1,"2023-01-31 17:56:14","2023-01-31 17:56:14",NULL,NULL,NULL,products,NULL
+933,Vinyl,الفينيل,approved,930,1,"2023-01-31 17:56:15","2023-01-31 17:56:15",NULL,NULL,NULL,products,NULL
+934,Carpet,السجاد,approved,930,1,"2023-01-31 17:56:15","2023-01-31 17:56:15",NULL,NULL,NULL,products,NULL
+935,"Equipment for Buildings and Facilities","أجهزة و معدات المباني و المنشآت",approved,8,1,"2023-01-31 17:56:15","2023-01-31 17:56:15",NULL,NULL,NULL,products,NULL
+936,Elevators,المصاعد,approved,935,1,"2023-01-31 17:56:15","2023-01-31 17:56:15",NULL,NULL,NULL,products,NULL
+937,Elevators,المصاعد,approved,936,1,"2023-01-31 17:56:15","2023-01-31 17:56:15",NULL,NULL,NULL,products,NULL
+938,Escalators,"السلالم المتحركة",approved,936,1,"2023-01-31 17:56:16","2023-01-31 17:56:16",NULL,NULL,NULL,products,NULL
+939,Generators,المولدات,approved,935,1,"2023-01-31 17:56:16","2023-01-31 17:56:16",NULL,NULL,NULL,products,NULL
+940,"Petrochemical Energy Generators","مولدات الطاقة البيتروكيماوية",approved,939,1,"2023-01-31 17:56:16","2023-01-31 17:56:16",NULL,NULL,NULL,products,NULL
+942,"Hot Water Generators","مولدات تسخين المياه",approved,939,1,"2023-01-31 17:56:16","2023-01-31 17:56:16",NULL,NULL,NULL,products,NULL
+943,"Control Panel","لوحة التحكم",approved,939,1,"2023-01-31 17:56:17","2023-01-31 17:56:17",NULL,NULL,NULL,products,NULL
+944,Other,أخرى,approved,784,1,"2023-01-31 17:56:17","2023-01-31 17:56:17",NULL,NULL,NULL,products,NULL
+945,Safety,السلامة,approved,935,1,"2023-01-31 17:56:17","2023-01-31 17:56:17",NULL,NULL,NULL,products,NULL
+946,"Security Cameras","كاميرات المراقبة",approved,945,1,"2023-01-31 17:56:17","2023-01-31 17:56:17",NULL,NULL,NULL,products,NULL
+947,"Protection Devices","أجهزة الحماية والأمان",approved,945,1,"2023-01-31 17:56:18","2023-01-31 17:56:18",NULL,NULL,NULL,products,NULL
+948,"Security and Safety Tools","أدوات الأمن و السلامة",approved,945,1,"2023-01-31 17:56:18","2023-01-31 17:56:18",NULL,NULL,NULL,products,NULL
+949,Ducting,التهوية,approved,945,1,"2023-01-31 17:56:18","2023-01-31 17:56:18",NULL,NULL,NULL,products,NULL
+950,"Emergency Exits","مخارج الطوارئ",approved,945,1,"2023-01-31 17:56:19","2023-01-31 17:56:19",NULL,NULL,NULL,products,NULL
+951,Fire,الحريق,approved,958,1,"2023-01-31 17:56:19","2023-01-31 17:56:19",NULL,NULL,NULL,products,NULL
+952,Extinguishers,طفايات,approved,951,1,"2023-01-31 17:56:19","2023-01-31 17:56:19",NULL,NULL,NULL,products,NULL
+953,"Fire systems","انظمة حريق متكاملة",approved,951,1,"2023-01-31 17:56:19","2023-01-31 17:56:19",NULL,NULL,NULL,products,NULL
+954,"Sensors and alarms","الحساسات و الانذار",approved,951,1,"2023-01-31 17:56:19","2023-01-31 17:56:19",NULL,NULL,NULL,products,NULL
+955,"Spare Parts","قطع غيار",approved,952,1,"2023-01-31 17:56:20","2023-01-31 17:56:20",NULL,NULL,NULL,products,NULL
+957,Central,مركزية,approved,924,1,"2023-01-31 17:56:20","2023-01-31 17:56:20",NULL,NULL,NULL,products,NULL
+958,"Restaurants and kitchens","المطاعم و المطابخ",approved,957,1,"2023-01-31 17:56:20","2023-01-31 17:56:20",NULL,NULL,NULL,products,NULL
+961,Logistics,"الخدمات اللوجستية",approved,960,1,"2023-01-31 17:56:20","2023-01-31 17:56:20",NULL,NULL,NULL,products,NULL
+962,"Transportation and Delivery","النقل و التوصيل",approved,961,1,"2023-01-31 17:56:21","2023-01-31 17:56:21",NULL,NULL,NULL,products,NULL
+963,Cold,البارد,approved,962,1,"2023-01-31 17:56:21","2023-01-31 17:56:21",NULL,NULL,NULL,products,NULL
+964,Dry,الجاف,approved,962,1,"2023-01-31 17:56:21","2023-01-31 17:56:21",NULL,NULL,NULL,products,NULL
+965,Storage,التخزين,approved,961,1,"2023-01-31 17:56:21","2023-01-31 17:56:21",NULL,NULL,NULL,products,NULL
+966,Cold,البارد,approved,965,1,"2023-01-31 17:56:22","2023-01-31 17:56:22",NULL,NULL,NULL,products,NULL
+967,Dry,الجاف,approved,965,1,"2023-01-31 17:56:22","2023-01-31 17:56:22",NULL,NULL,NULL,products,NULL
+968,"Oil and Gas Services","الخدمات البترولية و الغازية",approved,960,1,"2023-01-31 17:56:22","2023-01-31 17:56:22",NULL,NULL,NULL,products,NULL
+969,Petrol,البنزين,approved,968,1,"2023-01-31 17:56:23","2023-01-31 17:56:23",NULL,NULL,NULL,products,NULL
+970,Diesel,الديزل,approved,968,1,"2023-01-31 17:56:23","2023-01-31 17:56:23",NULL,NULL,NULL,products,NULL
+971,Gas,الغاز,approved,968,1,"2023-01-31 17:56:23","2023-01-31 17:56:23",NULL,NULL,NULL,products,NULL
+972,"Medical Gas","الغاز الطبي",approved,968,1,"2023-01-31 17:56:23","2023-01-31 17:56:23",NULL,NULL,NULL,products,NULL
+974,Cleaners,"عمال النظافة",approved,973,1,"2023-01-31 17:56:24","2023-01-31 17:56:24",NULL,NULL,NULL,products,NULL
+975,Factories,المصانع,approved,974,1,"2023-01-31 17:56:24","2023-01-31 17:56:24",NULL,NULL,NULL,products,NULL
+976,"Shopping Centers","المراكز التجارية",approved,974,1,"2023-01-31 17:56:24","2023-01-31 17:56:24",NULL,NULL,NULL,products,NULL
+977,Hotels,الفنادق,approved,974,1,"2023-01-31 17:56:24","2023-01-31 17:56:24",NULL,NULL,NULL,products,NULL
+978,Hospitals,المستشفيات,approved,974,1,"2023-01-31 17:56:25","2023-01-31 17:56:25",NULL,NULL,NULL,products,NULL
+979,Companies,الشركات,approved,974,1,"2023-01-31 17:56:25","2023-01-31 17:56:25",NULL,NULL,NULL,products,NULL
+980,Restaurants,المطاعم,approved,974,1,"2023-01-31 17:56:25","2023-01-31 17:56:25",NULL,NULL,NULL,products,NULL
+981,Maintenance,الصيانة,approved,973,1,"2023-01-31 17:56:26","2023-01-31 17:56:26",NULL,NULL,NULL,products,NULL
+982,Engineers,مهندسين,approved,981,1,"2023-01-31 17:56:26","2023-01-31 17:56:26",NULL,NULL,NULL,products,NULL
+983,Technicians,فنيين,approved,981,1,"2023-01-31 17:56:26","2023-01-31 17:56:26",NULL,NULL,NULL,products,NULL
+984,"Security Officers.","رجال الأمن",approved,973,1,"2023-01-31 17:56:26","2023-01-31 17:56:26",NULL,NULL,NULL,products,NULL
+985,"Valet Parking","خدمة صف السيارات",approved,973,1,"2023-01-31 17:56:27","2023-01-31 17:56:27",NULL,NULL,NULL,products,NULL
+986,"Facilities Services","خدمات المرافق",approved,960,1,"2023-01-31 17:56:27","2023-01-31 17:56:27",NULL,NULL,NULL,products,NULL
+987,Containers,الحاويات,approved,986,1,"2023-01-31 17:56:27","2023-01-31 17:56:27",NULL,NULL,NULL,products,NULL
+988,Medical,الطبية,approved,987,1,"2023-01-31 17:56:27","2023-01-31 17:56:27",NULL,NULL,NULL,products,NULL
+989,Medicine,الأدوية,approved,988,1,"2023-01-31 17:56:28","2023-01-31 17:56:28",NULL,NULL,NULL,products,NULL
+990,"Medical Materials","المواد الطبية",approved,988,1,"2023-01-31 17:56:28","2023-01-31 17:56:28",NULL,NULL,NULL,products,NULL
+991,"Infectious and Toxic","المعدية و الخطيرة",approved,988,1,"2023-01-31 17:56:28","2023-01-31 17:56:28",NULL,NULL,NULL,products,NULL
+992,Waste,المخلفات,approved,987,1,"2023-01-31 17:56:28","2023-01-31 17:56:28",NULL,NULL,NULL,products,NULL
+993,Garbage,"مخلفات القمامة",approved,992,1,"2023-01-31 17:56:29","2023-01-31 17:56:29",NULL,NULL,NULL,products,NULL
+994,"Industrial Waste","مخلفات البناء",approved,992,1,"2023-01-31 17:56:29","2023-01-31 17:56:29",NULL,NULL,NULL,products,NULL
+995,"Paper and Cardboard","الورق و الكرتون",approved,987,1,"2023-01-31 17:56:29","2023-01-31 17:56:29",NULL,NULL,NULL,products,NULL
+996,"Sterilization and Disinfection","التعقيم و التطهير",approved,986,1,"2023-01-31 17:56:29","2023-01-31 17:56:29",NULL,NULL,NULL,products,NULL
+997,"Medical Centres","المراكز الطبية",approved,996,1,"2023-01-31 17:56:30","2023-01-31 17:56:30",NULL,NULL,NULL,products,NULL
+998,"Shopping Centers","المراكز التجارية",approved,996,1,"2023-01-31 17:56:30","2023-01-31 17:56:30",NULL,NULL,NULL,products,NULL
+999,Factories,المصانع,approved,996,1,"2023-01-31 17:56:30","2023-01-31 17:56:30",NULL,NULL,NULL,products,NULL
+1000,"Facilities, Companies and Buildings","المنشآت والشركات والمباني",approved,996,1,"2023-01-31 17:56:31","2023-01-31 17:56:31",NULL,NULL,NULL,products,NULL
+1002,Buildings,المباني,approved,1001,1,"2023-01-31 17:56:31","2023-01-31 17:56:31",NULL,NULL,NULL,products,NULL
+1003,Glass,الزجاج,approved,955,1,"2023-01-31 17:56:31","2023-01-31 17:56:31",NULL,NULL,NULL,products,NULL
+1004,"Parking and Public Facilities","المواقف والمرافق العامة",approved,1001,1,"2023-01-31 17:56:31","2023-01-31 17:56:31",NULL,NULL,NULL,products,NULL
+1005,"Pest Control","مكافحة الحشرات",approved,1003,1,"2023-01-31 17:56:32","2023-01-31 17:56:32",NULL,NULL,NULL,products,NULL
+1006,"Medical Centers","المراكز الطبية",approved,1005,1,"2023-01-31 17:56:32","2023-01-31 17:56:32",NULL,NULL,NULL,products,NULL
+1007,"Facilities, Companies and Buildings","المنشآت و الشركات و المباني",approved,1005,1,"2023-01-31 17:56:32","2023-01-31 17:56:32",NULL,NULL,NULL,products,NULL
+1008,"Spare Parts","قطع الغيار",approved,8,1,"2023-01-31 17:56:32","2023-01-31 17:56:32",NULL,NULL,NULL,products,NULL
+1009,"Elevators and moving doors","المصاعد والأبواب المتحركة",approved,1008,1,"2023-01-31 17:56:33","2023-01-31 17:56:33",NULL,NULL,NULL,products,NULL
+1010,Elevators,المصاعد,approved,1009,1,"2023-01-31 17:56:33","2023-01-31 17:56:33",NULL,NULL,NULL,products,NULL
+1011,Escalators,"السلالم المتحركة",approved,1009,1,"2023-01-31 17:56:33","2023-01-31 17:56:33",NULL,NULL,NULL,products,NULL
+1012,"Fire Systems","أنظمة الحرائق",approved,1008,1,"2023-01-31 17:56:33","2023-01-31 17:56:33",NULL,NULL,NULL,products,NULL
+1013,"Refilling Fire Extinguishers","إعادة تعبئة طفايات الحريق",approved,1012,1,"2023-01-31 17:56:34","2023-01-31 17:56:34",NULL,NULL,NULL,products,NULL
+1016,"Integrated Fire Systems","أنظمة الحريق المتكاملة",approved,1012,1,"2023-01-31 17:56:34","2023-01-31 17:56:34",NULL,NULL,NULL,products,NULL
+1019,"Control Panel","لوحة التحكم",approved,1012,1,"2023-01-31 17:56:34","2023-01-31 17:56:34",NULL,NULL,NULL,products,NULL
+1022,Companies,الشركات,approved,1021,1,"2023-01-31 17:56:35","2023-01-31 17:56:35",NULL,NULL,NULL,products,NULL
+1023,Factories,المصانع,approved,1021,1,"2023-01-31 17:56:35","2023-01-31 17:56:35",NULL,NULL,NULL,products,NULL
+1024,"Health Centers","المراكز الصحية",approved,1021,1,"2023-01-31 17:56:35","2023-01-31 17:56:35",NULL,NULL,NULL,products,NULL
+1025,"Shopping Centres","المراكز التجارية",approved,1021,1,"2023-01-31 17:56:35","2023-01-31 17:56:35",NULL,NULL,NULL,products,NULL
+1026,Generators,المولدات,approved,1008,1,"2023-01-31 17:56:36","2023-01-31 17:56:36",NULL,NULL,NULL,products,NULL
+1027,"Electric Power Generators","مولدات الطاقة الكهربائية",approved,1026,1,"2023-01-31 17:56:36","2023-01-31 17:56:36",NULL,NULL,NULL,products,NULL
+1030,Diesel,ديزل,approved,1006,1,"2023-01-31 17:56:36","2023-01-31 17:56:36",NULL,NULL,NULL,products,NULL
+1031,"Hot Water Generators","مولدات تسخين المياه",approved,1026,1,"2023-01-31 17:56:36","2023-01-31 17:56:36",NULL,NULL,NULL,products,NULL
+1034,Diesel,ديزل,approved,287,1,"2023-01-31 17:56:37","2023-01-31 17:56:37",NULL,NULL,NULL,products,NULL
+1035,"Water Pump Generators","مولدات ضخ المياه",approved,1026,1,"2023-01-31 17:56:37","2023-01-31 17:56:37",NULL,NULL,NULL,products,NULL
+1039,"Glass Doors","الأبواب الزجاجية",approved,1038,1,"2023-01-31 17:56:37","2023-01-31 17:56:37",NULL,NULL,NULL,products,NULL
+1040,Maintenance,صيانة,approved,1039,1,"2023-01-31 17:56:37","2023-01-31 17:56:37",NULL,NULL,NULL,products,NULL
+1041,"Spare Parts","قطع غيار",approved,1039,1,"2023-01-31 17:56:38","2023-01-31 17:56:38",NULL,NULL,NULL,products,NULL
+1042,"Iron Doors","الأبواب الحديدية",approved,1038,1,"2023-01-31 17:56:38","2023-01-31 17:56:38",NULL,NULL,NULL,products,NULL
+1043,Maintenance,صيانة,approved,1042,1,"2023-01-31 17:56:38","2023-01-31 17:56:38",NULL,NULL,NULL,products,NULL
+1044,"Spare Parts","قطع غيار",approved,1042,1,"2023-01-31 17:56:38","2023-01-31 17:56:38",NULL,NULL,NULL,products,NULL
+1048,Jewelry,مجوهرات,approved,1047,1,"2023-01-31 17:56:39","2023-01-31 17:56:39",NULL,NULL,NULL,products,NULL
+1049,"Hair Accessories","اكسسوارات الشعر",approved,1047,1,"2023-01-31 17:56:39","2023-01-31 17:56:39",NULL,NULL,NULL,products,NULL
+1051,"Clothing Accessories","اكسسوارات الملابس",approved,1047,1,"2023-01-31 17:56:39","2023-01-31 17:56:39",NULL,NULL,NULL,products,NULL
+1052,"Mobile Accessories","اكسسوارات الجوال",approved,1047,1,"2023-01-31 17:56:40","2023-01-31 17:56:40",NULL,NULL,NULL,products,NULL
+1053,Watches,ساعات,approved,1047,1,"2023-01-31 17:56:40","2023-01-31 17:56:40",NULL,NULL,NULL,products,NULL
+1054,Eyeglasses,نظارات,approved,1047,1,"2023-01-31 17:56:40","2023-01-31 17:56:40",NULL,NULL,NULL,products,NULL
+1055,Other,أخرى,approved,1047,1,"2023-01-31 17:56:40","2023-01-31 17:56:40",NULL,NULL,NULL,products,NULL
+1056,Necklaces,سلاسل,approved,1048,1,"2023-01-31 17:56:41","2023-01-31 17:56:41",NULL,NULL,NULL,products,NULL
+1057,Earrings,أقراط,approved,1048,1,"2023-01-31 17:56:41","2023-01-31 17:56:41",NULL,NULL,NULL,products,NULL
+1058,Bracelets,أساور,approved,1048,1,"2023-01-31 17:56:41","2023-01-31 17:56:41",NULL,NULL,NULL,products,NULL
+1059,Rings,خواتم,approved,1048,1,"2023-01-31 17:56:41","2023-01-31 17:56:41",NULL,NULL,NULL,products,NULL
+1060,Anklets,خلاخل,approved,1048,1,"2023-01-31 17:56:42","2023-01-31 17:56:42",NULL,NULL,NULL,products,NULL
+1061,"Nose rings",زمام,approved,1048,1,"2023-01-31 17:56:42","2023-01-31 17:56:42",NULL,NULL,NULL,products,NULL
+1062,"Body Jewelry","اكسسوارات جسم",approved,1048,1,"2023-01-31 17:56:42","2023-01-31 17:56:42",NULL,NULL,NULL,products,NULL
+1063,Tiaras,تيجان,approved,1048,1,"2023-01-31 17:56:42","2023-01-31 17:56:42",NULL,NULL,NULL,products,NULL
+1064,"Covers and Cases","جرابات الجوال",approved,1052,1,"2023-01-31 17:56:43","2023-01-31 17:56:43",NULL,NULL,NULL,products,NULL
+1168,"Cuff links","أزرار الأكمام (كبك)",approved,1051,1,"2023-01-31 17:56:43","2023-01-31 17:56:43",NULL,NULL,NULL,products,NULL
+1169,Belts,أحزمة,approved,1051,1,"2023-01-31 17:56:43","2023-01-31 17:56:43",NULL,NULL,NULL,products,NULL
+1170,Brooches,"دبابيس (بروشات)",approved,1051,1,"2023-01-31 17:56:43","2023-01-31 17:56:43",NULL,NULL,NULL,products,NULL
+1171,Leather,جلد,approved,1169,1,"2023-01-31 17:56:44","2023-01-31 17:56:44",NULL,NULL,NULL,products,NULL
+1172,Metal,معدني,approved,1169,1,"2023-01-31 17:56:44","2023-01-31 17:56:44",NULL,NULL,NULL,products,NULL
+1173,Fabric,قماشي,approved,1169,1,"2023-01-31 17:56:44","2023-01-31 17:56:44",NULL,NULL,NULL,products,NULL
+1197,Sunglasses,"نظارات شمسية",approved,1054,1,"2023-01-31 17:56:44","2023-01-31 17:56:44",NULL,NULL,NULL,products,NULL
+1198,Eyeglasses,"نظارات طبية",approved,1054,1,"2023-01-31 17:56:45","2023-01-31 17:56:45",NULL,NULL,NULL,products,NULL
+1199,"Eyeglasses chain","سلاسل نظارات",approved,1054,1,"2023-01-31 17:56:45","2023-01-31 17:56:45",NULL,NULL,NULL,products,NULL
+1201,Holder,حاملات,approved,1052,1,"2023-01-31 17:56:45","2023-01-31 17:56:45",NULL,NULL,NULL,products,NULL
+1202,Other,أخرى,approved,1052,1,"2023-01-31 17:56:45","2023-01-31 17:56:45",NULL,NULL,NULL,products,NULL
+1213,Keychains,"حامل مفاتيح",approved,1055,1,"2023-01-31 17:56:46","2023-01-31 17:56:46",NULL,NULL,NULL,products,NULL
+1214,Other,أخرى,approved,1055,1,"2023-01-31 17:56:46","2023-01-31 17:56:46",NULL,NULL,NULL,products,NULL
+1217,Colored,ملون,approved,1213,1,"2023-01-31 17:56:46","2023-01-31 17:56:46",NULL,NULL,NULL,products,NULL
+1218,"Yellow gold",ذهبي,approved,1213,1,"2023-01-31 17:56:46","2023-01-31 17:56:46",NULL,NULL,NULL,products,NULL
+1220,Silver,فضي,approved,1213,1,"2023-01-31 17:56:46","2023-01-31 17:56:46",NULL,NULL,NULL,products,NULL
+1221,Platinum,بلاتيني,approved,1213,1,"2023-01-31 17:56:47","2023-01-31 17:56:47",NULL,NULL,NULL,products,NULL
+1225,"Stainless steel",فولاذي,approved,1213,1,"2023-01-31 17:56:47","2023-01-31 17:56:47",NULL,NULL,NULL,products,NULL
+1226,Bags,حقائب,approved,1047,1,"2023-01-31 17:56:47","2023-01-31 17:56:47",NULL,NULL,NULL,products,NULL
+1227,Backpacks,"حقائب ظهر",approved,1226,1,"2023-01-31 17:56:47","2023-01-31 17:56:47",NULL,NULL,NULL,products,NULL
+1228,Handbags,"حقائب يد",approved,1226,1,"2023-01-31 17:56:48","2023-01-31 17:56:48",NULL,NULL,NULL,products,NULL
+1229,"Luggage bags","حقائب سفر",approved,1226,1,"2023-01-31 17:56:48","2023-01-31 17:56:48",NULL,NULL,NULL,products,NULL
+1230,Wallets,محافظ,approved,1047,1,"2023-01-31 17:56:48","2023-01-31 17:56:48",NULL,NULL,NULL,products,NULL
+1231,"Small wallets","محافظ صغيره",approved,1230,1,"2023-01-31 17:56:48","2023-01-31 17:56:48",NULL,NULL,NULL,products,NULL
+1232,"Long wallets","محافظ طويلة",approved,1230,1,"2023-01-31 17:56:49","2023-01-31 17:56:49",NULL,NULL,NULL,products,NULL
+1233,Cardholders,"حاملات البطاقات",approved,1230,1,"2023-01-31 17:56:49","2023-01-31 17:56:49",NULL,NULL,NULL,products,NULL
+1235,Gloves,قفّازات,approved,1234,1,"2023-01-31 17:56:49","2023-01-31 17:56:49",NULL,NULL,NULL,products,NULL
+1236,"Face Masks",كمّامات,approved,1234,1,"2023-01-31 17:56:49","2023-01-31 17:56:49",NULL,NULL,NULL,products,NULL
+1237,Sanitisers,معقّمات,approved,1234,1,"2023-01-31 17:56:50","2023-01-31 17:56:50",NULL,NULL,NULL,products,NULL
+1238,"Hand Sanitiser Gel","جل معقّم  لليدين",approved,1237,1,"2023-01-31 17:56:50","2023-01-31 17:56:50",NULL,NULL,NULL,products,NULL
+1239,"Surface Disinfectant","معقّم للأسطح",approved,1237,1,"2023-01-31 17:56:50","2023-01-31 17:56:50",NULL,NULL,NULL,products,NULL
+1240,"Sanitizing Spray","بخاخ معقّم",approved,1237,1,"2023-01-31 17:56:50","2023-01-31 17:56:50",NULL,NULL,NULL,products,NULL
+1241,Other,أخرى,approved,1260,1,"2023-01-31 17:56:51","2023-01-31 17:56:51",NULL,NULL,NULL,products,NULL
+1242,Other,أخرى,approved,1241,1,"2023-01-31 17:56:51","2023-01-31 17:56:51",NULL,NULL,NULL,products,NULL
+1243,Other,أخرى,approved,1261,1,"2023-01-31 17:56:51","2023-01-31 17:56:51",NULL,NULL,NULL,products,NULL
+1244,Other,أخرى,approved,47,1,"2023-01-31 17:56:51","2023-01-31 17:56:51",NULL,NULL,NULL,products,NULL
+1245,Other,أخرى,approved,1244,1,"2023-01-31 17:56:52","2023-01-31 17:56:52",NULL,NULL,NULL,products,NULL
+1246,Other,أخرى,approved,1245,1,"2023-01-31 17:56:52","2023-01-31 17:56:52",NULL,NULL,NULL,products,NULL
+1247,Other,أخرى,approved,1252,1,"2023-01-31 17:56:52","2023-01-31 17:56:52",NULL,NULL,NULL,products,NULL
+1248,Other,أخرى,approved,1249,1,"2023-01-31 17:56:52","2023-01-31 17:56:52",NULL,NULL,NULL,products,NULL
+1249,Other,أخرى,approved,153,1,"2023-01-31 17:56:53","2023-01-31 17:56:53",NULL,NULL,NULL,products,NULL
+1250,Other,أخرى,approved,1248,1,"2023-01-31 17:56:53","2023-01-31 17:56:53",NULL,NULL,NULL,products,NULL
+1251,Other,أخرى,approved,1268,1,"2023-01-31 17:56:53","2023-01-31 17:56:53",NULL,NULL,NULL,products,NULL
+1252,Other,أخرى,approved,1251,1,"2023-01-31 17:56:53","2023-01-31 17:56:53",NULL,NULL,NULL,products,NULL
+1253,Other,أخرى,approved,1247,1,"2023-01-31 17:56:54","2023-01-31 17:56:54",NULL,NULL,NULL,products,NULL
+1254,Other,أخرى,approved,1253,1,"2023-01-31 17:56:54","2023-01-31 17:56:54",NULL,NULL,NULL,products,NULL
+1255,Other,أخرى,approved,1257,1,"2023-01-31 17:56:54","2023-01-31 17:56:54",NULL,NULL,NULL,products,NULL
+1256,Other,أخرى,approved,1254,1,"2023-01-31 17:56:54","2023-01-31 17:56:54",NULL,NULL,NULL,products,NULL
+1257,Other,أخرى,approved,1256,1,"2023-01-31 17:56:55","2023-01-31 17:56:55",NULL,NULL,NULL,products,NULL
+1258,Other,أخرى,approved,1255,1,"2023-01-31 17:56:55","2023-01-31 17:56:55",NULL,NULL,NULL,products,NULL
+1259,Other,أخرى,approved,1258,1,"2023-01-31 17:56:55","2023-01-31 17:56:55",NULL,NULL,NULL,products,NULL
+1260,Other,أخرى,approved,183,1,"2023-01-31 17:56:55","2023-01-31 17:56:55",NULL,NULL,NULL,products,NULL
+1261,Other,أخرى,approved,1242,1,"2023-01-31 17:56:56","2023-01-31 17:56:56",NULL,NULL,NULL,products,NULL
+1262,Other,أخرى,approved,1265,1,"2023-01-31 17:56:56","2023-01-31 17:56:56",NULL,NULL,NULL,products,NULL
+1263,Other,أخرى,approved,239,1,"2023-01-31 17:56:56","2023-01-31 17:56:56",NULL,NULL,NULL,products,NULL
+1264,Other,أخرى,approved,1270,1,"2023-01-31 17:56:56","2023-01-31 17:56:56",NULL,NULL,NULL,products,NULL
+1265,Other,أخرى,approved,1264,1,"2023-01-31 17:56:57","2023-01-31 17:56:57",NULL,NULL,NULL,products,NULL
+1266,"Construction Tools","أدوات البناء",approved,831,1,"2023-01-31 17:56:57","2023-01-31 17:56:57",NULL,NULL,NULL,products,NULL
+1271,"Ready Clothes","الملابس الجاهزة",approved,23,1,"2023-01-31 17:56:57","2023-01-31 17:56:57",NULL,NULL,NULL,products,NULL
+1276,"Fresh Milk","حليب طازج",approved,155,1,"2023-01-31 17:56:57","2023-01-31 17:56:57",NULL,NULL,NULL,products,NULL
+1277,"Long Life Milk","حليب طويل الأجل",approved,155,1,"2023-01-31 17:56:57","2023-01-31 17:56:57",NULL,NULL,NULL,products,NULL
+1279,"Oil and Ghee","الزيت والسمن",approved,1,1,"2023-01-31 17:56:58","2023-01-31 17:56:58",NULL,NULL,NULL,products,NULL
+1280,"Vegetable Oils","الزيوت النباتية",approved,1279,1,"2023-01-31 17:56:58","2023-01-31 17:56:58",NULL,NULL,NULL,products,NULL
+1281,Butter,زبدة,approved,1279,1,"2023-01-31 17:56:58","2023-01-31 17:56:58",NULL,NULL,NULL,products,NULL
+1282,Ghee,"السمن الحيواني",approved,1279,1,"2023-01-31 17:56:59","2023-01-31 17:56:59",NULL,NULL,NULL,products,NULL
+1283,Margarine,"السمن النباتي",approved,1279,1,"2023-01-31 17:56:59","2023-01-31 17:56:59",NULL,NULL,NULL,products,NULL
+1284,"Oil Spray","بخاخ الزيت",approved,1280,1,"2023-01-31 17:56:59","2023-01-31 17:56:59",NULL,NULL,NULL,products,NULL
+1285,"Vegetable Oil","الزيت النباتي",approved,1280,1,"2023-01-31 17:56:59","2023-01-31 17:56:59",NULL,NULL,NULL,products,NULL
+1286,"Fresh Cheese","الأجبان الطازجة",approved,57,1,"2023-01-31 17:57:00","2023-01-31 17:57:00",NULL,NULL,NULL,products,NULL
+1287,"Long Life Cheese","الأجبان طويلة الأجل",approved,57,1,"2023-01-31 17:57:00","2023-01-31 17:57:00",NULL,NULL,NULL,products,NULL
+1288,"Sterilized Cream","قشطة طويلة الأجل",approved,61,1,"2023-01-31 17:57:00","2023-01-31 17:57:00",NULL,NULL,NULL,products,NULL
+1289,"Fresh Cream","قشطة طازجة",approved,61,1,"2023-01-31 17:57:00","2023-01-31 17:57:00",NULL,NULL,NULL,products,NULL
+1290,"Sour Cream","قشطة رائبة",approved,61,1,"2023-01-31 17:57:01","2023-01-31 17:57:01",NULL,NULL,NULL,products,NULL
+1291,"Cooking Cream","كريمة الطبخ",approved,61,1,"2023-01-31 17:57:01","2023-01-31 17:57:01",NULL,NULL,NULL,products,NULL
+1294,"Ground Coffee","القهوة المطحونة",approved,162,1,"2023-01-31 17:57:01","2023-01-31 17:57:01",NULL,NULL,NULL,products,NULL
+1296,"Flavored Drinks","المشروبات المنكهة",approved,161,1,"2023-01-31 17:57:01","2023-01-31 17:57:01",NULL,NULL,NULL,products,NULL
+1297,"Powdered Drinks","مشروبات مجففة",approved,1296,1,"2023-01-31 17:57:02","2023-01-31 17:57:02",NULL,NULL,NULL,products,NULL
+1299,Sugar,السكر,approved,227,1,"2023-01-31 17:57:02","2023-01-31 17:57:02",NULL,NULL,NULL,products,NULL
+1300,Sugar,سكر,approved,241,1,"2023-01-31 17:57:02","2023-01-31 17:57:02",NULL,NULL,NULL,products,NULL
+1301,Grains,الحبوب,approved,250,1,"2023-01-31 17:57:02","2023-01-31 17:57:02",NULL,NULL,NULL,products,NULL
+1302,Saplings,الشتلات,approved,796,1,"2023-01-31 17:57:03","2023-01-31 17:57:03",NULL,NULL,NULL,products,NULL
+1303,Cladding,كلادنج,approved,856,1,"2023-01-31 17:57:03","2023-01-31 17:57:03",NULL,NULL,NULL,products,NULL
+1304,"Reinforcing Bars","حديد التسليح",approved,856,1,"2023-01-31 17:57:03","2023-01-31 17:57:03",NULL,NULL,NULL,products,NULL
+1305,Wood,الخشب,approved,856,1,"2023-01-31 17:57:03","2023-01-31 17:57:03",NULL,NULL,NULL,products,NULL
+1306,Ceramic,السيراميك,approved,856,1,"2023-01-31 17:57:04","2023-01-31 17:57:04",NULL,NULL,NULL,products,NULL
+1307,Stone,الحجر,approved,856,1,"2023-01-31 17:57:04","2023-01-31 17:57:04",NULL,NULL,NULL,products,NULL
+1308,Marble,الرخام,approved,273,0,"2023-01-31 17:57:04","2023-01-31 17:57:04",NULL,NULL,NULL,products,NULL
+1309,Sand,الرمل,approved,856,1,"2023-01-31 17:57:04","2023-01-31 17:57:04",NULL,NULL,NULL,products,NULL
+1310,Marble,الرخام,approved,856,1,"2023-01-31 17:57:05","2023-01-31 17:57:05",NULL,NULL,NULL,products,NULL
+1311,Gravel,الحصى,approved,856,1,"2023-01-31 17:57:05","2023-01-31 17:57:05",NULL,NULL,NULL,products,NULL
+1313,Fences,الحواجز,approved,830,1,"2023-01-31 17:57:05","2023-01-31 17:57:05",NULL,NULL,NULL,products,NULL
+1314,Wallpaper,"ورق الجدران",approved,898,1,"2023-01-31 17:57:05","2023-01-31 17:57:05",NULL,NULL,NULL,products,NULL
+1315,"Regular Wallpaper","ورق الجدران العادي",approved,1314,1,"2023-01-31 17:57:06","2023-01-31 17:57:06",NULL,NULL,NULL,products,NULL
+1316,"General Contracting","المقاولات العامة",approved,1703,1,"2023-01-31 17:57:06","2023-01-31 17:57:06",NULL,NULL,NULL,products,NULL
+1317,"Industrial Contractor","مقاول صناعي",approved,780,1,"2023-01-31 17:57:06","2023-01-31 17:57:06",NULL,NULL,NULL,products,NULL
+1318,"Medical Contractor","مقاول طبي",approved,780,1,"2023-01-31 17:57:06","2023-01-31 17:57:06",NULL,NULL,NULL,products,NULL

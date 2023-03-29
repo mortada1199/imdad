@@ -1,0 +1,92 @@
+openapi: '3.0.2'
+info:
+  title: API Title
+  version: '1.0'
+servers:
+  - url: https://api.server.test/v1
+
+
+paths:
+  
+  /rfq/{id}:
+    get:
+      responses:
+        '200':
+          description: OK
+
+  /rfq:
+
+    get:
+      responses:
+      
+        '200':
+          
+          description: OK
+    post:
+      responses:
+        '201':
+          description: Created
+
+
+components:
+  schemas:
+     RFQOrigin:
+      required:
+        - ' publishType'
+        - deliveryType
+        - paymentType
+      type: object
+      properties:
+        publishType:
+          type: number
+          example:
+            - 1
+        deliveryType:
+          type: number
+          example:
+            - 2
+        paymentType:
+          type: number
+          example:
+            - 2
+        products:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: number
+                example:
+                  - 1
+              qty:
+                type: number
+                example:
+                  - 3
+              price:
+                type: number
+                example:
+                  - 3.4
+              productName:
+                type: string
+                example:
+                  - Apple
+              cateoriyId:
+                type: number
+                example:
+                  - 4
+              deliveryLocationId:
+                type: number
+                example:
+                  - 3
+      example:
+        publishType: 1
+        deliveryType: 2
+        paymentType: 2
+        products:
+          - id: 1
+            qty: 3
+            price: 3.4
+            productName: Apple
+            cateoriyId: 4
+            deliveryLocationId: 3
+      x-last-modified: 1665993662656

@@ -1,0 +1,1464 @@
+id,name_en,name_ar,status,parent_id,isleaf,created_at,updated_at,deleted_at,profile_id,reason,type,created_by
+1,Food and Beverages,المواد الغذائية,approved,1678,1,2021-01-21 20:33:11,2022-05-25 22:54:20,NULL,NULL,NULL,products,NULL
+2,Furniture and Storage,الأثاث والتخزين,approved,1678,1,NULL,2022-07-05 19:39:13,NULL,NULL,NULL,products,NULL
+3,Medical center and pharmacy,المركز الطبي و الصيدلة,approved,523,1,NULL,2022-06-06 23:42:07,NULL,NULL,NULL,products,NULL
+4,Clothing and Textiles,الملبوسات و المنسوجات,approved,1678,1,NULL,2022-05-25 19:52:45,NULL,NULL,NULL,products,NULL
+5,Electronics and Smart Devices,الأجهزة الإلكترونية والذكية,approved,1678,1,NULL,2022-07-05 19:32:42,NULL,NULL,NULL,products,NULL
+6,Hygienic Tools and Equipments,معدات وأدوات النظافة والتعقيم,approved,1678,1,NULL,2022-06-14 19:43:46,NULL,NULL,NULL,products,NULL
+7,Kitchen Equipment and Consumables,معدات ومستهلكات المطبخ,approved,1678,1,NULL,2022-07-06 17:23:28,NULL,NULL,NULL,products,NULL
+8,Building and Construction,البناء و التشييد,approved,1678,1,NULL,2022-08-02 23:05:32,NULL,NULL,NULL,products,NULL
+9,Industry,الصناعة,approved,904,1,NULL,2022-06-12 23:25:58,NULL,NULL,NULL,products,NULL
+10,Insurance,التأمين,approved,378,1,NULL,2022-06-12 23:24:53,NULL,NULL,NULL,products,NULL
+22,Footwear,الأحذية,approved,4,1,2021-01-20 19:46:45,2022-05-25 20:16:48,NULL,NULL,NULL,products,NULL
+23,Clothing and Fabrics,الملابس والأقمشة,approved,4,1,2021-01-20 20:09:13,2022-05-25 20:06:56,NULL,NULL,NULL,products,NULL
+26,Hotel and medical,الفندقية والطبية,approved,275,1,2021-01-20 20:12:48,2022-05-25 20:11:16,NULL,NULL,NULL,products,NULL
+29,Medical,الطبية,approved,22,1,2021-01-20 20:50:56,2022-05-25 20:22:39,NULL,NULL,NULL,products,NULL
+30,Formal,الرسمية,approved,22,1,2021-01-20 20:52:34,2022-05-25 20:18:22,NULL,NULL,NULL,products,NULL
+31,Athletic,الرياضية,approved,22,1,2021-01-20 20:53:44,2022-06-02 17:20:50,NULL,NULL,NULL,products,NULL
+32,Industrial,الصناعية,approved,22,1,2021-01-20 20:54:33,2022-05-25 20:23:54,NULL,NULL,NULL,products,NULL
+33,Fabrics,الأقمشة,approved,23,1,2021-01-20 20:55:25,2022-05-25 20:10:12,NULL,NULL,NULL,products,NULL
+34,Other,أخرى,approved,279,1,2021-01-20 20:56:12,2022-05-25 17:26:03,NULL,NULL,NULL,products,NULL
+35,Bathrobes,أرواب,approved,26,1,2021-01-20 20:57:12,2021-10-12 14:34:40,NULL,NULL,NULL,products,NULL
+36,Carpets,سجاد,approved,26,1,2021-01-20 20:57:47,2021-01-20 20:57:47,NULL,NULL,NULL,products,NULL
+37,Curtains,الستائر,approved,26,1,2021-01-20 20:59:11,2021-01-20 20:59:11,NULL,NULL,NULL,products,NULL
+38,Mattresses,مفارش,approved,26,1,2021-01-20 20:59:54,2021-01-20 20:59:54,NULL,NULL,NULL,products,NULL
+39,Towels,المناشف,approved,26,1,2021-01-20 21:01:08,2021-01-20 21:01:08,NULL,NULL,NULL,products,NULL
+40,Other,أخرى,approved,40,0,2021-01-20 21:01:46,2022-05-25 17:33:40,NULL,NULL,NULL,products,NULL
+41,Bakery and Pastry,المخبوزات والمعجنات,approved,1,1,2021-01-21 17:26:58,2022-05-25 22:56:03,NULL,NULL,NULL,products,NULL
+42,Health insurance,التامين الصحي,approved,10,1,2021-01-21 17:28:37,2021-01-21 17:28:37,NULL,NULL,NULL,products,NULL
+43,Property insurance,تأمين الممتلكات,approved,10,1,2021-01-21 17:29:32,2021-01-21 17:29:32,NULL,NULL,NULL,products,NULL
+44,Baked Goods,المخبوزات,approved,41,1,2021-01-21 17:30:19,2022-05-25 23:00:41,NULL,NULL,NULL,products,NULL
+45,Fresh,الخبز الطازج,approved,145,1,2021-01-21 17:31:29,2022-05-25 22:57:05,NULL,NULL,NULL,products,NULL
+46,Packed,الخبز المغلف,approved,220,1,2021-01-21 17:31:57,2022-05-25 22:46:29,NULL,NULL,NULL,products,NULL
+47,Other,أخرى,approved,944,1,2021-01-21 17:32:16,2022-05-25 17:52:44,NULL,NULL,NULL,products,NULL
+48,Pastries,المعجنات,approved,41,1,2021-01-21 17:32:53,2021-02-01 20:49:55,NULL,NULL,NULL,products,NULL
+49,Fresh Pastries,المعجنات الطازجة,approved,45,1,2021-01-21 17:33:16,2022-05-25 23:01:54,NULL,NULL,NULL,products,NULL
+50,Packed Pastries,المعجنات المغلفة,approved,51,1,2021-01-21 17:33:36,2022-05-25 23:04:29,NULL,NULL,NULL,products,NULL
+51,Croissant,الكروسان,approved,211,1,2021-01-21 17:34:00,2022-05-25 22:59:37,NULL,NULL,NULL,products,NULL
+52,Securing shopkeepers,تأمين اصحاب المحلات,approved,10,1,2021-01-21 17:34:07,2021-01-21 17:34:07,NULL,NULL,NULL,products,NULL
+53,Vehicle insurance,تأمين المركبات,approved,10,1,2021-01-21 17:34:35,2021-01-21 17:34:35,NULL,NULL,NULL,products,NULL
+54,Sweets,الحلويات الطازجة,approved,50,1,2021-01-21 17:34:44,2022-05-25 23:12:42,NULL,NULL,NULL,products,NULL
+56,Dairy Products,منتجات الألبان,approved,1,1,2021-01-21 17:41:11,2021-02-02 13:16:54,NULL,NULL,NULL,products,NULL
+57,Cheese,الأجبان,approved,56,1,2021-01-21 17:41:40,2021-02-02 13:17:26,NULL,NULL,NULL,products,NULL
+58,Cheddar,جبنة التشيدر,approved,49,1,2021-01-21 17:42:04,2022-05-26 16:51:26,NULL,NULL,NULL,products,NULL
+60,Fresh,الجبنة الطازجة,approved,59,1,2021-01-21 17:42:50,2022-05-26 16:54:02,NULL,NULL,NULL,products,NULL
+61,Cream,القشطة,approved,56,1,2021-01-21 17:43:24,2021-02-02 13:21:05,NULL,NULL,NULL,products,NULL
+62,Canned,معلبة,approved,152,1,2021-01-21 17:43:42,2022-05-26 17:28:39,NULL,NULL,NULL,products,NULL
+63,Fresh,طازجة,approved,62,1,2021-01-21 18:14:09,2022-05-26 17:29:50,NULL,NULL,NULL,products,NULL
+66,Laban,اللبن,approved,56,1,2021-01-21 18:15:27,2021-02-02 13:23:18,NULL,NULL,NULL,products,NULL
+67,Flavored,لبن بنكهات,approved,63,1,2021-01-21 18:15:52,2022-05-26 17:30:33,NULL,NULL,NULL,products,NULL
+68,Full Fat,كامل الدسم,approved,67,1,2021-01-21 18:16:13,2022-05-26 17:33:51,NULL,NULL,NULL,products,NULL
+69,Low Fat,قليل الدسم,approved,68,1,2021-01-21 18:16:37,2022-05-26 17:34:30,NULL,NULL,NULL,products,NULL
+71,Labneh,اللبنة,approved,56,1,2021-01-21 18:17:28,2022-05-26 17:46:28,NULL,NULL,NULL,products,NULL
+72,Canned,معلبة,approved,1275,1,2021-01-21 18:17:50,2022-05-26 17:44:54,NULL,NULL,NULL,products,NULL
+73,Fresh,طازجة,approved,72,1,2021-01-21 18:18:11,2022-05-26 17:45:22,NULL,NULL,NULL,products,NULL
+75,Milk,الحليب,approved,56,1,2021-01-21 18:18:49,2021-02-02 13:43:51,NULL,NULL,NULL,products,NULL
+76,Powdered Milk,حليب بودرة,approved,75,1,2021-01-21 18:19:11,2022-05-26 18:18:02,NULL,NULL,NULL,products,NULL
+77,Flavored,حليب بنكهات,approved,73,1,2021-01-21 18:19:40,2022-05-26 17:56:53,NULL,NULL,NULL,products,NULL
+78,Full Fat,كامل الدسم,approved,77,1,2021-01-21 18:20:00,2022-05-26 17:57:55,NULL,NULL,NULL,products,NULL
+79,"Oil, Margarine and butter",زيت و سمن و زبدة,approved,158,1,2021-01-21 18:20:22,2022-05-26 18:55:39,NULL,NULL,NULL,products,NULL
+80,Butter,زبدة,approved,79,1,2021-01-21 18:20:42,2021-02-02 13:48:42,NULL,NULL,NULL,products,NULL
+81,Margarine,سمن,approved,79,1,2021-01-21 18:21:04,2021-02-02 13:49:00,NULL,NULL,NULL,products,NULL
+82,Oil,زيت,approved,79,1,2021-01-21 18:21:25,2021-02-02 13:49:19,NULL,NULL,NULL,products,NULL
+84,Yogurt,زبادي,approved,56,1,2021-01-21 18:22:16,2021-02-02 13:50:05,NULL,NULL,NULL,products,NULL
+85,Flavored,زبادي بنكهات,approved,78,1,2021-01-21 18:22:39,2022-05-26 18:26:56,NULL,NULL,NULL,products,NULL
+86,Full Fat,كامل الدسم,approved,85,1,2021-01-21 18:23:00,2022-05-26 18:27:26,NULL,NULL,NULL,products,NULL
+88,Fresh,طازج,approved,87,1,2021-01-21 18:28:53,2021-01-21 18:28:53,NULL,NULL,NULL,products,NULL
+89,Cream,قشطة,approved,87,1,2021-01-21 18:29:37,2021-01-21 18:29:37,NULL,NULL,NULL,products,NULL
+91,Electric iron,كوايات,approved,90,1,2021-01-21 19:30:42,2021-01-21 19:30:42,NULL,NULL,NULL,products,NULL
+93,Optical projectors,اجهزة العرض الضوئية,approved,92,1,2021-01-21 19:31:25,2021-01-21 19:31:25,NULL,NULL,NULL,products,NULL
+94,TVs,اجهزة التلفزيون,approved,92,1,2021-01-21 19:31:54,2021-01-21 19:31:54,NULL,NULL,NULL,products,NULL
+95,Others,اخرى,approved,92,1,2021-01-21 19:32:10,2021-01-21 19:32:10,NULL,NULL,NULL,products,NULL
+99,Optical projectors,اجهزة العرض الضوئية,approved,98,1,2021-01-21 19:35:38,2021-01-21 19:35:38,NULL,NULL,NULL,products,NULL
+100,TVs,اجهزة التلفزيون,approved,98,1,2021-01-21 19:36:01,2021-01-21 19:36:01,NULL,NULL,NULL,products,NULL
+101,Others,اخرى,approved,98,1,2021-01-21 19:36:19,2021-01-21 19:36:19,NULL,NULL,NULL,products,NULL
+102,Air conditioners,اجهزة تكييف,approved,90,1,2021-01-21 19:36:41,2021-01-21 19:36:41,NULL,NULL,NULL,products,NULL
+103,Games,الالعاب,approved,90,1,2021-01-21 19:37:01,2021-01-21 19:37:01,NULL,NULL,NULL,products,NULL
+104,Hair Dryer,استشوار,approved,90,1,2021-01-21 19:37:33,2021-01-21 19:37:33,NULL,NULL,NULL,products,NULL
+105,Shavers,اجهزة حلاقة,approved,90,1,2021-01-21 19:37:47,2021-01-21 19:37:47,NULL,NULL,NULL,products,NULL
+106,Vacuum cleaners,مكانس كهربائية,approved,90,1,2021-01-21 19:38:21,2021-01-21 19:38:21,NULL,NULL,NULL,products,NULL
+107,Washing machines and dryers,غسالات و نشافات,approved,90,1,2021-01-21 19:38:34,2021-01-21 19:38:34,NULL,NULL,NULL,products,NULL
+108,Others,اخرى,approved,90,1,2021-01-21 19:38:52,2021-01-21 19:38:52,NULL,NULL,NULL,products,NULL
+110,Data centres,مراكز بيانات,approved,109,1,2021-01-21 19:39:25,2021-01-21 19:39:25,NULL,NULL,NULL,products,NULL
+111,Development,تطوير,approved,109,1,2021-01-21 19:39:48,2021-01-21 19:39:48,NULL,NULL,NULL,products,NULL
+112,Integrated systems,انظمة متكاملة,approved,109,1,2021-01-21 19:40:02,2021-01-21 19:40:02,NULL,NULL,NULL,products,NULL
+113,Networks,شبكات,approved,109,1,2021-01-21 19:40:18,2021-01-21 19:40:18,NULL,NULL,NULL,products,NULL
+114,Protection and security,حماية و امان,approved,109,1,2021-01-21 19:40:47,2021-01-21 19:40:47,NULL,NULL,NULL,products,NULL
+115,Software,برمجيات,approved,109,1,2021-01-21 19:41:05,2021-01-21 19:41:05,NULL,NULL,NULL,products,NULL
+116,Software and applications,برامج و تطبيقات,approved,109,1,2021-01-21 19:41:23,2021-01-21 19:41:23,NULL,NULL,NULL,products,NULL
+117,Others,اخرى,approved,109,1,2021-01-21 19:41:34,2021-01-21 19:41:34,NULL,NULL,NULL,products,NULL
+119,Coffee machine and kettles,آلة القهوة و الغلايات,approved,118,1,2021-01-21 19:42:11,2021-01-21 19:42:11,NULL,NULL,NULL,products,NULL
+120,Cooler and freezer,التبريد و التجميد,approved,118,1,2021-01-21 19:42:28,2021-01-21 19:42:28,NULL,NULL,NULL,products,NULL
+121,Cooling,التبريد,approved,120,1,2021-01-21 19:42:47,2021-01-21 19:42:47,NULL,NULL,NULL,products,NULL
+122,Freeze,التجميد,approved,120,1,2021-01-21 19:43:07,2021-01-21 19:43:07,NULL,NULL,NULL,products,NULL
+123,Dish washers,غسالة صحون,approved,118,1,2021-01-21 19:43:22,2021-01-21 19:43:22,NULL,NULL,NULL,products,NULL
+124,Food preparations,محضرات طعام,approved,118,1,2021-01-21 19:43:40,2021-01-21 19:43:40,NULL,NULL,NULL,products,NULL
+125,Freezer,برادات,approved,118,1,2021-01-21 19:44:04,2021-01-21 19:44:04,NULL,NULL,NULL,products,NULL
+126,Insect appliances,اجهزة الحشرات,approved,118,1,2021-01-21 19:44:17,2021-01-21 19:44:17,NULL,NULL,NULL,products,NULL
+127,Microwave,افران,approved,118,1,2021-01-21 19:44:36,2021-01-21 19:44:36,NULL,NULL,NULL,products,NULL
+128,Others,اخرى,approved,118,1,2021-01-21 19:44:50,2021-01-21 19:44:50,NULL,NULL,NULL,products,NULL
+130,Speakers and Amplifiers,سماعات و ادوات مكبرات الصوت,approved,129,1,2021-01-21 19:51:00,2021-01-21 19:51:00,NULL,NULL,NULL,products,NULL
+133,Headphones,سماعات,approved,130,1,2021-01-21 20:46:10,2021-01-21 20:46:10,NULL,NULL,NULL,products,NULL
+134,Amplifiers,ادوات تكبير الصوت,approved,130,1,2021-01-21 20:46:32,2021-01-21 20:46:32,NULL,NULL,NULL,products,NULL
+135,Sound Mixer,ادوات تعديل الصوت,approved,130,1,2021-01-21 20:46:47,2021-01-21 20:46:47,NULL,NULL,NULL,products,NULL
+136,Phones and tablets,الهواتف و الاجهزة اللوحية,approved,129,1,2021-01-21 20:47:06,2021-01-21 20:47:06,NULL,NULL,NULL,products,NULL
+137,Accessories,اكسسوارات,approved,136,1,2021-01-21 20:47:23,2021-01-21 20:47:23,NULL,NULL,NULL,products,NULL
+138,Landline,الهاتف الثابت,approved,136,1,2021-01-21 20:47:37,2021-01-21 20:47:37,NULL,NULL,NULL,products,NULL
+139,Mobiles,الجوالات,approved,136,1,2021-01-21 20:48:03,2021-01-21 20:48:03,NULL,NULL,NULL,products,NULL
+140,Tablets,اجهزة لوحية,approved,136,1,2021-01-21 20:48:19,2021-01-21 20:48:19,NULL,NULL,NULL,products,NULL
+141,Others,اخرى,approved,136,1,2021-01-21 20:48:31,2021-01-21 20:48:31,NULL,NULL,NULL,products,NULL
+142,Projectors,اجهزة العرض,approved,129,1,2021-01-21 20:48:59,2021-01-21 20:48:59,NULL,NULL,NULL,products,NULL
+143,Optical projectors,اجهزة العرض الضوئية,approved,142,1,2021-01-21 20:49:18,2021-01-21 20:49:18,NULL,NULL,NULL,products,NULL
+144,TVs,اجهزة التلفزيون,approved,142,1,2021-01-21 21:19:10,2021-01-21 21:19:10,NULL,NULL,NULL,products,NULL
+145,Brown,خبز أسمر,approved,146,1,2021-02-01 20:40:42,2022-05-25 22:49:58,NULL,NULL,NULL,products,NULL
+146,White,خبز أبيض,approved,200,1,2021-02-01 20:41:04,2022-05-25 22:48:59,NULL,NULL,NULL,products,NULL
+147,Brown,خبز أسمر,approved,46,1,2021-02-01 20:48:27,2021-02-01 20:48:27,NULL,NULL,NULL,products,NULL
+148,White,خبز أبيض,approved,46,1,2021-02-01 20:48:47,2021-02-01 20:48:47,NULL,NULL,NULL,products,NULL
+149,Cookies,الكوكيز,approved,54,1,2021-02-01 20:53:32,2021-02-01 20:55:06,NULL,NULL,NULL,products,NULL
+150,Cake,الكيك,approved,54,1,2021-02-01 20:54:02,2021-02-01 20:54:02,NULL,NULL,NULL,products,NULL
+151,Donuts,الدونات,approved,54,1,2021-02-01 20:54:33,2021-02-01 20:54:33,NULL,NULL,NULL,products,NULL
+152,Unsalted,الجبنة غير المملحة,approved,60,1,2021-02-02 13:19:57,2022-05-26 16:54:27,NULL,NULL,NULL,products,NULL
+153,Other,أخرى,approved,1246,1,2021-02-02 13:20:22,2022-05-25 19:04:43,NULL,NULL,NULL,products,NULL
+154,Skimmed,خالي الدسم,approved,69,1,2021-02-02 13:36:38,2022-05-26 17:35:29,NULL,NULL,NULL,products,NULL
+155,Liquid Milk,حليب سائل,approved,75,1,2021-02-02 13:45:59,2022-05-26 18:26:08,NULL,NULL,NULL,products,NULL
+156,Evaporated Milk,حليب مبخر,approved,75,1,2021-02-02 13:46:23,2022-05-26 18:15:42,NULL,NULL,NULL,products,NULL
+157,Low Fat,قليل الدسم,approved,86,1,2021-02-02 13:51:38,2022-05-26 18:28:09,NULL,NULL,NULL,products,NULL
+158,Skimmed,خالي الدسم,approved,157,1,2021-02-02 13:52:01,2022-05-26 18:28:57,NULL,NULL,NULL,products,NULL
+159,Dairy Products,منتجات الألبان,approved,70,1,2021-02-02 13:53:06,2021-02-02 13:53:06,NULL,NULL,NULL,products,NULL
+160,Snacks,الوجبات الخفيفة,approved,70,1,2021-02-02 13:53:34,2021-02-02 13:53:34,NULL,NULL,NULL,products,NULL
+161,Beverages,المشروبات,approved,1,1,2021-02-02 13:57:46,2022-05-26 20:12:08,NULL,NULL,NULL,products,NULL
+163,Coffee Beans,حبوب القهوة,approved,162,1,2021-02-02 13:59:50,2022-05-26 20:51:43,NULL,NULL,NULL,products,NULL
+164,Instant Coffee,القهوة الفورية,approved,162,1,2021-02-02 14:00:07,2022-05-26 20:53:44,NULL,NULL,NULL,products,NULL
+165,Juices,العصائر,approved,161,1,2021-02-02 14:00:35,2021-02-02 14:00:35,NULL,NULL,NULL,products,NULL
+166,Fresh Juices,عصائر طازجة,approved,165,1,2021-02-02 14:01:13,2022-06-13 16:33:07,NULL,NULL,NULL,products,NULL
+167,Long Life Juices,عصائر طويلة الأجل,approved,165,1,2021-02-02 14:01:43,2022-05-26 20:43:10,NULL,NULL,NULL,products,NULL
+168,Soft Drinks,المشروبات الغازية,approved,161,1,2021-02-02 14:04:22,2022-08-07 18:42:30,NULL,NULL,NULL,products,NULL
+169,Energy drinks,مشروبات الطاقة,approved,168,1,2021-02-02 14:04:42,2021-02-02 14:04:42,NULL,NULL,NULL,products,NULL
+170,Flavored soft drinks,مشروبات غازية منكهة,approved,168,1,2021-02-02 14:05:32,2021-02-02 14:05:32,NULL,NULL,NULL,products,NULL
+171,Soft drinks in barley,مشروبات غازية بالشعير,approved,1293,1,2021-02-02 14:06:06,2022-05-26 20:45:50,NULL,NULL,NULL,products,NULL
+172,Water,المياه,approved,161,1,2021-02-02 14:06:24,2021-02-02 14:06:24,NULL,NULL,NULL,products,NULL
+173,Drinking,مياه شرب,approved,172,1,2021-02-02 14:06:44,2021-02-02 14:06:44,NULL,NULL,NULL,products,NULL
+174,Ice,ثلج,approved,172,1,2021-02-02 14:07:05,2021-02-02 14:07:05,NULL,NULL,NULL,products,NULL
+175,Sparkling water,مياه غازية,approved,172,1,2021-02-02 14:07:32,2022-05-26 20:13:59,NULL,NULL,NULL,products,NULL
+176,Frozen food,الأطعمة المجمدة,approved,1,1,2021-02-02 14:19:15,2022-05-26 21:47:59,NULL,NULL,NULL,products,NULL
+177,Ice cream,الآيسكريم,approved,176,1,2021-02-02 14:19:44,2021-02-02 14:19:44,NULL,NULL,NULL,products,NULL
+178,Pastries,المعجنات,approved,176,1,2021-02-02 14:20:09,2021-02-02 14:20:09,NULL,NULL,NULL,products,NULL
+179,Poultry and meat,دواجن و لحوم,approved,171,1,2021-02-02 14:20:32,2022-05-26 21:43:37,NULL,NULL,NULL,products,NULL
+180,Ready to Cook Meals,وجبات جاهز للطهي,approved,176,1,2021-02-02 14:20:54,2022-08-10 16:55:26,NULL,NULL,NULL,products,NULL
+181,Seafood,مأكولات بحرية,approved,179,1,2021-02-02 14:21:12,2022-05-26 21:44:37,NULL,NULL,NULL,products,NULL
+182,Vegetables and fruits,الخضار و الفواكه,approved,176,1,2021-02-02 14:21:42,2021-02-02 14:21:42,NULL,NULL,NULL,products,NULL
+183,Other,أخرى,approved,1269,1,2021-02-02 14:22:08,2022-05-25 19:18:45,NULL,NULL,NULL,products,NULL
+184,Fruits and Vegetables,الفواكه و الخضار,approved,1,1,2021-02-02 14:25:18,2021-02-02 14:25:18,NULL,NULL,NULL,products,NULL
+185,Dates,التمور,approved,184,1,2021-02-02 14:25:36,2021-02-02 14:25:36,NULL,NULL,NULL,products,NULL
+186,Fruits,الفواكه,approved,184,1,2021-02-02 14:25:56,2021-02-02 14:25:56,NULL,NULL,NULL,products,NULL
+187,Dried,مجففة,approved,186,1,2021-02-02 14:26:14,2021-02-02 14:26:14,NULL,NULL,NULL,products,NULL
+188,Fresh,طازجة,approved,186,1,2021-02-02 14:26:47,2021-02-02 14:26:47,NULL,NULL,NULL,products,NULL
+189,Vegetables,الخضار,approved,184,1,2021-02-02 14:27:13,2021-02-02 14:27:13,NULL,NULL,NULL,products,NULL
+190,Dried,مجففة,approved,189,1,2021-02-02 14:27:30,2021-02-02 14:27:30,NULL,NULL,NULL,products,NULL
+191,Fresh,طازجة,approved,189,1,2021-02-02 14:27:53,2021-02-02 14:27:53,NULL,NULL,NULL,products,NULL
+192,"Meat, Poultry and Fish",اللحوم و الدواجن و الأسماك,approved,1,1,2021-02-02 14:29:43,2022-06-02 17:25:15,NULL,NULL,NULL,products,NULL
+193,Egg,البيض,approved,493,1,2021-02-02 14:43:59,2022-05-25 20:50:58,NULL,NULL,NULL,products,NULL
+194,Fish and Seafood,الأسماك والمأكولات البحرية,approved,192,1,2021-02-02 14:44:32,2022-08-10 17:01:24,NULL,NULL,NULL,products,NULL
+195,Local,محلية,approved,194,1,2021-02-02 14:45:37,2022-05-25 21:09:49,NULL,NULL,NULL,products,NULL
+196,Imported,مستورد,approved,225,1,2021-02-02 14:46:17,2022-05-25 21:10:42,NULL,NULL,NULL,products,NULL
+197,Local,محلي,approved,1273,1,2021-02-02 14:47:24,2022-05-25 21:16:26,NULL,NULL,NULL,products,NULL
+198,Imported,مستوردة,approved,194,1,2021-02-02 14:47:48,2022-05-25 21:20:34,NULL,NULL,NULL,products,NULL
+199,Imported,مستورد,approved,202,1,2021-02-02 14:48:13,2022-05-25 21:19:48,NULL,NULL,NULL,products,NULL
+200,Local,محلي,approved,203,1,2021-02-02 14:49:57,2022-05-25 21:19:13,NULL,NULL,NULL,products,NULL
+201,Frozen,مجمدة,approved,197,1,2021-02-02 14:50:28,2022-05-25 21:18:31,NULL,NULL,NULL,products,NULL
+202,Imported,مستورد,approved,201,1,2021-02-02 14:50:56,2021-02-02 14:50:56,NULL,NULL,NULL,products,NULL
+203,Local,محلي,approved,201,1,2021-02-02 14:51:23,2021-02-02 14:51:23,NULL,NULL,NULL,products,NULL
+204,Meat,اللحوم,approved,192,1,2021-02-02 14:51:41,2021-02-02 14:51:41,NULL,NULL,NULL,products,NULL
+205,Chilled,مبردة,approved,204,1,2021-02-02 14:52:00,2021-02-02 14:52:00,NULL,NULL,NULL,products,NULL
+207,Imported,مستورد,approved,205,1,2021-02-02 14:52:52,2021-02-02 14:52:52,NULL,NULL,NULL,products,NULL
+208,Local,محلي,approved,205,1,2021-02-02 14:53:40,2021-02-02 14:53:40,NULL,NULL,NULL,products,NULL
+209,Fresh,طازجة,approved,199,1,2021-02-02 14:54:02,2022-05-25 21:22:32,NULL,NULL,NULL,products,NULL
+210,Imported,مستورد,approved,209,1,2021-02-02 14:54:21,2021-02-02 14:54:21,NULL,NULL,NULL,products,NULL
+211,Local,محلي,approved,209,1,2021-02-02 14:54:43,2021-02-02 14:54:43,NULL,NULL,NULL,products,NULL
+212,Frozen,مجمدة,approved,204,1,2021-02-02 14:55:04,2021-02-02 14:55:04,NULL,NULL,NULL,products,NULL
+213,Imported,مستورد,approved,212,1,2021-02-02 14:55:29,2021-02-02 14:55:29,NULL,NULL,NULL,products,NULL
+214,Local,محلي,approved,212,1,2021-02-02 14:55:49,2021-02-02 14:55:49,NULL,NULL,NULL,products,NULL
+215,Poultry,الدواجن,approved,192,1,2021-02-02 14:56:08,2021-02-02 14:56:08,NULL,NULL,NULL,products,NULL
+216,Chilled,مبردة,approved,215,1,2021-02-02 14:56:25,2021-02-02 14:56:25,NULL,NULL,NULL,products,NULL
+217,Imported,مستورد,approved,216,1,2021-02-02 14:56:43,2021-02-02 14:56:43,NULL,NULL,NULL,products,NULL
+218,Local,محلي,approved,216,1,2021-02-02 14:57:03,2021-02-02 14:57:03,NULL,NULL,NULL,products,NULL
+219,Egg,بيض,approved,215,1,2021-02-02 14:57:18,2022-05-25 21:23:23,NULL,NULL,NULL,products,NULL
+220,Imported,مستورد,approved,210,1,2021-02-02 14:57:44,2022-05-25 21:24:04,NULL,NULL,NULL,products,NULL
+221,Local,محلي,approved,219,1,2021-02-02 14:58:03,2021-02-02 14:58:03,NULL,NULL,NULL,products,NULL
+222,Frozen,مجمدة,approved,215,1,2021-02-02 14:58:23,2021-02-02 14:58:23,NULL,NULL,NULL,products,NULL
+223,Imported,مستورد,approved,222,1,2021-02-02 14:58:45,2021-02-02 14:58:45,NULL,NULL,NULL,products,NULL
+224,Local,محلي,approved,222,1,2021-02-02 14:59:07,2021-02-02 14:59:07,NULL,NULL,NULL,products,NULL
+225,Seafood,المأكولات البحرية,approved,193,1,2021-02-02 14:59:40,2022-05-25 20:52:08,NULL,NULL,NULL,products,NULL
+228,Flour,طحين,approved,227,1,2021-02-02 15:09:43,2021-02-02 15:09:43,NULL,NULL,NULL,products,NULL
+229,Starch & Baking Powder,نشاء و بايكنج باودر,approved,227,1,2021-02-02 15:10:34,2021-02-02 15:10:34,NULL,NULL,NULL,products,NULL
+230,Other,أخرى,approved,1243,1,2021-02-02 15:11:01,2022-05-25 19:21:45,NULL,NULL,NULL,products,NULL
+232,Chocolate jar,شوكولاته قابلة للدهن,approved,231,1,2021-02-02 15:12:09,2021-02-02 15:12:09,NULL,NULL,NULL,products,NULL
+233,Cornflakes,حبوب الإفطار,approved,231,1,2021-02-02 15:12:42,2021-02-02 15:12:42,NULL,NULL,NULL,products,NULL
+234,Halawa,حلاوة طحينية,approved,231,1,2021-02-02 15:13:11,2021-02-02 15:13:11,NULL,NULL,NULL,products,NULL
+235,Honey,عسل,approved,231,1,2021-02-02 15:13:29,2021-02-02 15:13:29,NULL,NULL,NULL,products,NULL
+236,Jam,مربى,approved,231,1,2021-02-02 15:13:46,2021-02-02 15:13:46,NULL,NULL,NULL,products,NULL
+237,Oat,شوفان,approved,231,1,2021-02-02 15:14:11,2021-02-02 15:14:11,NULL,NULL,NULL,products,NULL
+238,Peanut Butter,زبدة الفول السوداني,approved,231,1,2021-02-02 15:14:41,2021-02-02 15:14:41,NULL,NULL,NULL,products,NULL
+239,Other,أخرى,approved,230,1,2021-02-02 15:16:39,2022-05-25 19:22:18,NULL,NULL,NULL,products,NULL
+241,Meat and chicken,لحوم و دجاج,approved,181,1,2021-02-02 15:19:21,2022-05-29 16:40:48,NULL,NULL,NULL,products,NULL
+242,Tuna and fish,تونة و أسماك,approved,240,1,2021-02-02 15:19:48,2021-02-02 15:19:48,NULL,NULL,NULL,products,NULL
+243,Vegetables and legumes,خضار و بقوليات,approved,240,1,2021-02-02 15:20:13,2021-02-02 15:20:13,NULL,NULL,NULL,products,NULL
+245,Artificial flavors,نكهات صناعية,approved,244,1,2021-02-02 15:21:04,2021-02-02 15:21:04,NULL,NULL,NULL,products,NULL
+246,Natural flavors,نكهات طبيعية,approved,244,1,2021-02-02 15:21:30,2021-02-02 15:21:30,NULL,NULL,NULL,products,NULL
+247,Other,أخرى,approved,1263,1,2021-02-02 15:21:47,2022-05-25 19:23:26,NULL,NULL,NULL,products,NULL
+248,Hot drinks and sugar.,مشروبات ساخنة و سكر,approved,1300,1,2021-02-02 15:22:27,2022-05-29 19:51:51,NULL,NULL,NULL,products,NULL
+253,Coffee,قهوة,approved,248,1,2021-02-02 15:24:34,2021-02-02 15:24:34,NULL,NULL,NULL,products,NULL
+254,Arabic Coffee,قهوة عربية,approved,253,1,2021-02-02 15:27:28,2021-02-02 15:27:28,NULL,NULL,NULL,products,NULL
+256,Black Coffee,قهوة سوداء,approved,253,1,2021-02-02 15:27:55,2021-02-02 15:27:55,NULL,NULL,NULL,products,NULL
+257,Turkish Coffee,قهوة تركية,approved,253,1,2021-02-02 15:28:20,2021-02-02 15:28:20,NULL,NULL,NULL,products,NULL
+258,Coffee Whitener,مبيض قهوة,approved,248,1,2021-02-02 15:28:44,2021-02-02 15:28:44,NULL,NULL,NULL,products,NULL
+260,Sugar,سكر,approved,248,1,2021-02-02 15:29:03,2021-02-02 15:29:03,NULL,NULL,NULL,products,NULL
+261,Tea,شاي,approved,248,1,2021-02-02 15:29:25,2021-02-02 15:29:25,NULL,NULL,NULL,products,NULL
+262,Pasta,مكرونة,approved,250,1,2021-02-02 15:30:00,2021-02-02 15:30:00,NULL,NULL,NULL,products,NULL
+263,Rice,أرز,approved,250,1,2021-02-02 15:30:24,2021-02-02 15:30:24,NULL,NULL,NULL,products,NULL
+264,Sauces,صلصات,approved,251,1,2021-02-02 15:30:52,2021-02-02 15:30:52,NULL,NULL,NULL,products,NULL
+265,Spices,توابل و بهارات,approved,251,1,2021-02-02 15:31:11,2021-02-02 15:31:11,NULL,NULL,NULL,products,NULL
+266,Other,أخرى,approved,1262,1,2021-02-02 15:31:50,2022-05-25 19:29:55,NULL,NULL,NULL,products,NULL
+267,Noodles,الشعيرية,approved,252,1,2021-02-02 15:34:58,2021-02-02 15:34:58,NULL,NULL,NULL,products,NULL
+268,Soup,الحساء,approved,252,1,2021-02-02 15:35:18,2021-02-02 15:35:18,NULL,NULL,NULL,products,NULL
+269,Snacks,الأطعمة الخفيفة,approved,1,1,2021-02-02 15:35:44,2022-05-25 23:21:14,NULL,NULL,NULL,products,NULL
+270,Biscuits,البساكيت,approved,269,1,2021-02-02 15:36:02,2022-05-25 23:26:03,NULL,NULL,NULL,products,NULL
+272,Packed Chocolate,الشوكولاتة المغلفة,approved,271,1,2021-02-02 15:36:51,2022-05-25 23:30:08,NULL,NULL,NULL,products,NULL
+273,Ice cream,المثلجات,approved,258,1,2021-02-02 15:37:19,2022-05-29 19:54:19,NULL,NULL,NULL,products,NULL
+275,Other,أخرى,approved,266,1,2021-02-02 15:37:38,2022-05-25 19:30:29,NULL,NULL,NULL,products,NULL
+276,Medical,الطبية,approved,39,1,2021-02-03 20:22:06,2022-05-25 20:19:34,NULL,NULL,NULL,products,NULL
+277,Formal,الرسمية,approved,247,1,2021-02-03 20:22:27,2022-05-25 20:19:00,NULL,NULL,NULL,products,NULL
+278,Safe and supported,الآمنة و المدعمة,approved,35,1,2021-02-03 20:22:54,2022-05-25 20:20:03,NULL,NULL,NULL,products,NULL
+279,Other,أخرى,approved,1267,0,2021-02-03 20:23:13,2022-05-24 18:20:35,NULL,NULL,NULL,products,NULL
+280,Hotels,فنادق,approved,25,1,2021-02-03 20:25:09,2021-02-03 20:25:09,NULL,NULL,NULL,products,NULL
+281,Military,عسكرية,approved,25,1,2021-02-03 20:25:25,2021-02-03 20:25:25,NULL,NULL,NULL,products,NULL
+282,Restaurants,مطاعم,approved,25,1,2021-02-03 20:25:40,2021-02-03 20:25:40,NULL,NULL,NULL,products,NULL
+283,Security and safety,امن و سلامة,approved,25,1,2021-02-03 20:25:51,2021-02-03 20:25:51,NULL,NULL,NULL,products,NULL
+284,The centres are,المراكز الصية,approved,25,1,2021-02-03 20:26:07,2021-02-03 20:26:07,NULL,NULL,NULL,products,NULL
+285,Others,اخرى,approved,25,1,2021-02-03 20:26:19,2021-02-03 20:26:19,NULL,NULL,NULL,products,NULL
+286,Laboratory materials,مواد المختبر,approved,3,1,2021-02-04 14:30:54,2021-02-04 14:30:54,NULL,NULL,NULL,products,NULL
+287,Blood transfusion,نقل الدم,approved,286,1,2021-02-04 14:31:20,2021-02-04 14:31:20,NULL,NULL,NULL,products,NULL
+288,Cell science,علم الخلايا,approved,286,1,2021-02-04 14:31:56,2021-02-04 14:31:56,NULL,NULL,NULL,products,NULL
+289,Chemistry,الكيمياء,approved,286,1,2021-02-04 14:32:17,2021-02-04 14:32:17,NULL,NULL,NULL,products,NULL
+290,Hematology,علم الدم و المرضية,approved,286,1,2021-02-04 14:32:43,2021-02-04 14:32:43,NULL,NULL,NULL,products,NULL
+291,Immunology,علم المناعة,approved,286,1,2021-02-04 14:33:04,2021-02-04 14:33:04,NULL,NULL,NULL,products,NULL
+292,Microbiology,علم الاحياء الدقيقة,approved,286,1,2021-02-04 14:33:22,2021-02-04 14:34:55,NULL,NULL,NULL,products,NULL
+293,Surgical Pathology,علم الامراض الجراحي,approved,286,1,2021-02-04 14:33:47,2021-02-04 14:33:47,NULL,NULL,NULL,products,NULL
+294,Other,أخرى,approved,286,1,2021-02-04 14:34:11,2021-02-04 14:34:11,NULL,NULL,NULL,products,NULL
+295,Medical and surgical instruments,الادوات الطبية و الجراحية,approved,3,1,2021-02-04 14:36:58,2021-02-04 14:36:58,NULL,NULL,NULL,products,NULL
+296,Bones and joints,العظام و المفاصل,approved,295,1,2021-02-04 14:37:19,2021-02-04 14:37:19,NULL,NULL,NULL,products,NULL
+297,Dermatology,الجلدية,approved,295,1,2021-02-04 14:37:39,2021-02-04 14:37:39,NULL,NULL,NULL,products,NULL
+298,Eyes,العيون,approved,295,1,2021-02-04 14:37:56,2021-02-04 14:37:56,NULL,NULL,NULL,products,NULL
+299,Heart,القلب,approved,295,1,2021-02-04 14:38:12,2021-02-04 14:38:12,NULL,NULL,NULL,products,NULL
+300,Surgeries,العمليات,approved,295,1,2021-02-04 14:38:31,2021-02-04 14:38:31,NULL,NULL,NULL,products,NULL
+301,Women and childbirth,النساء و الولادة,approved,295,1,2021-02-04 14:38:54,2021-02-04 14:38:54,NULL,NULL,NULL,products,NULL
+302,Other,أخرى,approved,295,1,2021-02-04 14:39:10,2021-02-04 14:39:10,NULL,NULL,NULL,products,NULL
+303,Medical consumables,مستهلكات طبية,approved,3,1,2021-02-04 14:39:35,2021-02-04 14:39:35,NULL,NULL,NULL,products,NULL
+304,Bones and joints,العظام و المفاصل,approved,303,1,2021-02-04 14:39:51,2021-02-04 14:39:51,NULL,NULL,NULL,products,NULL
+305,Brain and nerves,المخ و الاعصاب,approved,303,1,2021-02-04 14:40:09,2021-02-04 14:40:09,NULL,NULL,NULL,products,NULL
+306,Chest,الصدر,approved,303,1,2021-02-04 14:40:27,2021-02-04 14:40:27,NULL,NULL,NULL,products,NULL
+307,Children and newborns,الاطفال و حديثي الولادة,approved,303,1,2021-02-04 14:40:46,2021-02-04 14:40:46,NULL,NULL,NULL,products,NULL
+308,Clinics,العيادات,approved,303,1,2021-02-04 14:41:09,2021-02-04 14:41:09,NULL,NULL,NULL,products,NULL
+309,Cosmetics,التجميل,approved,303,1,2021-02-04 14:41:30,2021-02-04 14:41:30,NULL,NULL,NULL,products,NULL
+310,Dermatology,الجلدية,approved,303,1,2021-02-04 14:41:47,2021-02-04 14:41:47,NULL,NULL,NULL,products,NULL
+311,Diabetes,السكري,approved,303,1,2021-02-04 14:42:07,2021-02-04 14:42:07,NULL,NULL,NULL,products,NULL
+312,Emergency,الطوارئ,approved,303,1,2021-02-04 14:42:26,2021-02-04 14:42:26,NULL,NULL,NULL,products,NULL
+313,Esoteric and digestive system,الباطنية و الجهاز الهضمي,approved,303,1,2021-02-04 14:42:44,2021-02-04 14:42:44,NULL,NULL,NULL,products,NULL
+314,Eyes,العيون,approved,303,1,2021-02-04 14:43:08,2021-02-04 14:43:08,NULL,NULL,NULL,products,NULL
+315,General surgery and endoscopy,الجراحة العامة و المناظير,approved,303,1,2021-02-04 14:43:32,2021-02-04 14:43:32,NULL,NULL,NULL,products,NULL
+316,Heart and blood vessels,القلب و الاوعية الدموية,approved,303,1,2021-02-04 14:43:51,2021-02-04 14:43:51,NULL,NULL,NULL,products,NULL
+317,Infection control,مكافحة العدوى,approved,303,1,2021-02-04 14:44:12,2021-02-04 14:44:12,NULL,NULL,NULL,products,NULL
+318,Kidney and dialysis,الكلى و الغسيل الكلوي,approved,303,1,2021-02-04 14:44:31,2021-02-04 14:44:31,NULL,NULL,NULL,products,NULL
+319,Lab,المختبر,approved,303,1,2021-02-04 14:44:48,2021-02-04 14:44:48,NULL,NULL,NULL,products,NULL
+320,"Nose, ear and throat",الانف و الاذن و الحنجرة,approved,303,1,2021-02-04 14:45:06,2021-02-04 14:45:06,NULL,NULL,NULL,products,NULL
+321,Physiotherapy,العلاج الطبيعي,approved,303,1,2021-02-04 14:45:25,2021-02-04 14:45:25,NULL,NULL,NULL,products,NULL
+322,PPE,PPE,approved,303,1,2021-02-04 14:45:44,2021-02-04 14:45:44,NULL,NULL,NULL,products,NULL
+323,Surgery,الجراحة,approved,303,1,2021-02-04 14:46:01,2021-02-04 14:46:01,NULL,NULL,NULL,products,NULL
+324,Teeth,الأسنان,approved,303,1,2021-02-04 14:46:17,2021-02-04 14:46:17,NULL,NULL,NULL,products,NULL
+325,Urinary tract,المسالك البولية,approved,303,1,2021-02-04 14:46:42,2021-02-04 14:46:42,NULL,NULL,NULL,products,NULL
+326,Women and childbirth,النساء و الولادة,approved,303,1,2021-02-04 14:47:03,2021-02-04 14:47:03,NULL,NULL,NULL,products,NULL
+327,X-ray,الأشعة,approved,303,1,2021-02-04 14:47:24,2021-02-04 14:47:24,NULL,NULL,NULL,products,NULL
+328,Other,أخرى,approved,303,1,2021-02-04 14:47:39,2021-02-04 14:47:39,NULL,NULL,NULL,products,NULL
+329,Bags and medical waste,الاكياس و النفايات الطبية,approved,317,1,2021-02-04 15:25:03,2021-02-04 15:25:03,NULL,NULL,NULL,products,NULL
+330,Surgery Soap,صابون العمليات,approved,317,1,2021-02-04 15:31:57,2021-02-04 15:31:57,NULL,NULL,NULL,products,NULL
+331,Sterile,معقمات,approved,317,1,2021-02-04 15:32:27,2021-02-04 15:32:27,NULL,NULL,NULL,products,NULL
+332,Face Mask,كمامات,approved,317,1,2021-02-04 15:36:03,2021-02-04 15:36:03,NULL,NULL,NULL,products,NULL
+333,Medical devices and maintenance,الاجهزة الطبية و الصيانة,approved,3,1,2021-02-04 15:37:41,2021-02-04 15:37:41,NULL,NULL,NULL,products,NULL
+334,Examination and reports,الفحص و التقارير,approved,333,1,2021-02-04 15:47:38,2021-02-04 15:47:38,NULL,NULL,NULL,products,NULL
+335,Insulation rooms,غرف العزل,approved,334,1,2021-02-04 15:48:29,2021-02-04 16:10:50,NULL,NULL,NULL,products,NULL
+336,Medical devices,الأجهزة الطبية,approved,334,1,2021-02-04 15:48:58,2021-02-04 16:11:16,NULL,NULL,NULL,products,NULL
+339,X Ray,الأشعة,approved,334,1,2021-02-04 16:12:25,2021-02-04 16:12:25,NULL,NULL,NULL,products,NULL
+340,Other,أخرى,approved,334,1,2021-02-04 16:12:57,2021-02-04 16:12:57,NULL,NULL,NULL,products,NULL
+341,Maintenance of equipment,صيانة الاجهزة,approved,333,1,2021-02-04 16:13:20,2021-02-04 16:13:20,NULL,NULL,NULL,products,NULL
+342,Medical devices,الاجهزة الطبية,approved,333,1,2021-02-04 16:14:21,2021-02-04 16:14:21,NULL,NULL,NULL,products,NULL
+343,Bone,العظام,approved,342,1,2021-02-04 17:16:20,2021-02-04 17:16:20,NULL,NULL,NULL,products,NULL
+344,Brain and nerves,المخ و الاعصاب,approved,342,1,2021-02-04 17:19:10,2021-02-04 17:19:10,NULL,NULL,NULL,products,NULL
+345,Chest,الصدر,approved,342,1,2021-02-04 17:19:30,2021-02-04 17:19:30,NULL,NULL,NULL,products,NULL
+346,Clinics,العيادات,approved,342,1,2021-02-04 17:21:04,2021-02-04 17:21:04,NULL,NULL,NULL,products,NULL
+347,Cosmetics,التجميل,approved,342,1,2021-02-04 17:21:20,2021-02-04 17:21:20,NULL,NULL,NULL,products,NULL
+348,Dermatology,الجلدية,approved,342,1,2021-02-04 17:21:51,2021-02-04 17:21:51,NULL,NULL,NULL,products,NULL
+349,Diabetes,السكري,approved,342,1,2021-02-04 17:22:17,2021-02-04 17:22:17,NULL,NULL,NULL,products,NULL
+350,Dialysis,غسيل الكلى,approved,342,1,2021-02-04 17:22:43,2021-02-04 17:22:43,NULL,NULL,NULL,products,NULL
+351,Emergency,الطوارئ,approved,342,1,2021-02-04 17:30:25,2021-02-04 17:30:25,NULL,NULL,NULL,products,NULL
+352,Endoscopy,المناظير,approved,342,1,2021-02-04 17:30:49,2021-02-04 17:30:49,NULL,NULL,NULL,products,NULL
+353,Eyes,العيون,approved,342,1,2021-02-04 17:31:12,2021-02-04 17:31:12,NULL,NULL,NULL,products,NULL
+354,Heart,القلب,approved,342,1,2021-02-04 17:31:35,2021-02-04 17:31:35,NULL,NULL,NULL,products,NULL
+355,Infection control,مكافحة العدوى,approved,342,1,2021-02-04 17:32:07,2021-02-04 17:32:07,NULL,NULL,NULL,products,NULL
+356,Measuring devices,اجهزة القياس,approved,355,1,2021-02-04 17:32:41,2021-02-04 17:32:41,NULL,NULL,NULL,products,NULL
+357,Sterilization devices,اجهزة التعقيم,approved,355,1,2021-02-04 17:33:08,2021-02-04 17:33:08,NULL,NULL,NULL,products,NULL
+358,Lab,المختبر,approved,342,1,2021-02-04 17:33:32,2021-02-04 17:33:32,NULL,NULL,NULL,products,NULL
+359,Medical refrigerators,الثلاجات الطبية,approved,342,1,2021-02-04 17:34:28,2021-02-04 17:34:28,NULL,NULL,NULL,products,NULL
+360,Cooling,تبريد,approved,359,1,2021-02-04 17:35:02,2021-02-04 17:35:02,NULL,NULL,NULL,products,NULL
+361,Freeze,تجميد,approved,359,1,2021-02-04 17:35:25,2021-02-04 17:35:25,NULL,NULL,NULL,products,NULL
+362,"Nose, ear and throat",الانف و الاذن و الحنجرة,approved,342,1,2021-02-04 17:35:49,2021-02-04 17:35:49,NULL,NULL,NULL,products,NULL
+363,Physiotherapy,العلاج الطبيعي,approved,342,1,2021-02-04 17:36:13,2021-02-04 17:36:13,NULL,NULL,NULL,products,NULL
+364,Surgeries,العمليات,approved,342,1,2021-02-04 17:36:40,2021-02-04 17:36:40,NULL,NULL,NULL,products,NULL
+366,Teeth,الأسنان,approved,342,1,2021-02-04 17:37:38,2021-02-04 17:37:38,NULL,NULL,NULL,products,NULL
+367,Urinary tract,المسالك البولية,approved,342,1,2021-02-04 17:38:03,2021-02-04 17:38:03,NULL,NULL,NULL,products,NULL
+368,Women and childbirth,النساء و الولادة,approved,342,1,2021-02-04 17:38:41,2021-02-04 17:38:41,NULL,NULL,NULL,products,NULL
+369,Other,أخرى,approved,342,1,2021-02-04 17:39:06,2021-02-04 17:39:06,NULL,NULL,NULL,products,NULL
+370,Medical gas,الغاز الطبي,approved,333,1,2021-02-04 17:47:11,2021-02-04 17:47:11,NULL,NULL,NULL,products,NULL
+371,Gas cylinders,اسطوانات الغاز,approved,370,1,2021-02-04 17:47:43,2021-10-12 14:29:00,NULL,NULL,NULL,products,NULL
+372,Gas stations,محطات الغاز,approved,370,1,2021-02-04 17:48:02,2021-02-04 17:48:02,NULL,NULL,NULL,products,NULL
+373,Refilling.,إعادة التعبئة,approved,370,1,2021-02-04 17:48:35,2021-02-04 17:48:35,NULL,NULL,NULL,products,NULL
+374,Other,أخرى,approved,370,1,2021-02-04 17:48:53,2021-02-04 17:48:53,NULL,NULL,NULL,products,NULL
+375,Spare,قطع الغيار,approved,333,1,2021-02-04 17:49:23,2021-02-04 17:49:23,NULL,NULL,NULL,products,NULL
+376,Medical furniture,الاثاث الطبي,approved,3,1,2021-02-04 17:50:19,2021-02-04 17:50:19,NULL,NULL,NULL,products,NULL
+377,Beds,الأسرة,approved,376,1,2021-02-04 18:02:32,2021-02-04 18:02:32,NULL,NULL,NULL,products,NULL
+378,Ambulance,الإسعاف,approved,377,1,2021-02-04 18:02:54,2021-02-04 18:02:54,NULL,NULL,NULL,products,NULL
+379,Emergency,الطوارئ,approved,377,1,2021-02-04 18:03:16,2021-02-04 18:03:16,NULL,NULL,NULL,products,NULL
+380,Hypnotherapy,التنويم,approved,377,1,2021-02-04 18:03:39,2021-02-04 18:03:39,NULL,NULL,NULL,products,NULL
+381,Transport,النقل,approved,377,1,2021-02-04 18:04:06,2021-02-04 18:04:06,NULL,NULL,NULL,products,NULL
+382,Other,أخرى,approved,377,1,2021-02-04 18:04:33,2021-02-04 18:04:33,NULL,NULL,NULL,products,NULL
+383,Chairs,الكراسي,approved,376,1,2021-02-04 18:04:48,2021-02-04 20:22:52,NULL,NULL,NULL,products,NULL
+384,Disabled,المعاقين,approved,383,1,2021-02-04 18:05:37,2021-02-04 18:05:37,NULL,NULL,NULL,products,NULL
+385,Employee,الموظفين,approved,383,1,2021-02-04 18:05:59,2021-02-04 18:05:59,NULL,NULL,NULL,products,NULL
+386,Nurse,الممرضين,approved,383,1,2021-02-04 18:06:21,2021-02-04 18:06:21,NULL,NULL,NULL,products,NULL
+387,Waiting,الانتظار,approved,383,1,2021-02-04 18:06:49,2021-02-04 18:06:49,NULL,NULL,NULL,products,NULL
+388,Other,أخرى,approved,383,1,2021-02-04 18:07:05,2021-02-04 18:07:05,NULL,NULL,NULL,products,NULL
+390,Boards,لوحات,approved,389,1,2021-02-04 18:07:52,2021-02-04 18:07:52,NULL,NULL,NULL,products,NULL
+391,Carry and evacuate,حمل و إخلاء,approved,389,1,2021-02-04 18:08:17,2021-02-04 18:08:17,NULL,NULL,NULL,products,NULL
+393,Hypnosis,التنويم,approved,392,1,2021-02-04 18:08:58,2021-02-04 18:08:58,NULL,NULL,NULL,products,NULL
+394,Isolation,العزل,approved,392,1,2021-02-04 18:09:25,2021-02-04 18:09:25,NULL,NULL,NULL,products,NULL
+395,pharmaceutical,الأدوية,approved,392,1,2021-02-04 18:09:47,2021-02-04 18:09:47,NULL,NULL,NULL,products,NULL
+396,Surgeries,العمليات,approved,392,1,2021-02-04 18:10:10,2021-02-04 18:10:10,NULL,NULL,NULL,products,NULL
+397,X-rays,الأشعة,approved,392,1,2021-02-04 18:10:29,2021-02-04 18:10:29,NULL,NULL,NULL,products,NULL
+399,Medical files,الملفات الطبية,approved,398,1,2021-02-04 18:22:18,2021-02-04 18:22:18,NULL,NULL,NULL,products,NULL
+400,Fixed,ثابتة,approved,399,1,2021-02-04 18:22:51,2021-02-04 18:22:51,NULL,NULL,NULL,products,NULL
+401,Moving,متحركة,approved,399,1,2021-02-04 18:23:27,2021-02-04 18:23:27,NULL,NULL,NULL,products,NULL
+402,Medicines,الادوية,approved,398,1,2021-02-04 18:24:09,2021-02-04 18:24:09,NULL,NULL,NULL,products,NULL
+403,External Pharmacy,الصيدلية الداخلية,approved,402,1,2021-02-04 18:24:41,2021-02-04 18:24:41,NULL,NULL,NULL,products,NULL
+404,In-house pharmacy,الصيدلية الخارجية,approved,402,1,2021-02-04 18:25:06,2021-02-04 18:25:06,NULL,NULL,NULL,products,NULL
+405,Medical materials,المعدات الطبية,approved,402,1,2021-02-04 18:25:34,2021-02-04 18:25:34,NULL,NULL,NULL,products,NULL
+406,Shelves for medical departments,المواد الطبية,approved,398,1,2021-02-04 18:26:01,2021-02-04 18:26:01,NULL,NULL,NULL,products,NULL
+407,Shelves for warehouses,ارفف مستودعات,approved,406,1,2021-02-04 18:26:24,2021-02-04 18:26:24,NULL,NULL,NULL,products,NULL
+408,Other,أخرى,approved,406,1,2021-02-04 18:26:48,2021-02-04 18:26:48,NULL,NULL,NULL,products,NULL
+410,Emergency,الطوارئ,approved,409,1,2021-02-04 18:29:01,2021-02-04 18:29:01,NULL,NULL,NULL,products,NULL
+411,Manufacturing,التصنيع,approved,409,1,2021-02-04 18:29:18,2021-02-04 18:29:18,NULL,NULL,NULL,products,NULL
+412,Medicine,الأدوية,approved,409,1,2021-02-04 18:29:38,2021-02-04 18:29:38,NULL,NULL,NULL,products,NULL
+413,Service,الخدمة,approved,409,1,2021-02-04 18:29:57,2021-02-04 18:29:57,NULL,NULL,NULL,products,NULL
+414,Stainless Steel Cars,عربات ستاينلس ستيل,approved,409,1,2021-02-04 18:30:31,2021-02-04 18:30:31,NULL,NULL,NULL,products,NULL
+416,Family food service,خدمة الطعام للاسرة,approved,415,1,2021-02-04 18:31:51,2021-02-04 18:31:51,NULL,NULL,NULL,products,NULL
+417,Medical tables,طاولات طبية,approved,415,1,2021-02-04 18:32:11,2021-02-04 18:32:11,NULL,NULL,NULL,products,NULL
+418,Other,أخرى,approved,415,1,2021-02-04 18:32:28,2021-02-04 18:32:28,NULL,NULL,NULL,products,NULL
+421,Doors,الأبواب,approved,376,1,2021-02-04 20:24:05,2021-02-04 20:24:05,NULL,NULL,NULL,products,NULL
+423,Designs,تصميم,approved,421,1,2021-02-04 20:24:55,2021-02-04 20:24:55,NULL,NULL,NULL,products,NULL
+424,Emergency,الطوارئ,approved,421,1,2021-02-04 20:25:31,2021-02-04 20:25:31,NULL,NULL,NULL,products,NULL
+426,Movable,متحركة,approved,421,1,2021-02-04 20:28:51,2021-02-04 20:28:51,NULL,NULL,NULL,products,NULL
+427,Rooms,الغرف و العمليات,approved,421,1,2021-02-04 20:29:18,2021-02-04 20:29:18,NULL,NULL,NULL,products,NULL
+428,Evacuation,الإخلاء,approved,376,1,2021-02-05 01:27:58,2021-02-05 01:27:58,NULL,NULL,NULL,products,NULL
+429,Boards,لوحات,approved,428,1,2021-02-05 01:29:04,2021-02-05 01:29:04,NULL,NULL,NULL,products,NULL
+430,Carry and evacuate,حمل و إخلاء,approved,428,1,2021-02-05 01:29:26,2021-02-05 01:29:26,NULL,NULL,NULL,products,NULL
+431,Rooms,الغرف,approved,376,1,2021-02-05 01:29:43,2021-02-05 01:29:43,NULL,NULL,NULL,products,NULL
+432,Hypnosis,التنويم,approved,431,1,2021-02-05 01:30:02,2021-02-05 01:30:02,NULL,NULL,NULL,products,NULL
+433,Isolation,العزل,approved,431,1,2021-02-05 01:30:21,2021-02-05 01:30:21,NULL,NULL,NULL,products,NULL
+434,pharmaceutical,الأدوية,approved,431,1,2021-02-05 01:31:23,2021-02-05 01:31:23,NULL,NULL,NULL,products,NULL
+435,Surgeries,العمليات,approved,431,1,2021-02-05 01:31:40,2021-02-05 01:31:40,NULL,NULL,NULL,products,NULL
+436,X-rays,الأشعة,approved,431,1,2021-02-05 01:31:55,2021-02-05 01:31:55,NULL,NULL,NULL,products,NULL
+437,Shelves,الأرفف,approved,376,1,2021-02-05 01:32:10,2021-02-05 01:32:10,NULL,NULL,NULL,products,NULL
+438,Medical files,الملفات الطبية,approved,437,1,2021-02-05 01:32:30,2021-02-05 01:32:30,NULL,NULL,NULL,products,NULL
+439,Medicines,الأدوية,approved,437,1,2021-02-05 01:32:47,2021-02-05 01:32:47,NULL,NULL,NULL,products,NULL
+440,Shelves for medical departments,المواد الطبية,approved,437,1,2021-02-05 01:33:08,2021-02-05 01:33:08,NULL,NULL,NULL,products,NULL
+441,Fixed,ثابتة,approved,438,1,2021-02-05 01:33:24,2021-02-05 01:33:24,NULL,NULL,NULL,products,NULL
+442,Moving,متحركة,approved,438,1,2021-02-05 01:33:41,2021-02-05 01:33:41,NULL,NULL,NULL,products,NULL
+443,External Pharmacy,الصيدلية الخارجية,approved,439,1,2021-02-05 01:34:49,2021-02-05 01:34:49,NULL,NULL,NULL,products,NULL
+444,In-house pharmacy,الصيدلية الداخلية,approved,439,1,2021-02-05 01:35:24,2021-02-05 01:35:24,NULL,NULL,NULL,products,NULL
+445,Medical materials,المعدات الطبية,approved,439,1,2021-02-05 01:36:03,2021-02-05 01:36:03,NULL,NULL,NULL,products,NULL
+446,Shelves for warehouses,ارفف مستودعات,approved,440,1,2021-02-05 01:36:32,2021-02-05 01:36:32,NULL,NULL,NULL,products,NULL
+447,Other,أخرى,approved,440,1,2021-02-05 01:37:05,2021-06-10 18:39:16,NULL,NULL,NULL,products,NULL
+448,stroller,العربات,approved,376,1,2021-02-05 01:37:31,2021-02-05 01:37:31,NULL,NULL,NULL,products,NULL
+449,Emergency,الطوارئ,approved,448,1,2021-02-05 01:37:49,2021-02-05 01:37:49,NULL,NULL,NULL,products,NULL
+450,Manufacturing,التصنيع,approved,448,1,2021-02-05 01:38:03,2021-02-05 01:38:03,NULL,NULL,NULL,products,NULL
+451,Medicine,عربة الأدوية,approved,448,1,2021-02-05 01:38:20,2021-02-05 01:38:20,NULL,NULL,NULL,products,NULL
+452,Service,الخدمة,approved,448,1,2021-02-05 01:38:36,2021-02-05 01:38:36,NULL,NULL,NULL,products,NULL
+453,Steinels Steel Cars,عربات ستاينلس ستيل,approved,448,1,2021-02-05 01:38:54,2021-02-05 01:38:54,NULL,NULL,NULL,products,NULL
+454,Tables,طاولات,approved,376,1,2021-02-05 01:39:06,2021-02-05 01:39:06,NULL,NULL,NULL,products,NULL
+455,Family food service,خدمة الطعام للاسرة,approved,454,1,2021-02-05 01:39:22,2021-02-05 01:39:22,NULL,NULL,NULL,products,NULL
+456,Medical tables,طاولات طبية,approved,454,1,2021-02-05 01:39:38,2021-02-05 01:39:38,NULL,NULL,NULL,products,NULL
+457,Other,أخرى,approved,454,1,2021-02-05 01:40:01,2021-06-10 18:39:41,NULL,NULL,NULL,products,NULL
+458,Upper unit of the bed,الوحدة العلوية للسرير,approved,376,1,2021-02-05 01:40:19,2021-02-05 01:40:19,NULL,NULL,NULL,products,NULL
+459,Pharmacy,الصيدلية,approved,3,1,2021-02-05 01:42:45,2021-02-05 01:42:45,NULL,NULL,NULL,products,NULL
+460,Accessories,مستلزمات,approved,459,1,2021-02-05 01:43:07,2021-02-05 01:43:07,NULL,NULL,NULL,products,NULL
+461,Care and Beauty,العناية و الجمال,approved,459,1,2021-02-05 01:43:24,2021-02-05 01:43:24,NULL,NULL,NULL,products,NULL
+462,Drug medications and treatments,الادويه  المخدرة و العلاجات,approved,459,1,2021-02-05 01:43:46,2021-02-05 01:43:46,NULL,NULL,NULL,products,NULL
+463,Vitamins and supplements,الفيتامينات و المكملات الغذائية,approved,459,1,2021-02-05 01:44:02,2021-02-05 01:44:02,NULL,NULL,NULL,products,NULL
+464,Medical equipment,الاجهزة و المعدات الطبية,approved,460,1,2021-02-05 01:44:38,2021-02-05 01:44:38,NULL,NULL,NULL,products,NULL
+465,Shaving tools,ادوات الحلاقة,approved,460,1,2021-02-05 01:44:57,2021-02-05 01:44:57,NULL,NULL,NULL,products,NULL
+466,Sugar appliances,اجهزة السكر,approved,460,1,2021-02-05 01:45:17,2021-02-05 01:45:17,NULL,NULL,NULL,products,NULL
+467,Other,أخرى,approved,460,1,2021-02-05 01:45:31,2021-06-10 18:39:59,NULL,NULL,NULL,products,NULL
+468,Body care,العناية بالجسم,approved,461,1,2021-02-05 01:45:49,2021-02-05 01:45:49,NULL,NULL,NULL,products,NULL
+469,Caring for the child and mother,العناية بالطفل و الام,approved,461,1,2021-02-05 01:46:08,2021-02-05 01:46:08,NULL,NULL,NULL,products,NULL
+470,Cosmetics,أدوات التجميل,approved,461,1,2021-02-05 01:46:30,2021-02-05 01:46:30,NULL,NULL,NULL,products,NULL
+471,Hair Care,العناية بالشعر,approved,461,1,2021-02-05 01:46:45,2021-02-05 01:46:45,NULL,NULL,NULL,products,NULL
+472,Oral and dental care,العناية بالفم و الاسنان,approved,461,1,2021-02-05 01:47:03,2021-02-05 01:47:03,NULL,NULL,NULL,products,NULL
+473,Skin care,العناية بالبشرة,approved,461,1,2021-02-05 01:47:23,2021-02-05 01:47:23,NULL,NULL,NULL,products,NULL
+474,Children's and newborns' medicines,ادوية الاطفال و المواليد,approved,462,1,2021-02-05 01:47:43,2021-02-05 01:47:43,NULL,NULL,NULL,products,NULL
+475,Eye and ear,العين و الاذن,approved,462,1,2021-02-05 01:48:05,2021-02-05 01:48:05,NULL,NULL,NULL,products,NULL
+476,Injectable medicines,الادوية عن طريق الحقن,approved,462,1,2021-02-05 01:48:28,2021-02-05 01:48:28,NULL,NULL,NULL,products,NULL
+477,Intravenous infusion solutions,محاليل التسريب الوريدي,approved,462,1,2021-02-05 01:48:48,2021-02-05 01:48:48,NULL,NULL,NULL,products,NULL
+478,Narcotic drugs,الادوية المخدرة,approved,462,1,2021-02-05 01:49:08,2021-02-05 01:49:08,NULL,NULL,NULL,products,NULL
+479,Oral medicines,أدوية عن طريق الفم,approved,462,1,2021-02-05 01:49:28,2021-02-05 01:49:28,NULL,NULL,NULL,products,NULL
+480,Skin medicine,الادوية الجلدية,approved,462,1,2021-02-05 01:49:45,2021-02-05 01:49:45,NULL,NULL,NULL,products,NULL
+481,Vaccines,اللقاحات و المناعة,approved,462,1,2021-02-05 01:50:06,2021-02-05 01:50:06,NULL,NULL,NULL,products,NULL
+482,Other,أخرى,approved,462,1,2021-02-05 01:50:19,2021-06-10 18:40:21,NULL,NULL,NULL,products,NULL
+483,Herbal supplements,مكملات عشبية,approved,463,1,2021-02-05 01:50:36,2021-02-05 01:50:36,NULL,NULL,NULL,products,NULL
+484,Metals,معادن,approved,463,1,2021-02-05 01:50:56,2021-02-05 01:50:56,NULL,NULL,NULL,products,NULL
+485,Supplements,مكملات غذائية,approved,463,1,2021-02-05 01:51:11,2021-02-05 01:51:11,NULL,NULL,NULL,products,NULL
+486,Vitamins,فيتامينات,approved,463,1,2021-02-05 01:51:25,2021-02-05 01:51:25,NULL,NULL,NULL,products,NULL
+487,Other,أخرى,approved,463,1,2021-02-05 01:51:41,2021-06-10 18:40:40,NULL,NULL,NULL,products,NULL
+488,Uniforms,الأزياء الموحدة,approved,4,1,2021-02-05 02:07:23,2022-05-25 20:17:16,NULL,NULL,NULL,products,NULL
+489,Hospitality,فندقية,approved,1272,1,2021-02-05 02:07:59,2022-05-25 20:39:11,NULL,NULL,NULL,products,NULL
+490,Military,عسكرية,approved,489,1,2021-02-05 02:08:11,2022-05-25 20:40:14,NULL,NULL,NULL,products,NULL
+491,Restaurants,مطاعم,approved,490,1,2021-02-05 02:08:24,2022-05-25 20:40:38,NULL,NULL,NULL,products,NULL
+492,Security and safety,أمن و سلامة,approved,491,1,2021-02-05 02:08:37,2022-05-25 20:41:05,NULL,NULL,NULL,products,NULL
+493,The medical Centers,المراكز الصحية,approved,492,1,2021-02-05 02:10:05,2022-05-25 20:42:31,NULL,NULL,NULL,products,NULL
+494,Other,أخرى,approved,34,1,2021-02-05 02:10:16,2022-05-25 17:26:32,NULL,NULL,NULL,products,NULL
+499,Financial Devices,الأجهزة المالية,approved,5,1,2021-02-09 17:26:57,2022-08-04 17:47:08,NULL,NULL,NULL,products,NULL
+500,Cashier,كاشير,approved,499,1,2021-02-09 17:29:18,2022-08-11 23:13:42,NULL,NULL,NULL,products,NULL
+501,Banknote Counter,آلة عد النقود,approved,499,1,2021-02-09 17:29:44,2022-06-02 17:32:08,NULL,NULL,NULL,products,NULL
+502,Counterfeit Bill Detector,كاشف النقود المزورة,approved,499,1,2021-02-09 17:30:38,2022-06-02 17:36:34,NULL,NULL,NULL,products,NULL
+503,Safe,خزنة,approved,499,1,2021-02-09 17:30:56,2021-02-09 17:30:56,NULL,NULL,NULL,products,NULL
+504,Other,أخرى,approved,953,1,2021-02-09 17:31:31,2022-06-02 17:45:58,NULL,NULL,NULL,products,NULL
+505,Household,المنزلية,approved,506,1,2021-02-09 17:31:59,2022-06-02 18:36:09,NULL,NULL,NULL,products,NULL
+506,Air Conditioners,أجهزة تكييف,approved,504,1,2021-02-09 17:32:45,2022-06-02 18:14:05,NULL,NULL,NULL,products,NULL
+507,Electric Iron,كوايات,approved,505,1,2021-02-09 17:33:24,2021-02-09 17:33:24,NULL,NULL,NULL,products,NULL
+508,Video Games,الألعاب الإلكترونية,approved,505,1,2021-02-09 17:33:51,2022-06-02 17:57:21,NULL,NULL,NULL,products,NULL
+509,Hair Styling Tools,أدوات تصفيف الشعر,approved,510,1,2021-02-09 17:34:14,2022-06-02 18:18:29,NULL,NULL,NULL,products,NULL
+510,Shaving Devices,أجهزة الحلاقة,approved,513,1,2021-02-09 17:35:17,2022-06-02 18:17:01,NULL,NULL,NULL,products,NULL
+511,Vacuum Cleaners,مكانس كهربائية,approved,505,1,2021-02-09 17:35:47,2021-02-09 17:35:47,NULL,NULL,NULL,products,NULL
+512,Washing and Dryer Machines,غسالات ونشافات,approved,505,1,2021-02-09 17:36:27,2021-02-09 17:36:27,NULL,NULL,NULL,products,NULL
+513,Other,أخرى,approved,954,1,2021-02-09 17:36:46,2022-06-02 18:16:00,NULL,NULL,NULL,products,NULL
+515,Applications and Software,تطبيقات وبرامج,approved,514,1,2021-02-09 17:37:51,2021-02-09 17:37:51,NULL,NULL,NULL,products,NULL
+517,Applications,تطبيقات,approved,515,1,2021-02-09 17:38:54,2021-02-09 17:38:54,NULL,NULL,NULL,products,NULL
+518,Software,برامج,approved,515,1,2021-02-09 17:39:21,2021-02-09 17:39:21,NULL,NULL,NULL,products,NULL
+519,Data Centers,مراكز البيانات,approved,514,1,2021-02-09 17:40:32,2022-06-02 19:03:29,NULL,NULL,NULL,products,NULL
+520,Integrated Systems,أنظمة متكاملة,approved,514,1,2021-02-09 17:41:21,2022-06-02 19:03:54,NULL,NULL,NULL,products,NULL
+521,Networks,شبكات,approved,514,1,2021-02-09 17:41:45,2021-02-09 17:41:45,NULL,NULL,NULL,products,NULL
+522,Security,حماية وأمان,approved,514,1,2021-02-09 17:42:14,2022-06-02 19:04:58,NULL,NULL,NULL,products,NULL
+523,Other,أخرى,approved,509,1,2021-02-09 17:42:28,2022-06-02 18:59:52,NULL,NULL,NULL,products,NULL
+525,Coffee,القهوة وملحقاتها,approved,524,1,2021-02-09 17:47:21,2022-06-13 18:40:57,NULL,NULL,NULL,products,NULL
+528,Insect appliances,أجهزة الحشرات,approved,916,1,2021-02-09 17:49:04,2022-06-08 18:25:07,NULL,NULL,NULL,products,NULL
+529,Microwaves,مايكرويف,approved,524,1,2021-02-09 17:49:27,2022-06-08 18:35:51,NULL,NULL,NULL,products,NULL
+530,Ovens,أفران,approved,524,1,2021-02-09 17:49:52,2021-02-09 17:49:52,NULL,NULL,NULL,products,NULL
+531,Cooling and Freezing,التبريد والتجميد,approved,524,1,2021-02-09 17:51:29,2022-06-08 18:43:07,NULL,NULL,NULL,products,NULL
+532,Cooling,التبريد,approved,531,1,2021-02-09 17:51:50,2021-02-09 17:51:50,NULL,NULL,NULL,products,NULL
+533,Freezing,التجميد,approved,531,1,2021-02-09 17:52:15,2022-06-08 19:59:42,NULL,NULL,NULL,products,NULL
+534,Other,أخرى,approved,528,1,2021-02-09 17:52:31,2022-06-08 18:38:11,NULL,NULL,NULL,products,NULL
+535,TVs and Entertainment Devices,التلفزيونات وأجهزة الترفيه,approved,5,1,2021-02-09 17:53:06,2022-06-08 20:05:28,NULL,NULL,NULL,products,NULL
+537,Optical Projectors,أجهزة العرض الضوئية,approved,535,1,2021-02-09 17:54:10,2022-06-08 20:12:27,NULL,NULL,NULL,products,NULL
+538,TVs,أجهزة التلفزيون,approved,535,1,2021-02-09 17:55:05,2021-02-09 17:55:05,NULL,NULL,NULL,products,NULL
+539,Other,أخرى,approved,1250,1,2021-02-09 17:55:19,2022-06-08 20:07:38,NULL,NULL,NULL,products,NULL
+541,Tablets and Smart Devices,اللوحيات والأجهزة الذكية,approved,5,1,2021-02-09 17:58:38,2022-06-08 20:16:23,NULL,NULL,NULL,products,NULL
+542,Headphones and Speakers,سماعات وأدوات مكبرات الصوت,approved,541,1,2021-02-09 17:59:26,2021-02-09 17:59:26,NULL,NULL,NULL,products,NULL
+543,Headphones,سماعات,approved,542,1,2021-02-09 17:59:51,2021-02-09 17:59:51,NULL,NULL,NULL,products,NULL
+544,Audio Adjustment Tools,أدوات تعديل الصوت,approved,542,1,2021-02-09 18:00:30,2022-06-08 20:38:08,NULL,NULL,NULL,products,NULL
+545,Speakers,أدوات تكبير الصوت,approved,542,1,2021-02-09 18:01:05,2021-02-09 18:01:05,NULL,NULL,NULL,products,NULL
+546,Phones and Tablets,الهواتف والأجهزة اللوحية,approved,541,1,2021-02-09 18:02:05,2022-06-08 20:39:45,NULL,NULL,NULL,products,NULL
+547,Accessories,اكسسوارات,approved,546,1,2021-02-09 18:02:36,2021-02-09 18:02:36,NULL,NULL,NULL,products,NULL
+548,Landline,الهاتف الثابت,approved,546,1,2021-02-09 18:04:02,2021-02-09 18:04:02,NULL,NULL,NULL,products,NULL
+549,Mobile and smartphones,الهواتف المحمولة و الذكية,approved,546,1,2021-02-09 18:04:23,2022-08-04 17:58:44,NULL,NULL,NULL,products,NULL
+550,Tablets,أجهزة لوحية,approved,546,1,2021-02-09 18:04:46,2021-02-09 18:04:46,NULL,NULL,NULL,products,NULL
+551,Other,أخرى,approved,1344,1,2021-02-09 18:05:02,2022-06-08 20:45:02,NULL,NULL,NULL,products,NULL
+552,Disposables,المستهلكات,approved,7,1,2021-02-11 15:56:17,2022-06-13 21:20:22,NULL,NULL,NULL,products,NULL
+553,Cork Plates and Cups,أواني وكاسات الفلين,approved,552,1,2021-02-11 15:56:32,2022-06-13 21:22:13,NULL,NULL,NULL,products,NULL
+554,Packaging,التغليف,approved,552,1,2021-02-11 15:56:52,2021-02-11 15:56:52,NULL,NULL,NULL,products,NULL
+555,Paper Products,الورقيات,approved,552,1,2021-02-11 15:57:10,2022-08-10 18:10:25,NULL,NULL,NULL,products,NULL
+556,Plastic Plates and Cups,أواني وأكواب بلاستيكية,approved,552,1,2021-02-11 15:57:24,2022-06-13 19:46:56,NULL,NULL,NULL,products,NULL
+557,Aluminum Foil Plates,أواني قصدير,approved,552,1,2021-02-11 15:57:42,2022-06-13 19:49:56,NULL,NULL,NULL,products,NULL
+559,Other,أخرى,approved,913,1,2021-02-11 15:58:06,2022-06-13 16:47:15,NULL,NULL,NULL,products,NULL
+560,Cooking Tools,أدوات الطهي,approved,7,1,2021-02-11 15:58:17,2022-06-13 19:50:30,NULL,NULL,NULL,products,NULL
+561,Cake Molds,قوالب الكيك,approved,560,1,2021-02-11 15:58:37,2022-06-13 23:15:31,NULL,NULL,NULL,products,NULL
+562,Frying Tools,أدوات القلي,approved,560,1,2021-02-11 15:58:54,2022-06-13 19:51:26,NULL,NULL,NULL,products,NULL
+563,Grilling Tools,أدوات الشواء,approved,560,1,2021-02-11 15:59:08,2022-06-13 19:52:03,NULL,NULL,NULL,products,NULL
+566,Oven Trays,صواني الفرن,approved,560,1,2021-02-11 16:12:01,2022-06-13 22:35:25,NULL,NULL,NULL,products,NULL
+567,Other,أخرى,approved,559,1,2021-02-11 16:12:17,2022-06-13 16:47:47,NULL,NULL,NULL,products,NULL
+568,Food Warmers and Coolers,حافظات الطعام,approved,7,1,2021-02-11 16:12:33,2022-06-13 19:56:57,NULL,NULL,NULL,products,NULL
+569,Cold,البارد,approved,568,1,2021-02-11 16:12:47,2021-02-11 16:12:47,NULL,NULL,NULL,products,NULL
+570,Drinks,المشروبات,approved,569,1,2021-02-11 16:13:03,2021-02-11 16:13:03,NULL,NULL,NULL,products,NULL
+571,Food,الأطعمة,approved,569,1,2021-02-11 16:13:18,2021-02-11 16:13:18,NULL,NULL,NULL,products,NULL
+572,Hot,الساخن,approved,568,1,2021-02-11 16:13:30,2021-02-11 16:13:30,NULL,NULL,NULL,products,NULL
+573,Drinks,المشروبات,approved,572,1,2021-02-11 16:13:52,2021-02-11 16:13:52,NULL,NULL,NULL,products,NULL
+574,Food,الأطعمة,approved,572,1,2021-02-11 16:14:08,2021-02-11 16:14:08,NULL,NULL,NULL,products,NULL
+577,Dough tools,أدوات العجن,approved,575,1,2021-02-11 16:15:35,2021-02-11 16:15:35,NULL,NULL,NULL,products,NULL
+578,Food packaging equipment,معدات تغليف الاطعمة,approved,575,1,2021-02-11 16:15:48,2021-02-11 16:15:48,NULL,NULL,NULL,products,NULL
+580,Food scale,ميزان,approved,575,1,2021-02-11 16:16:33,2021-02-11 16:16:33,NULL,NULL,NULL,products,NULL
+581,Mixers,خلاطات,approved,575,1,2021-02-11 16:16:47,2021-02-11 16:16:47,NULL,NULL,NULL,products,NULL
+582,Other,أخرى,approved,567,1,2021-02-11 16:16:56,2022-06-13 16:49:33,NULL,NULL,NULL,products,NULL
+583,Serveware,أدوات التقديم,approved,7,1,2021-02-11 16:17:14,2022-06-13 20:39:54,NULL,NULL,NULL,products,NULL
+584,Cups and Glassware,الأكواب والكاسات,approved,583,1,2021-02-11 16:17:27,2022-06-13 20:50:59,NULL,NULL,NULL,products,NULL
+585,Plates,الصحون,approved,583,1,2021-02-11 16:17:38,2022-06-13 20:47:43,NULL,NULL,NULL,products,NULL
+587,Cutlery,الملاعق والشوك والسكاكين,approved,583,1,2021-02-11 16:18:03,2022-06-13 20:41:49,NULL,NULL,NULL,products,NULL
+588,Other,أخرى,approved,1259,1,2021-02-11 16:18:14,2022-06-13 16:50:15,NULL,NULL,NULL,products,NULL
+589,Food Service Storage Systems,أنظمة تخزين الغذاء,approved,7,1,2021-02-11 16:18:29,2022-06-13 21:14:33,NULL,NULL,NULL,products,NULL
+595,Cooling and Freezing,التبريد والتجميد,approved,589,1,2021-02-11 16:19:58,2022-06-13 21:11:48,NULL,NULL,NULL,products,NULL
+596,Cold Storage Rooms,غرف تبريد,approved,595,1,2021-02-11 16:20:14,2022-06-13 21:04:05,NULL,NULL,NULL,products,NULL
+597,Display Refrigerators,ثلاجات عرض المنتجات,approved,595,1,2021-02-11 16:20:33,2022-06-13 21:10:49,NULL,NULL,NULL,products,NULL
+601,Fire alarm systems,انظمة تنبيه الحرائق,approved,600,1,2021-02-11 16:22:02,2021-10-12 14:49:44,NULL,NULL,NULL,products,NULL
+602,Fire fighting systems,انظمة مكافحة الحريق,approved,600,1,2021-02-11 16:22:59,2021-02-11 16:22:59,NULL,NULL,NULL,products,NULL
+603,Fire fighting tools,ادوات مكافحة الحريق,approved,600,1,2021-02-11 16:23:15,2021-02-11 16:23:15,NULL,NULL,NULL,products,NULL
+604,Surveillance cameras,كاميرات المراقبة,approved,600,1,2021-02-11 16:23:38,2021-02-11 16:23:38,NULL,NULL,NULL,products,NULL
+605,Gas,غاز,approved,1401,1,2021-02-11 16:23:58,2022-06-13 21:33:56,NULL,NULL,NULL,products,NULL
+606,Central cylinders,اسطوانات مركزية,approved,605,1,2021-02-11 16:24:18,2021-02-11 16:24:18,NULL,NULL,NULL,products,NULL
+607,Individual cylinders,اسطوانات فردية,approved,605,1,2021-02-11 16:24:35,2021-10-12 14:48:57,NULL,NULL,NULL,products,NULL
+609,Ice grinding,طحن الثلج,approved,608,1,2021-02-11 16:25:03,2021-02-11 16:25:03,NULL,NULL,NULL,products,NULL
+610,Ice makers,صانعات الثلج,approved,608,1,2021-02-11 16:25:19,2021-02-11 16:25:19,NULL,NULL,NULL,products,NULL
+613,Trollies,العربيات,approved,589,1,2021-02-11 16:25:59,2022-06-13 20:45:12,NULL,NULL,NULL,products,NULL
+614,Service Trolley,عربيات الخدمة,approved,613,1,2021-02-11 16:26:17,2022-06-13 20:44:03,NULL,NULL,NULL,products,NULL
+615,Insulated Food Trollies,عربيات حافظة للحرارة,approved,613,1,2021-02-11 16:26:31,2022-06-13 20:46:42,NULL,NULL,NULL,products,NULL
+616,Other,أخرى,approved,622,1,2021-02-11 16:26:42,2022-06-13 16:51:16,NULL,NULL,NULL,products,NULL
+622,Other,أخرى,approved,582,1,2021-02-11 16:28:08,2022-06-13 16:50:45,NULL,NULL,NULL,products,NULL
+623,Disposables,المنتجات الاستهلاكية,approved,6,1,2021-02-11 19:21:20,2022-06-14 20:03:55,NULL,NULL,NULL,products,NULL
+624,Tissues,المناديل,approved,623,1,2021-02-11 19:21:37,2022-06-14 19:58:37,NULL,NULL,NULL,products,NULL
+625,Facial Tissues,الوجه,approved,624,1,2021-02-11 19:22:12,2022-06-14 20:35:21,NULL,NULL,NULL,products,NULL
+626,Kitchen Towels,مناشف المطبخ,approved,624,1,2021-02-11 19:22:25,2022-06-08 21:21:01,NULL,NULL,NULL,products,NULL
+627,Toilet Paper,دورات المياه,approved,624,1,2021-02-11 19:22:37,2022-06-14 20:36:21,NULL,NULL,NULL,products,NULL
+628,Other,أخرى,approved,551,1,2021-02-11 19:22:49,2022-06-08 21:15:57,NULL,NULL,NULL,products,NULL
+629,Towels and mops,الفوط و الممسحات,approved,630,1,2021-02-11 19:23:02,2022-06-08 22:41:41,NULL,NULL,NULL,products,NULL
+630,Other,أخرى,approved,628,1,2021-02-11 19:23:40,2022-06-08 21:22:12,NULL,NULL,NULL,products,NULL
+631,"Detergents, Disinfectants and Sterilizers",المنظفات والمطهرات والمعقمات,approved,6,1,2021-02-11 19:23:49,2022-06-08 22:43:32,NULL,NULL,NULL,products,NULL
+632,Flooring,الارضيات,approved,631,1,2021-02-11 19:24:07,2021-02-11 19:24:07,NULL,NULL,NULL,products,NULL
+634,Vinyl,الڤينيل,approved,632,1,2021-02-11 19:24:39,2022-06-14 20:22:37,NULL,NULL,NULL,products,NULL
+635,Marble and Ceramic,الرخام والسيراميك,approved,632,1,2021-02-11 19:24:58,2022-06-14 20:24:43,NULL,NULL,NULL,products,NULL
+636,Other,أخرى,approved,629,1,2021-02-11 19:25:10,2022-06-08 22:48:03,NULL,NULL,NULL,products,NULL
+640,Kitchen Chemicals,منظفات المطبخ,approved,631,1,2021-02-11 19:26:20,2022-06-14 23:02:35,NULL,NULL,NULL,products,NULL
+641,Aluminium,الألمنيوم,approved,9,1,2021-02-11 19:26:23,2021-02-11 19:26:23,NULL,NULL,NULL,products,NULL
+642,Ovens,الافران,approved,640,1,2021-02-11 19:26:32,2021-02-11 19:26:32,NULL,NULL,NULL,products,NULL
+644,Vegetables and fruits,الخضار و الفواكة,approved,646,1,2021-02-11 19:26:58,2022-06-08 23:02:57,NULL,NULL,NULL,products,NULL
+645,"Bricks, cement, concrete",الطوب والاسمنت والخرسانة,approved,9,1,2021-02-11 19:27:10,2021-02-11 19:27:10,NULL,NULL,NULL,products,NULL
+646,Other,أخرى,approved,636,1,2021-02-11 19:27:13,2022-06-08 22:52:52,NULL,NULL,NULL,products,NULL
+647,Food,غذاء,approved,9,1,2021-02-11 19:27:25,2021-02-11 19:27:25,NULL,NULL,NULL,products,NULL
+648,Laundry,مغسلة الملابس,approved,631,1,2021-02-11 19:27:32,2021-02-11 19:27:32,NULL,NULL,NULL,products,NULL
+649,Powder,البودرة,approved,648,1,2021-02-11 19:27:44,2022-06-14 20:55:04,NULL,NULL,NULL,products,NULL
+650,Glass factories,مصانع الزجاج,approved,9,1,2021-02-11 19:27:52,2021-02-11 19:27:52,NULL,NULL,NULL,products,NULL
+651,Tablets,أقراص,approved,648,1,2021-02-11 19:27:59,2022-06-14 20:55:43,NULL,NULL,NULL,products,NULL
+652,Gypsum,الجبس,approved,9,1,2021-02-11 19:28:07,2021-02-11 19:28:07,NULL,NULL,NULL,products,NULL
+653,Other,أخرى,approved,644,1,2021-02-11 19:28:15,2022-06-12 21:06:12,NULL,NULL,NULL,products,NULL
+654,Soap,الصابون,approved,631,1,2021-02-11 19:28:41,2021-02-11 19:28:41,NULL,NULL,NULL,products,NULL
+655,"Marble, ceamic, stone",الرخام والسيراميك والحجر,approved,9,1,2021-02-11 19:28:43,2021-02-11 19:28:43,NULL,NULL,NULL,products,NULL
+656,Hand Soap,صابون اليدين,approved,654,1,2021-02-11 19:28:56,2022-06-13 16:55:38,NULL,NULL,NULL,products,NULL
+657,Paper factories,مصانع الورق,approved,9,1,2021-02-11 19:29:07,2021-02-11 19:29:07,NULL,NULL,NULL,products,NULL
+658,Sterile Soap,صابون معقم,approved,654,1,2021-02-11 19:29:09,2022-06-13 16:57:22,NULL,NULL,NULL,products,NULL
+659,Other,أخرى,approved,669,1,2021-02-11 19:29:21,2022-06-12 21:09:10,NULL,NULL,NULL,products,NULL
+660,Plastic factories,مصانع البلاستيك,approved,9,1,2021-02-11 19:29:25,2021-02-11 19:29:25,NULL,NULL,NULL,products,NULL
+661,Surfaces,الاسطح,approved,631,1,2021-02-11 19:29:37,2021-02-11 19:29:37,NULL,NULL,NULL,products,NULL
+662,Printing press,مطابع,approved,9,1,2021-02-11 19:29:44,2021-02-11 19:29:44,NULL,NULL,NULL,products,NULL
+663,Aluminum,ألمنيوم,approved,661,1,2021-02-11 19:29:50,2022-06-16 19:54:32,NULL,NULL,NULL,products,NULL
+664,Cladding,كلادينج,approved,661,1,2021-02-11 19:30:04,2022-06-16 19:56:02,NULL,NULL,NULL,products,NULL
+665,Steel factories,مصانع الحديد,approved,9,1,2021-02-11 19:30:06,2021-02-11 19:30:06,NULL,NULL,NULL,products,NULL
+666,Other,أخرى,approved,1007,1,2021-02-11 19:30:20,2022-06-12 21:16:37,NULL,NULL,NULL,products,NULL
+667,Water plants,مصانع مياة,approved,9,1,2021-02-11 19:30:25,2021-02-11 19:30:25,NULL,NULL,NULL,products,NULL
+669,Other,أخرى,approved,653,1,2021-02-11 19:31:02,2022-06-12 21:07:23,NULL,NULL,NULL,products,NULL
+670,Cleaning Tools and Equipment,معدات وأدوات التنظيف,approved,6,1,2021-02-11 19:31:42,2022-06-16 21:57:04,NULL,NULL,NULL,products,NULL
+674,Carpet,السجاد,approved,673,1,2021-02-11 19:32:43,2021-02-11 19:32:43,NULL,NULL,NULL,products,NULL
+675,Kitchen,مطابخ,approved,641,1,2021-02-11 19:32:48,2021-02-11 19:32:48,NULL,NULL,NULL,products,NULL
+676,External Facilities,المرافق الخارجية,approved,673,1,2021-02-11 19:32:57,2022-06-13 17:04:56,NULL,NULL,NULL,products,NULL
+677,Other,أخرى,approved,641,1,2021-02-11 19:33:12,2021-02-11 19:33:12,NULL,NULL,NULL,products,NULL
+678,Flooring,الارضيات,approved,673,1,2021-02-11 19:33:13,2021-02-11 19:33:13,NULL,NULL,NULL,products,NULL
+679,Parking,المواقف,approved,673,1,2021-02-11 19:33:29,2021-02-11 19:33:29,NULL,NULL,NULL,products,NULL
+681,Cleaning Services,خدمات النظافة,approved,680,1,2021-02-11 19:34:00,2022-06-13 17:06:39,NULL,NULL,NULL,products,NULL
+682,Moving clothes,نقل الملابس,approved,616,1,2021-02-11 19:34:14,2022-06-13 17:07:40,NULL,NULL,NULL,products,NULL
+683,Waste Transport,نقل النفايات,approved,680,1,2021-02-11 19:34:26,2022-06-13 17:09:30,NULL,NULL,NULL,products,NULL
+684,Brick,طوب,approved,645,1,2021-02-11 19:34:27,2021-02-11 19:34:27,NULL,NULL,NULL,products,NULL
+685,Other,أخرى,approved,1030,1,2021-02-11 19:34:42,2022-06-13 16:34:34,NULL,NULL,NULL,products,NULL
+686,Cement,اسمنت,approved,645,1,2021-02-11 19:34:50,2021-02-11 19:34:50,NULL,NULL,NULL,products,NULL
+687,Dispensers,الموزعات,approved,6,1,2021-02-11 19:34:54,2022-08-11 23:23:36,NULL,NULL,NULL,products,NULL
+688,Washing Machines,أجهزة غسيل الملابس,approved,687,1,2021-02-11 19:35:05,2022-06-16 21:40:56,NULL,NULL,NULL,products,NULL
+689,Concrete,خرسانة,approved,645,1,2021-02-11 19:35:11,2021-02-11 19:35:11,NULL,NULL,NULL,products,NULL
+691,Soap,موزع الصابون السائل,approved,690,1,2021-02-11 19:35:31,2022-06-16 21:17:44,NULL,NULL,NULL,products,NULL
+692,Napkins,منظم المناديل,approved,690,1,2021-02-11 19:35:45,2022-06-16 21:18:44,NULL,NULL,NULL,products,NULL
+693,Dishwasher,غسالة الصحون,approved,690,1,2021-02-11 19:36:01,2022-06-16 21:27:26,NULL,NULL,NULL,products,NULL
+694,Washing Machines,أجهزة غسيل الملابس,approved,690,1,2021-02-11 19:36:18,2022-06-16 21:26:18,NULL,NULL,NULL,products,NULL
+696,Dates,تمور,approved,647,1,2021-02-11 19:37:20,2021-02-11 19:37:20,NULL,NULL,NULL,products,NULL
+697,Drinks,المشروبات,approved,647,1,2021-02-11 19:37:44,2021-02-11 19:37:44,NULL,NULL,NULL,products,NULL
+698,Sweets,حلويات,approved,647,1,2021-02-11 19:38:04,2021-02-11 19:38:04,NULL,NULL,NULL,products,NULL
+699,Ceramic,السيراميك,approved,655,1,2021-02-11 19:38:46,2021-02-11 19:38:46,NULL,NULL,NULL,products,NULL
+700,Marble,الرخام,approved,655,1,2021-02-11 19:39:06,2021-02-11 19:39:06,NULL,NULL,NULL,products,NULL
+701,Materials,المواد,approved,655,1,2021-02-11 19:39:32,2021-02-11 19:39:32,NULL,NULL,NULL,products,NULL
+702,Stone,الحجر,approved,655,1,2021-02-11 19:39:53,2021-02-11 19:39:53,NULL,NULL,NULL,products,NULL
+703,Glasses and cups,الكاسات والأكواب,approved,657,1,2021-02-11 19:40:31,2021-02-11 19:40:31,NULL,NULL,NULL,products,NULL
+704,Medical,الطبي,approved,657,1,2021-02-11 19:41:00,2021-02-11 19:41:00,NULL,NULL,NULL,products,NULL
+705,Tissues,المناديل,approved,657,1,2021-02-11 19:41:20,2021-02-11 19:41:20,NULL,NULL,NULL,products,NULL
+706,Face,الوجه,approved,705,1,2021-02-11 19:41:45,2021-02-11 19:41:45,NULL,NULL,NULL,products,NULL
+708,Plastic,بلاستيك,approved,707,1,2021-02-11 19:42:21,2021-02-11 19:42:21,NULL,NULL,NULL,products,NULL
+709,Kitchen,المطبخ,approved,705,1,2021-02-11 19:42:28,2021-02-11 19:42:28,NULL,NULL,NULL,products,NULL
+710,Steel,ستيل,approved,707,1,2021-02-11 19:42:35,2021-02-11 19:42:35,NULL,NULL,NULL,products,NULL
+712,Sterile,مناديل معقمة,approved,705,1,2021-02-11 19:42:56,2021-02-11 19:42:56,NULL,NULL,NULL,products,NULL
+713,Electric,كهربائية,approved,711,1,2021-02-11 19:43:02,2021-02-11 19:43:02,NULL,NULL,NULL,products,NULL
+714,Manual,يدوية,approved,711,1,2021-02-11 19:43:16,2021-02-11 19:43:16,NULL,NULL,NULL,products,NULL
+715,Toilet,دورات المياه,approved,705,1,2021-02-11 19:43:20,2021-02-11 19:43:20,NULL,NULL,NULL,products,NULL
+716,Chairs and tables,الكراسي والطاولات,approved,660,1,2021-02-11 19:43:49,2021-02-11 19:43:49,NULL,NULL,NULL,products,NULL
+717,"Glasses, plates, spoons and forks",الكاسات والصحون والملاعق والشوك,approved,660,1,2021-02-11 19:45:10,2021-02-11 19:45:10,NULL,NULL,NULL,products,NULL
+718,Resealable bags,اكياس قابلة للإغلاق,approved,660,1,2021-02-11 19:45:39,2021-02-11 19:45:39,NULL,NULL,NULL,products,NULL
+719,Shopping bags,اكياس تسوق,approved,660,1,2021-02-11 19:46:05,2021-02-11 19:46:05,NULL,NULL,NULL,products,NULL
+720,Waste bags,اكياس نفايات,approved,660,1,2021-02-11 19:46:27,2021-02-11 19:46:27,NULL,NULL,NULL,products,NULL
+721,Other,أخرى,approved,660,1,2021-02-11 19:46:40,2021-02-11 19:46:40,NULL,NULL,NULL,products,NULL
+722,Food,الأطعمة,approved,718,1,2021-02-11 19:48:03,2021-02-11 19:48:03,NULL,NULL,NULL,products,NULL
+723,Medical,الاحتياجات الطبية,approved,718,1,2021-02-11 19:48:31,2021-02-11 19:48:31,NULL,NULL,NULL,products,NULL
+724,Other,أخرى,approved,718,1,2021-02-11 19:49:07,2021-02-11 19:49:07,NULL,NULL,NULL,products,NULL
+725,Customized,حسب الطلب,approved,719,1,2021-02-11 19:50:51,2021-02-11 19:50:51,NULL,NULL,NULL,products,NULL
+726,Ready,جاهزة,approved,719,1,2021-02-11 19:51:17,2021-02-11 19:51:17,NULL,NULL,NULL,products,NULL
+727,Medical,الطبية,approved,720,1,2021-02-11 19:52:22,2021-02-11 19:52:22,NULL,NULL,NULL,products,NULL
+728,Other,أخرى,approved,720,1,2021-02-11 19:52:39,2021-02-11 19:52:39,NULL,NULL,NULL,products,NULL
+729,Boards,لوحات,approved,662,1,2021-02-11 19:53:44,2021-02-11 19:53:44,NULL,NULL,NULL,products,NULL
+730,Adhesive boards,لوحات لاصقة,approved,729,1,2021-02-11 19:54:10,2021-02-11 19:54:10,NULL,NULL,NULL,products,NULL
+731,Banners,لافتة (بنر),approved,729,1,2021-02-11 19:54:43,2021-02-11 19:54:43,NULL,NULL,NULL,products,NULL
+733,External boards,لوحات خارجية,approved,729,1,2021-02-11 19:55:58,2021-02-11 19:55:58,NULL,NULL,NULL,products,NULL
+734,Internal boards,لوحات داخلية,approved,729,1,2021-02-11 19:56:52,2021-02-11 19:56:52,NULL,NULL,NULL,products,NULL
+735,Other,أخرى,approved,729,1,2021-02-11 19:57:21,2021-02-11 19:57:21,NULL,NULL,NULL,products,NULL
+736,Brochures and publications,كتيبات ومنشورات,approved,662,1,2021-02-11 19:57:56,2021-02-11 19:57:56,NULL,NULL,NULL,products,NULL
+737,Cards,بطاقات,approved,662,1,2021-02-11 19:58:19,2021-02-11 19:58:19,NULL,NULL,NULL,products,NULL
+738,Forms,نماذج,approved,662,1,2021-02-11 19:58:48,2021-02-11 19:58:48,NULL,NULL,NULL,products,NULL
+739,Restaurant Menu,منيو المطاعم,approved,662,1,2021-02-11 19:59:13,2021-02-11 19:59:13,NULL,NULL,NULL,products,NULL
+740,Other,أخرى,approved,662,1,2021-02-11 19:59:29,2021-02-11 19:59:29,NULL,NULL,NULL,products,NULL
+741,Boards,لوحات,approved,665,1,2021-02-11 19:59:50,2021-02-11 19:59:50,NULL,NULL,NULL,products,NULL
+742,Bridges,جسور,approved,665,1,2021-02-11 20:00:06,2021-02-11 20:00:06,NULL,NULL,NULL,products,NULL
+743,Cladding,كلادينق,approved,665,1,2021-02-11 20:00:25,2021-02-11 20:00:25,NULL,NULL,NULL,products,NULL
+744,Iron,حديد,approved,665,1,2021-02-11 20:00:37,2021-02-11 20:00:37,NULL,NULL,NULL,products,NULL
+745,Shelves and warehouses,الأرفف والمستودعات,approved,665,1,2021-02-11 20:01:54,2021-02-11 20:01:54,NULL,NULL,NULL,products,NULL
+746,Stands,قواعد,approved,665,1,2021-02-11 20:02:10,2021-02-11 20:02:10,NULL,NULL,NULL,products,NULL
+747,Other,أخرى,approved,665,1,2021-02-11 20:02:26,2021-02-11 20:02:26,NULL,NULL,NULL,products,NULL
+748,Desalination plants,مصانع التحلية,approved,667,1,2021-02-11 20:03:47,2021-02-11 20:03:47,NULL,NULL,NULL,products,NULL
+749,Water,المياه,approved,667,1,2021-02-11 20:04:13,2021-02-11 20:04:13,NULL,NULL,NULL,products,NULL
+750,Desalinated drinking water,مياه شرب محلاة,approved,749,1,2021-02-11 20:05:52,2021-02-11 20:05:52,NULL,NULL,NULL,products,NULL
+751,Ice,ثلج,approved,749,1,2021-02-11 20:06:09,2021-02-11 20:06:09,NULL,NULL,NULL,products,NULL
+752,Soda drinking water,مياه شرب غازية,approved,749,1,2021-02-11 20:06:44,2021-02-11 20:06:44,NULL,NULL,NULL,products,NULL
+754,Cashier,كاشير,approved,753,1,2021-02-11 20:16:13,2021-02-11 20:16:13,NULL,NULL,NULL,products,NULL
+755,Count the money,عد النقود,approved,753,1,2021-02-11 20:17:00,2021-02-11 20:17:00,NULL,NULL,NULL,products,NULL
+756,Counterfeit cash detector,كاشف النقود المزورة,approved,753,1,2021-02-11 20:18:24,2021-02-11 20:18:24,NULL,NULL,NULL,products,NULL
+757,Safe,خزنة,approved,753,1,2021-02-11 20:19:00,2021-02-11 20:19:00,NULL,NULL,NULL,products,NULL
+758,Other,أخرى,approved,539,1,2021-02-11 20:19:33,2022-06-13 16:35:40,NULL,NULL,NULL,products,NULL
+760,Computer equipment,مستلزمات اجهزة الحاسب الألي,approved,759,1,2021-02-11 20:21:59,2021-02-11 20:21:59,NULL,NULL,NULL,products,NULL
+761,Fixed devices,أجهزة ثابتة,approved,759,1,2021-02-11 20:22:50,2021-02-11 20:22:50,NULL,NULL,NULL,products,NULL
+762,Portable devices,أجهزة محمولة,approved,759,1,2021-02-11 20:23:50,2021-02-11 20:23:50,NULL,NULL,NULL,products,NULL
+763,Carpeting,المفروشات,approved,2,1,2021-02-11 20:24:35,2022-07-07 17:54:05,NULL,NULL,NULL,products,NULL
+765,Agriculture,الزراعة,approved,8,1,2021-02-11 20:25:14,2021-02-11 20:25:14,NULL,NULL,NULL,products,NULL
+767,Building,البناء,approved,8,1,2021-02-11 20:25:49,2022-05-30 16:55:32,NULL,NULL,NULL,products,NULL
+768,Curtains,الستائر,approved,763,1,2021-02-11 20:26:15,2022-06-19 20:10:57,NULL,NULL,NULL,products,NULL
+769,Carpets,السجاد,approved,763,1,2021-02-11 20:27:13,2022-06-19 20:12:23,NULL,NULL,NULL,products,NULL
+770,Other,أخرى,approved,1352,1,2021-02-11 20:27:36,2022-06-13 16:36:54,NULL,NULL,NULL,products,NULL
+771,Services,الخدمات,approved,764,1,2021-02-11 20:28:22,2022-05-30 17:50:17,NULL,NULL,NULL,products,NULL
+773,Medical,الطبية,approved,837,1,2021-02-11 20:28:51,2022-05-30 17:50:42,NULL,NULL,NULL,products,NULL
+774,Umbrellas and Screens,المظلات والسواتر,approved,779,1,2021-02-11 20:30:04,2022-05-30 17:54:40,NULL,NULL,NULL,products,NULL
+775,Copy machiens,أجهزة نسخ,approved,772,1,2021-02-11 20:30:13,2021-02-11 20:30:13,NULL,NULL,NULL,products,NULL
+776,Demolition and restoration,الهدم والترميم,approved,778,1,2021-02-11 20:30:48,2022-05-30 17:52:02,NULL,NULL,NULL,products,NULL
+777,Printers,الطابعات,approved,772,1,2021-02-11 20:30:52,2021-02-11 20:30:52,NULL,NULL,NULL,products,NULL
+778,Decor and design,ديكور وتصميم,approved,773,1,2021-02-11 20:31:13,2022-05-30 17:51:33,NULL,NULL,NULL,products,NULL
+779,Kitchen,مطابخ,approved,776,1,2021-02-11 20:31:32,2022-05-30 17:52:36,NULL,NULL,NULL,products,NULL
+781,Black,طباعة أسود,approved,777,1,2021-02-11 20:31:49,2021-02-11 20:31:49,NULL,NULL,NULL,products,NULL
+782,Card printer,طابعة بطاقات,approved,777,1,2021-02-11 20:32:33,2021-02-11 20:32:33,NULL,NULL,NULL,products,NULL
+783,Colored,طباعة ملون,approved,777,1,2021-02-11 20:33:12,2021-02-11 20:33:12,NULL,NULL,NULL,products,NULL
+784,Other,أخرى,approved,846,1,2021-02-11 20:33:19,2022-05-25 17:50:21,NULL,NULL,NULL,products,NULL
+785,Sapling,شتلات,approved,256,1,2021-02-11 20:34:06,2022-05-29 20:26:12,NULL,NULL,NULL,products,NULL
+786,Printer with scanner,طابعة مع ماسح ضوئي,approved,777,1,2021-02-11 20:34:20,2021-02-11 20:34:20,NULL,NULL,NULL,products,NULL
+787,Natural,طبيعي,approved,785,1,2021-02-11 20:34:30,2021-02-11 20:34:30,NULL,NULL,NULL,products,NULL
+788,Other,أخرى,approved,919,1,2021-02-11 20:34:40,2022-06-13 16:40:34,NULL,NULL,NULL,products,NULL
+789,Fake,صناعي,approved,785,1,2021-02-11 20:34:53,2021-02-11 20:34:53,NULL,NULL,NULL,products,NULL
+790,Flowers,ورود,approved,261,1,2021-02-11 20:35:19,2022-05-29 20:14:46,NULL,NULL,NULL,products,NULL
+791,Scanners,ماسحة ضوئية,approved,772,1,2021-02-11 20:35:37,2021-02-11 20:35:37,NULL,NULL,NULL,products,NULL
+792,Natural,Fake,approved,790,1,2021-02-11 20:35:41,2021-02-11 20:35:41,NULL,NULL,NULL,products,NULL
+793,Other,أخرى,approved,788,1,2021-02-11 20:35:55,2022-06-13 16:41:08,NULL,NULL,NULL,products,NULL
+795,Furniture,الأثاث,approved,2,1,2021-02-11 20:36:40,2022-06-19 20:12:48,NULL,NULL,NULL,products,NULL
+796,Outdoor Plants,النباتات الخارجية,approved,765,1,2021-02-11 20:36:46,2022-06-12 21:19:48,NULL,NULL,NULL,products,NULL
+797,Fruitful Plants,النباتات المثمرة,approved,796,1,2021-02-11 20:37:19,2022-05-30 17:17:26,NULL,NULL,NULL,products,NULL
+798,Bedroom,غرف النوم,approved,795,1,2021-02-11 20:37:41,2022-06-19 20:21:05,NULL,NULL,NULL,products,NULL
+799,Citrus,الحمضيات,approved,797,1,2021-02-11 20:37:56,2022-05-30 17:12:56,NULL,NULL,NULL,products,NULL
+800,Palm Trees,النخيل,approved,797,1,2021-02-11 20:38:15,2022-06-02 16:44:56,NULL,NULL,NULL,products,NULL
+801,Home,منزلي,approved,798,1,2021-02-11 20:38:16,2022-06-19 20:23:55,NULL,NULL,NULL,products,NULL
+802,Vegetables,الخضروات,approved,254,1,2021-02-11 20:38:39,2022-05-29 20:21:31,NULL,NULL,NULL,products,NULL
+803,Hotel,الفندقي,approved,798,1,2021-02-11 20:39:00,2022-06-19 20:23:24,NULL,NULL,NULL,products,NULL
+804,Other,أخرى,approved,494,1,2021-02-11 20:39:01,2022-05-25 17:41:06,NULL,NULL,NULL,products,NULL
+805,Other,أخرى,approved,770,1,2021-02-11 20:39:21,2022-06-13 16:37:26,NULL,NULL,NULL,products,NULL
+806,Basins Cultivation,الأحواض الزراعية,approved,796,1,2021-02-11 20:40:03,2022-05-30 17:16:34,NULL,NULL,NULL,products,NULL
+807,Office Furniture,الأثاث المكتبي,approved,795,1,2021-02-11 20:40:29,2022-06-19 20:25:50,NULL,NULL,NULL,products,NULL
+808,Flowers,الورد,approved,796,1,2021-02-11 20:40:36,2022-05-29 20:14:03,NULL,NULL,NULL,products,NULL
+809,Other,أخرى,approved,855,1,2021-02-11 20:40:53,2022-05-25 17:43:34,NULL,NULL,NULL,products,NULL
+810,Agricultural Tools,الأدوات الزراعية,approved,765,1,2021-02-11 20:42:04,2022-05-30 17:15:59,NULL,NULL,NULL,products,NULL
+811,Seeds,البذور,approved,765,1,2021-02-11 20:42:19,2022-05-30 17:13:33,NULL,NULL,NULL,products,NULL
+812,Kitchens and Restaurants,المطاعم والمطابخ,approved,795,1,2021-02-11 20:42:35,2022-06-19 20:27:16,NULL,NULL,NULL,products,NULL
+813,Gardens Decorations,زينة الحدائق,approved,765,1,2021-02-11 20:42:45,2022-08-02 18:43:23,NULL,NULL,NULL,products,NULL
+814,Fertilizers and Manure,الأسمدة الطبيعية والصناعية,approved,765,1,2021-02-11 20:43:10,2022-07-05 17:07:32,NULL,NULL,NULL,products,NULL
+815,Agricultural Equipment,المعدات الزراعية,approved,765,1,2021-02-11 20:43:46,2022-07-06 17:34:25,NULL,NULL,NULL,products,NULL
+816,Outdoor Furniture,الأثاث الخارجي,approved,795,1,2021-02-11 20:43:57,2022-06-19 20:30:20,NULL,NULL,NULL,products,NULL
+817,Divers,الغطاسات,approved,815,1,2021-02-11 20:44:42,2022-05-29 20:00:53,NULL,NULL,NULL,products,NULL
+819,Pumping Machines,مكائن ضخ المياه,approved,815,1,2021-02-11 20:45:21,2022-05-29 20:01:35,NULL,NULL,NULL,products,NULL
+820,Lawn mowers,مكائن قص الحشائش,approved,260,1,2021-02-11 20:46:22,2022-05-29 20:11:51,NULL,NULL,NULL,products,NULL
+821,Hotel tables,طاولات الفنادق,approved,818,1,2021-02-11 20:46:32,2021-02-11 20:46:32,NULL,NULL,NULL,products,NULL
+822,Crop Machines,مكائن المحاصيل,approved,815,1,2021-02-11 20:46:49,2022-05-30 17:15:38,NULL,NULL,NULL,products,NULL
+823,Office tables,طاولات المكاتب,approved,818,1,2021-02-11 20:47:25,2021-02-11 20:47:25,NULL,NULL,NULL,products,NULL
+824,Pest Control Products,منتجات مكافحة الحشرات,approved,765,1,2021-02-11 20:48:00,2022-05-30 16:35:39,NULL,NULL,NULL,products,NULL
+825,Other,أخرى,approved,809,1,2021-02-11 20:48:15,2022-05-25 17:44:06,NULL,NULL,NULL,products,NULL
+826,Restaurant tables,طاولات المطاعم,approved,818,1,2021-02-11 20:48:20,2021-02-11 20:48:20,NULL,NULL,NULL,products,NULL
+827,Other,أخرى,approved,844,1,2021-02-11 20:48:37,2022-06-13 16:38:42,NULL,NULL,NULL,products,NULL
+828,Building Supplies,مستلزمات البناء,approved,767,1,2021-02-11 20:48:53,2022-05-30 17:19:01,NULL,NULL,NULL,products,NULL
+830,Umbrellas and Fences,المظلات والحواجز,approved,828,1,2021-02-11 20:49:10,2022-06-12 21:49:04,NULL,NULL,NULL,products,NULL
+831,Building Tools and Equipment,أدوات ومعدات البناء,approved,767,1,2021-02-11 20:49:28,2022-05-30 17:12:01,NULL,NULL,NULL,products,NULL
+833,Construction tools,ادوات البنات,approved,840,1,2021-10-19 01:42:28,2022-05-29 23:31:12,NULL,NULL,NULL,products,NULL
+835,Construction Equipment,معدات البناء,approved,831,1,2021-02-11 20:51:01,2022-05-31 19:27:19,NULL,NULL,NULL,products,NULL
+836,Umbrellas,المظلات,approved,830,1,2021-02-11 20:51:03,2022-05-29 23:26:34,NULL,NULL,NULL,products,NULL
+837,Umbrellas,مضلات,approved,833,1,2021-02-11 20:51:37,2022-05-29 23:32:07,NULL,NULL,NULL,products,NULL
+838,Construction Machinery,آلات البناء,approved,831,1,2021-02-11 20:51:42,2022-07-05 17:31:23,NULL,NULL,NULL,products,NULL
+840,Iron,حديد,approved,1312,1,2021-02-11 20:52:08,2022-05-29 23:30:32,NULL,NULL,NULL,products,NULL
+843,"Marble, ceramic, stone",الرخام و السيراميك و الحجر,approved,257,1,2021-02-11 20:52:42,2022-05-29 22:43:28,NULL,NULL,NULL,products,NULL
+844,Other,أخرى,approved,805,1,2021-02-11 20:52:52,2022-06-13 16:37:54,NULL,NULL,NULL,products,NULL
+846,Other,أخرى,approved,921,1,2021-02-11 20:53:18,2022-05-25 17:47:35,NULL,NULL,NULL,products,NULL
+847,Marble,الرخام,approved,843,1,2021-02-11 20:53:35,2021-02-11 20:53:35,NULL,NULL,NULL,products,NULL
+849,Ceramic,السيراميك,approved,843,1,2021-02-11 20:53:50,2021-02-11 20:53:50,NULL,NULL,NULL,products,NULL
+851,Stone,الحجر,approved,843,1,2021-02-11 20:54:11,2021-02-11 20:54:11,NULL,NULL,NULL,products,NULL
+853,Files,الملفات,approved,852,1,2021-02-11 20:55:59,2021-02-11 20:55:59,NULL,NULL,NULL,products,NULL
+854,Paper file holders,ملفات حفظ الاوراق,approved,852,1,2021-02-11 20:56:55,2021-02-11 20:56:55,NULL,NULL,NULL,products,NULL
+855,Other,أخرى,approved,804,1,2021-02-11 20:57:33,2022-05-25 17:42:01,NULL,NULL,NULL,products,NULL
+856,Building Materials,مواد البناء,approved,828,1,2021-02-11 20:57:51,2022-05-29 22:28:09,NULL,NULL,NULL,products,NULL
+857,Bricks,البلوك,approved,856,1,2021-02-11 20:58:20,2022-05-29 23:24:19,NULL,NULL,NULL,products,NULL
+858,Medical files holder,ملفات طبية,approved,852,1,2021-02-11 20:58:20,2021-02-11 20:58:20,NULL,NULL,NULL,products,NULL
+859,Concrete,الخرسانة,approved,856,1,2021-02-11 20:58:36,2022-05-30 17:19:41,NULL,NULL,NULL,products,NULL
+860,Electricity,الكهرباء,approved,828,1,2021-02-11 20:58:51,2021-02-11 20:58:51,NULL,NULL,NULL,products,NULL
+861,Office tools,ادوات مكتبية,approved,852,1,2021-02-11 20:59:10,2021-02-11 20:59:10,NULL,NULL,NULL,products,NULL
+862,Lamps,المصابيح,approved,860,1,2021-02-11 20:59:34,2022-05-31 17:55:28,NULL,NULL,NULL,products,NULL
+864,Stationery,قرطاسية,approved,852,1,2021-02-11 20:59:56,2021-02-11 20:59:56,NULL,NULL,NULL,products,NULL
+865,Other,أخرى,approved,827,1,2021-02-11 21:00:16,2022-06-13 16:39:21,NULL,NULL,NULL,products,NULL
+866,Decorations,الديكور والتجميل,approved,2,1,2021-02-11 21:01:18,2022-06-19 20:34:41,NULL,NULL,NULL,products,NULL
+868,Interior,الداخلية,approved,862,1,2021-02-11 21:01:55,2022-05-31 17:56:16,NULL,NULL,NULL,products,NULL
+869,Exterior,الخارجية,approved,862,1,2021-02-11 21:02:13,2022-07-05 17:18:06,NULL,NULL,NULL,products,NULL
+870,Electrical Equipment,المعدات و الأدوات الكهربائية,approved,860,1,2021-02-11 21:02:37,2022-07-05 17:15:39,NULL,NULL,NULL,products,NULL
+871,Electrical Transformers,المحولات الكهربائية,approved,860,1,2021-02-11 21:02:52,2022-05-30 17:21:02,NULL,NULL,NULL,products,NULL
+872,Boards,لوحات,approved,867,1,2021-02-11 21:03:41,2021-02-11 21:03:41,NULL,NULL,NULL,products,NULL
+873,External boards,لوحات خارجية,approved,867,1,2021-02-11 21:04:32,2021-02-11 21:04:32,NULL,NULL,NULL,products,NULL
+876,Other,أخرى,approved,793,1,2021-02-11 21:07:00,2022-06-13 16:41:46,NULL,NULL,NULL,products,NULL
+877,Cables,الكابلات,approved,860,1,2021-02-11 21:07:52,2022-05-29 23:38:49,NULL,NULL,NULL,products,NULL
+878,Brochures and publications,كتيبات ومنشورات,approved,867,1,2021-02-11 21:08:09,2021-02-11 21:08:09,NULL,NULL,NULL,products,NULL
+880,Other,أخرى,approved,825,1,2021-02-11 21:08:31,2022-05-25 17:45:20,NULL,NULL,NULL,products,NULL
+881,Cards,بطاقات,approved,867,1,2021-02-11 21:08:46,2021-02-11 21:08:46,NULL,NULL,NULL,products,NULL
+882,Sanitary Wares and Plumbing,الأدوات الصحية و السباكة,approved,828,1,2021-02-11 21:08:50,2022-05-30 16:51:56,NULL,NULL,NULL,products,NULL
+883,Reservoirs,الخزانات,approved,882,1,2021-02-11 21:09:07,2021-02-11 21:09:07,NULL,NULL,NULL,products,NULL
+884,Plumbing Tools,أدوات السباكة,approved,882,1,2021-02-11 21:09:19,2022-05-31 18:55:32,NULL,NULL,NULL,products,NULL
+885,Forms,نماذج,approved,867,1,2021-02-11 21:09:42,2021-02-11 21:09:42,NULL,NULL,NULL,products,NULL
+886,Water Boilers,السخانات,approved,882,1,2021-02-11 21:09:42,2022-06-12 21:48:05,NULL,NULL,NULL,products,NULL
+887,Sanitary Ware,الأدوات الصحية,approved,882,1,2021-02-11 21:10:13,2022-05-31 19:59:51,NULL,NULL,NULL,products,NULL
+888,Restaurant Menu,منيو مطاعم,approved,867,1,2021-02-11 21:10:26,2021-02-11 21:10:26,NULL,NULL,NULL,products,NULL
+889,Pumps,المضخات,approved,882,1,2021-02-11 21:10:32,2022-05-31 19:15:13,NULL,NULL,NULL,products,NULL
+890,Other,أخرى,approved,1353,1,2021-02-11 21:10:42,2022-06-13 16:46:06,NULL,NULL,NULL,products,NULL
+891,Desalination,تحلية المياه,approved,882,1,2021-02-11 21:10:52,2021-10-12 14:40:16,NULL,NULL,NULL,products,NULL
+893,Theaters,مسارح,approved,2,1,2021-02-11 21:11:52,2021-02-11 21:11:52,NULL,NULL,NULL,products,NULL
+894,Warehouses and Storage,المخازن والمستودعات,approved,2,1,2021-02-11 21:12:29,2022-06-19 20:59:06,NULL,NULL,NULL,products,NULL
+895,Shelves,الأرفف,approved,894,1,2021-02-11 21:13:10,2022-06-19 20:59:46,NULL,NULL,NULL,products,NULL
+896,Other,أخرى,approved,880,1,2021-02-11 21:13:30,2022-05-25 17:46:09,NULL,NULL,NULL,products,NULL
+897,Movable,متحركة,approved,895,1,2021-02-11 21:13:45,2022-06-19 21:08:49,NULL,NULL,NULL,products,NULL
+898,Paint,الدهان,approved,828,1,2021-02-11 21:14:06,2022-06-12 21:22:10,NULL,NULL,NULL,products,NULL
+899,Paint,الدهانات,approved,898,1,2021-02-11 21:14:24,2022-06-12 21:23:27,NULL,NULL,NULL,products,NULL
+900,Stable,ثابتة,approved,895,1,2021-02-11 21:14:34,2022-06-19 21:06:02,NULL,NULL,NULL,products,NULL
+901,Exterior Paint,الدهانات الخارجية,approved,899,1,2021-02-11 21:14:48,2022-06-12 21:29:48,NULL,NULL,NULL,products,NULL
+902,Interior Paint,الدهانات الداخلية,approved,899,1,2021-02-11 21:15:10,2022-06-12 21:28:40,NULL,NULL,NULL,products,NULL
+903,Pallet,الطبليات,approved,894,1,2021-02-11 21:15:20,2021-02-11 21:15:20,NULL,NULL,NULL,products,NULL
+904,Medical Paint,دهان طبي,approved,666,1,2021-02-11 21:15:27,2022-06-12 21:27:32,NULL,NULL,NULL,products,NULL
+905,Paint Tools,أدوات الدهان,approved,898,1,2021-02-11 21:15:51,2022-05-31 19:55:13,NULL,NULL,NULL,products,NULL
+906,Lockers,الخزائن الشخصية,approved,894,1,2021-02-11 21:16:57,2022-06-19 21:11:35,NULL,NULL,NULL,products,NULL
+907,Paint Equipment,مكائن الدهان,approved,898,1,2021-02-11 21:17:45,2022-07-05 17:20:00,NULL,NULL,NULL,products,NULL
+909,"Sand, gravel and water",الرمال و الحصى و المياه,approved,820,1,2021-02-11 21:18:21,2022-05-29 23:10:27,NULL,NULL,NULL,products,NULL
+910,Sand,رمل,approved,909,1,2021-02-11 21:18:41,2021-02-11 21:18:41,NULL,NULL,NULL,products,NULL
+911,Shipping Trolley,عربات الشحن,approved,894,1,2021-02-11 21:18:50,2022-06-19 21:12:46,NULL,NULL,NULL,products,NULL
+912,Gravel,حصى,approved,909,1,2021-02-11 21:19:10,2021-02-11 21:19:10,NULL,NULL,NULL,products,NULL
+913,Other,أخرى,approved,890,1,2021-02-11 21:19:16,2022-06-13 16:46:43,NULL,NULL,NULL,products,NULL
+914,Undrinkable water,مياه غير صالحة للشرب,approved,909,1,2021-02-11 21:19:32,2021-10-12 14:38:54,NULL,NULL,NULL,products,NULL
+915,Carpentry,النجارة,approved,828,1,2021-02-11 21:20:01,2022-05-31 22:29:22,NULL,NULL,NULL,products,NULL
+916,Wood,خشب,approved,774,1,2021-02-11 21:20:17,2022-05-31 19:35:16,NULL,NULL,NULL,products,NULL
+918,Carpentry Tools,أدوات النجارة,approved,915,1,2021-02-11 21:20:41,2022-05-31 19:30:18,NULL,NULL,NULL,products,NULL
+919,Other,أخرى,approved,865,1,2021-02-11 21:20:48,2022-06-13 16:39:52,NULL,NULL,NULL,products,NULL
+920,Carpentry Equipment,معدات النجارة,approved,915,1,2021-02-11 21:21:16,2022-07-05 17:15:00,NULL,NULL,NULL,products,NULL
+921,Other,أخرى,approved,896,1,2021-02-11 21:21:32,2022-05-25 17:46:59,NULL,NULL,NULL,products,NULL
+922,Windows and Doors,النوافذ و الأبواب,approved,828,1,2021-02-11 21:21:53,2022-05-31 20:00:18,NULL,NULL,NULL,products,NULL
+923,Support and operation services,الخدمات المساندة و التشغيل,approved,1335,1,2021-02-11 21:24:14,2022-05-31 19:44:55,NULL,NULL,NULL,products,NULL
+924,Logistics,الخدمات اللوجستية,approved,923,1,2021-02-11 21:24:55,2021-02-11 21:24:55,NULL,NULL,NULL,products,NULL
+926,Windows,النوافذ,approved,922,1,2021-02-11 21:27:48,2021-02-11 21:27:48,NULL,NULL,NULL,products,NULL
+927,Doors,الأبواب,approved,922,1,2021-02-11 21:28:09,2022-05-31 19:17:22,NULL,NULL,NULL,products,NULL
+928,Automatic Doors,الأبواب الأوتوماتيكية,approved,927,1,2021-02-11 21:28:41,2022-05-31 19:22:17,NULL,NULL,NULL,products,NULL
+929,Fixed Doors,الأبواب الثابتة,approved,927,1,2021-02-11 21:29:02,2022-07-05 17:22:01,NULL,NULL,NULL,products,NULL
+930,Flooring,الأرضيات,approved,828,1,2021-02-11 21:29:26,2021-02-11 21:29:26,NULL,NULL,NULL,products,NULL
+931,Industrial Virilization,التجلية الصناعية,approved,930,1,2021-02-11 21:29:53,2022-05-31 19:53:54,NULL,NULL,NULL,products,NULL
+932,Parquet,الباركيه,approved,930,1,2021-02-11 21:30:14,2021-10-12 14:42:03,NULL,NULL,NULL,products,NULL
+933,Vinyl,الفينيل,approved,930,1,2021-02-11 21:30:36,2021-02-11 21:30:36,NULL,NULL,NULL,products,NULL
+934,Carpet,السجاد,approved,930,1,2021-02-11 21:30:53,2021-02-11 21:30:53,NULL,NULL,NULL,products,NULL
+935,Equipment for Buildings and Facilities,أجهزة و معدات المباني و المنشآت,approved,8,1,2021-02-11 21:31:27,2022-05-31 19:47:55,NULL,NULL,NULL,products,NULL
+936,Elevators,المصاعد,approved,935,1,2021-02-11 21:31:44,2021-02-11 21:31:44,NULL,NULL,NULL,products,NULL
+937,Elevators,المصاعد,approved,936,1,2021-02-11 21:32:10,2022-05-31 20:06:05,NULL,NULL,NULL,products,NULL
+938,Escalators,السلالم المتحركة,approved,936,1,2021-02-11 21:32:23,2022-05-31 22:39:41,NULL,NULL,NULL,products,NULL
+939,Generators,المولدات,approved,935,1,2021-02-11 21:32:37,2021-02-11 21:32:37,NULL,NULL,NULL,products,NULL
+940,Petrochemical Energy Generators,مولدات الطاقة البيتروكيماوية,approved,939,1,2021-02-11 21:33:01,2022-06-12 21:54:29,NULL,NULL,NULL,products,NULL
+942,Hot Water Generators,مولدات تسخين المياه,approved,939,1,2021-02-11 21:33:35,2022-06-12 21:56:30,NULL,NULL,NULL,products,NULL
+943,Control Panel,لوحة التحكم,approved,939,1,2021-02-11 21:33:57,2022-05-31 22:34:56,NULL,NULL,NULL,products,NULL
+944,Other,أخرى,approved,784,1,2021-02-11 21:34:13,2022-05-25 17:51:35,NULL,NULL,NULL,products,NULL
+945,Safety,السلامة,approved,935,1,2021-02-11 21:34:29,2021-02-11 21:34:29,NULL,NULL,NULL,products,NULL
+946,Security Cameras,كاميرات المراقبة,approved,945,1,2021-02-11 21:34:44,2022-05-31 22:30:35,NULL,NULL,NULL,products,NULL
+947,Protection Devices,أجهزة الحماية والأمان,approved,945,1,2021-02-11 21:35:09,2022-05-31 22:33:13,NULL,NULL,NULL,products,NULL
+948,Security and Safety Tools,أدوات الأمن و السلامة,approved,945,1,2021-02-11 21:35:26,2022-05-31 22:36:19,NULL,NULL,NULL,products,NULL
+949,Ducting,التهوية,approved,945,1,2021-02-11 21:35:42,2022-06-12 22:06:05,NULL,NULL,NULL,products,NULL
+950,Emergency Exits,مخارج الطوارئ,approved,945,1,2021-02-11 21:35:57,2022-06-01 22:45:34,NULL,NULL,NULL,products,NULL
+951,Fire,الحريق,approved,958,1,2021-02-11 21:36:19,2022-05-31 22:31:16,NULL,NULL,NULL,products,NULL
+952,Extinguishers,طفايات,approved,951,1,2021-02-11 21:36:30,2021-02-11 21:36:30,NULL,NULL,NULL,products,NULL
+953,Fire systems,انظمة حريق متكاملة,approved,951,1,2021-02-11 21:36:51,2021-02-11 21:36:51,NULL,NULL,NULL,products,NULL
+954,Sensors and alarms,الحساسات و الانذار,approved,951,1,2021-02-11 21:37:09,2021-02-11 21:37:09,NULL,NULL,NULL,products,NULL
+955,Spare Parts,قطع غيار,approved,952,1,2021-02-11 21:37:25,2022-06-01 22:46:57,NULL,NULL,NULL,products,NULL
+957,Central,مركزية,approved,924,1,2021-02-11 21:37:53,2022-05-31 20:01:21,NULL,NULL,NULL,products,NULL
+958,Restaurants and kitchens,المطاعم و المطابخ,approved,957,1,2021-02-11 21:38:11,2022-05-31 20:02:07,NULL,NULL,NULL,products,NULL
+961,Logistics,الخدمات اللوجستية,approved,960,1,2021-02-12 00:19:02,2021-02-12 00:19:02,NULL,NULL,NULL,products,NULL
+962,Transportation and Delivery,النقل و التوصيل,approved,961,1,2021-02-12 00:19:23,2022-06-02 17:15:10,NULL,NULL,NULL,products,NULL
+963,Cold,البارد,approved,962,1,2021-02-12 00:19:48,2021-02-12 00:19:48,NULL,NULL,NULL,products,NULL
+964,Dry,الجاف,approved,962,1,2021-02-12 00:20:07,2021-02-12 00:20:07,NULL,NULL,NULL,products,NULL
+965,Storage,التخزين,approved,961,1,2021-02-12 00:20:38,2021-02-12 00:20:38,NULL,NULL,NULL,products,NULL
+966,Cold,البارد,approved,965,1,2021-02-12 00:20:56,2021-02-12 00:20:56,NULL,NULL,NULL,products,NULL
+967,Dry,الجاف,approved,965,1,2021-02-12 00:21:18,2021-02-12 00:21:18,NULL,NULL,NULL,products,NULL
+968,Oil and Gas Services,الخدمات البترولية و الغازية,approved,960,1,2021-02-12 00:21:46,2022-06-02 17:16:47,NULL,NULL,NULL,products,NULL
+969,Petrol,البنزين,approved,968,1,2021-02-12 00:22:14,2021-02-12 00:22:14,NULL,NULL,NULL,products,NULL
+970,Diesel,الديزل,approved,968,1,2021-02-12 00:22:30,2021-02-12 00:22:30,NULL,NULL,NULL,products,NULL
+971,Gas,الغاز,approved,968,1,2021-02-12 00:22:54,2021-02-12 00:22:54,NULL,NULL,NULL,products,NULL
+972,Medical Gas,الغاز الطبي,approved,968,1,2021-02-12 00:23:14,2022-06-02 17:18:45,NULL,NULL,NULL,products,NULL
+974,Cleaners,عمال النظافة,approved,973,1,2021-02-12 00:23:50,2022-06-12 23:18:05,NULL,NULL,NULL,products,NULL
+975,Factories,المصانع,approved,974,1,2021-02-12 00:24:21,2021-02-12 00:24:21,NULL,NULL,NULL,products,NULL
+976,Shopping Centers,المراكز التجارية,approved,974,1,2021-02-12 00:24:43,2022-06-02 17:09:26,NULL,NULL,NULL,products,NULL
+977,Hotels,الفنادق,approved,974,1,2021-02-12 00:25:08,2021-02-12 00:25:08,NULL,NULL,NULL,products,NULL
+978,Hospitals,المستشفيات,approved,974,1,2021-02-12 00:25:29,2021-02-12 00:25:29,NULL,NULL,NULL,products,NULL
+979,Companies,الشركات,approved,974,1,2021-02-12 00:26:13,2021-02-12 00:26:13,NULL,NULL,NULL,products,NULL
+980,Restaurants,المطاعم,approved,974,1,2021-02-12 00:26:29,2021-02-12 00:26:29,NULL,NULL,NULL,products,NULL
+981,Maintenance,الصيانة,approved,973,1,2021-02-12 00:26:52,2021-02-12 00:26:52,NULL,NULL,NULL,products,NULL
+982,Engineers,مهندسين,approved,981,1,2021-02-12 00:27:16,2022-06-02 17:10:04,NULL,NULL,NULL,products,NULL
+983,Technicians,فنيين,approved,981,1,2021-02-12 00:27:32,2022-06-02 17:10:34,NULL,NULL,NULL,products,NULL
+984,Security Officers.,رجال الأمن,approved,973,1,2021-02-12 00:28:00,2022-06-02 17:13:53,NULL,NULL,NULL,products,NULL
+985,Valet Parking,خدمة صف السيارات,approved,973,1,2021-02-12 00:28:28,2022-06-02 17:14:22,NULL,NULL,NULL,products,NULL
+986,Facilities Services,خدمات المرافق,approved,960,1,2021-02-12 00:28:47,2022-06-02 16:39:11,NULL,NULL,NULL,products,NULL
+987,Containers,الحاويات,approved,986,1,2021-02-12 00:29:04,2021-02-12 00:29:04,NULL,NULL,NULL,products,NULL
+988,Medical,الطبية,approved,987,1,2021-02-12 00:29:32,2021-02-12 00:29:32,NULL,NULL,NULL,products,NULL
+989,Medicine,الأدوية,approved,988,1,2021-02-12 00:29:52,2022-06-02 16:49:29,NULL,NULL,NULL,products,NULL
+990,Medical Materials,المواد الطبية,approved,988,1,2021-02-12 00:30:23,2022-06-02 16:48:27,NULL,NULL,NULL,products,NULL
+991,Infectious and Toxic,المعدية و الخطيرة,approved,988,1,2021-02-12 00:31:08,2022-06-02 16:46:08,NULL,NULL,NULL,products,NULL
+992,Waste,المخلفات,approved,987,1,2021-02-12 00:31:37,2021-02-12 00:31:37,NULL,NULL,NULL,products,NULL
+993,Garbage,مخلفات القمامة,approved,992,1,2021-02-12 00:31:56,2022-06-02 16:55:07,NULL,NULL,NULL,products,NULL
+994,Industrial Waste,مخلفات البناء,approved,992,1,2021-02-12 00:32:37,2022-06-02 16:55:35,NULL,NULL,NULL,products,NULL
+995,Paper and Cardboard,الورق و الكرتون,approved,987,1,2021-02-12 00:33:06,2022-06-02 16:50:31,NULL,NULL,NULL,products,NULL
+996,Sterilization and Disinfection,التعقيم و التطهير,approved,986,1,2021-02-12 00:33:29,2022-06-02 17:03:12,NULL,NULL,NULL,products,NULL
+997,Medical Centres,المراكز الطبية,approved,996,1,2021-02-12 00:33:52,2022-06-02 17:05:18,NULL,NULL,NULL,products,NULL
+998,Shopping Centers,المراكز التجارية,approved,996,1,2021-02-12 00:34:39,2022-06-02 17:04:53,NULL,NULL,NULL,products,NULL
+999,Factories,المصانع,approved,996,1,2021-02-12 00:41:38,2021-02-12 00:41:38,NULL,NULL,NULL,products,NULL
+1000,"Facilities, Companies and Buildings",المنشآت والشركات والمباني,approved,996,1,2021-02-12 00:41:55,2022-06-02 17:04:12,NULL,NULL,NULL,products,NULL
+1002,Buildings,المباني,approved,1001,1,2021-02-12 00:42:36,2021-02-12 00:42:36,NULL,NULL,NULL,products,NULL
+1003,Glass,الزجاج,approved,955,1,2021-02-12 00:42:52,2022-06-02 16:41:27,NULL,NULL,NULL,products,NULL
+1004,Parking and Public Facilities,المواقف والمرافق العامة,approved,1001,1,2021-02-12 00:43:16,2022-06-02 16:42:23,NULL,NULL,NULL,products,NULL
+1005,Pest Control,مكافحة الحشرات,approved,1003,1,2021-02-12 00:43:41,2022-06-02 17:28:40,NULL,NULL,NULL,products,NULL
+1006,Medical Centers,المراكز الطبية,approved,1005,1,2021-02-12 00:44:08,2022-06-02 16:59:50,NULL,NULL,NULL,products,NULL
+1007,"Facilities, Companies and Buildings",المنشآت و الشركات و المباني,approved,1005,1,2021-02-12 00:44:41,2022-06-02 16:58:24,NULL,NULL,NULL,products,NULL
+1008,Spare Parts,قطع الغيار,approved,8,1,2021-02-12 00:44:56,2022-08-03 18:43:56,NULL,NULL,NULL,products,NULL
+1009,Elevators and moving doors,المصاعد والأبواب المتحركة,approved,1008,1,2021-02-12 00:45:17,2022-08-03 19:13:48,NULL,NULL,NULL,products,NULL
+1010,Elevators,المصاعد,approved,1009,1,2021-02-12 00:45:38,2022-06-01 23:02:19,NULL,NULL,NULL,products,NULL
+1011,Escalators,السلالم المتحركة,approved,1009,1,2021-02-12 00:45:57,2022-06-01 22:54:52,NULL,NULL,NULL,products,NULL
+1012,Fire Systems,أنظمة الحرائق,approved,1008,1,2021-02-12 00:46:11,2022-06-01 22:56:12,NULL,NULL,NULL,products,NULL
+1013,Refilling Fire Extinguishers,إعادة تعبئة طفايات الحريق,approved,1012,1,2021-02-12 00:46:27,2022-08-03 19:27:51,NULL,NULL,NULL,products,NULL
+1016,Integrated Fire Systems,أنظمة الحريق المتكاملة,approved,1012,1,2021-02-12 00:47:29,2022-06-01 22:59:56,NULL,NULL,NULL,products,NULL
+1019,Control Panel,لوحة التحكم,approved,1012,1,2021-02-12 00:48:27,2022-05-31 22:42:36,NULL,NULL,NULL,products,NULL
+1022,Companies,الشركات,approved,1021,1,2021-02-12 00:49:21,2021-02-12 00:49:21,NULL,NULL,NULL,products,NULL
+1023,Factories,المصانع,approved,1021,1,2021-02-12 00:49:36,2021-02-12 00:49:36,NULL,NULL,NULL,products,NULL
+1024,Health Centers,المراكز الصحية,approved,1021,1,2021-02-12 00:50:05,2022-06-01 22:52:58,NULL,NULL,NULL,products,NULL
+1025,Shopping Centres,المراكز التجارية,approved,1021,1,2021-02-12 00:50:22,2022-06-01 22:51:44,NULL,NULL,NULL,products,NULL
+1026,Generators,المولدات,approved,1008,1,2021-02-12 00:50:42,2021-02-12 00:50:42,NULL,NULL,NULL,products,NULL
+1027,Electric Power Generators,مولدات الطاقة الكهربائية,approved,1026,1,2021-02-12 00:51:04,2022-08-03 19:32:46,NULL,NULL,NULL,products,NULL
+1030,Diesel,ديزل,approved,1006,1,2021-02-12 00:52:11,2022-06-12 23:00:54,NULL,NULL,NULL,products,NULL
+1031,Hot Water Generators,مولدات تسخين المياه,approved,1026,1,2021-02-12 00:52:31,2022-06-12 23:02:29,NULL,NULL,NULL,products,NULL
+1034,Diesel,ديزل,approved,287,1,2021-02-12 00:53:16,2022-06-12 23:01:49,NULL,NULL,NULL,products,NULL
+1035,Water Pump Generators,مولدات ضخ المياه,approved,1026,1,2021-02-12 00:53:35,2022-06-01 23:07:37,NULL,NULL,NULL,products,NULL
+1039,Glass Doors,الأبواب الزجاجية,approved,1038,1,2021-02-12 00:55:30,2022-06-12 23:07:56,NULL,NULL,NULL,products,NULL
+1040,Maintenance,صيانة,approved,1039,1,2021-02-12 00:55:47,2021-02-12 00:55:47,NULL,NULL,NULL,products,NULL
+1041,Spare Parts,قطع غيار,approved,1039,1,2021-02-12 00:56:03,2022-06-12 23:04:41,NULL,NULL,NULL,products,NULL
+1042,Iron Doors,الأبواب الحديدية,approved,1038,1,2021-02-12 00:56:27,2022-07-05 18:57:23,NULL,NULL,NULL,products,NULL
+1043,Maintenance,صيانة,approved,1042,1,2021-02-12 00:56:46,2021-02-12 00:56:46,NULL,NULL,NULL,products,NULL
+1044,Spare Parts,قطع غيار,approved,1042,1,2021-02-12 00:57:13,2022-06-12 23:06:33,NULL,NULL,NULL,products,NULL
+1048,Jewelry,مجوهرات,approved,1047,1,2021-03-08 18:03:37,2021-03-08 18:03:37,NULL,NULL,NULL,products,NULL
+1049,Hair Accessories,اكسسوارات الشعر,approved,1047,1,2021-03-08 18:05:02,2021-03-08 18:05:02,NULL,NULL,NULL,products,NULL
+1051,Clothing Accessories,اكسسوارات الملابس,approved,1047,1,2021-03-08 18:06:12,2021-03-08 18:06:12,NULL,NULL,NULL,products,NULL
+1052,Mobile Accessories,اكسسوارات الجوال,approved,1047,1,2021-03-08 18:06:49,2021-03-08 18:06:49,NULL,NULL,NULL,products,NULL
+1053,Watches,ساعات,approved,1047,1,2021-03-08 18:07:15,2021-03-08 18:07:15,NULL,NULL,NULL,products,NULL
+1054,Eyeglasses,نظارات,approved,1047,1,2021-03-08 18:07:46,2021-03-08 18:07:46,NULL,NULL,NULL,products,NULL
+1055,Other,أخرى,approved,1047,1,2021-03-08 18:08:16,2021-06-10 15:46:59,NULL,NULL,NULL,products,NULL
+1056,Necklaces,سلاسل,approved,1048,1,2021-03-08 18:25:42,2021-03-08 18:25:42,NULL,NULL,NULL,products,NULL
+1057,Earrings,أقراط,approved,1048,1,2021-03-08 18:26:04,2021-03-08 18:26:04,NULL,NULL,NULL,products,NULL
+1058,Bracelets,أساور,approved,1048,1,2021-03-08 18:26:22,2021-03-08 18:26:22,NULL,NULL,NULL,products,NULL
+1059,Rings,خواتم,approved,1048,1,2021-03-08 18:26:51,2021-03-08 18:26:51,NULL,NULL,NULL,products,NULL
+1060,Anklets,خلاخل,approved,1048,1,2021-03-08 18:27:14,2021-03-08 18:27:14,NULL,NULL,NULL,products,NULL
+1061,Nose rings,زمام,approved,1048,1,2021-03-08 18:40:51,2021-03-08 18:40:51,NULL,NULL,NULL,products,NULL
+1062,Body Jewelry,اكسسوارات جسم,approved,1048,1,2021-03-08 18:42:11,2021-03-08 18:42:11,NULL,NULL,NULL,products,NULL
+1063,Tiaras,تيجان,approved,1048,1,2021-03-08 18:45:13,2021-03-08 18:45:13,NULL,NULL,NULL,products,NULL
+1064,Covers and Cases,جرابات الجوال,approved,1052,1,2021-03-08 18:59:53,2021-03-08 18:59:53,NULL,NULL,NULL,products,NULL
+1168,Cuff links,أزرار الأكمام (كبك),approved,1051,1,2021-03-09 16:09:25,2021-03-09 16:09:25,NULL,NULL,NULL,products,NULL
+1169,Belts,أحزمة,approved,1051,1,2021-03-09 16:09:48,2021-03-09 16:09:48,NULL,NULL,NULL,products,NULL
+1170,Brooches,دبابيس (بروشات),approved,1051,1,2021-03-09 16:10:20,2021-03-09 16:10:20,NULL,NULL,NULL,products,NULL
+1171,Leather,جلد,approved,1169,1,2021-03-09 16:10:48,2021-03-09 16:10:48,NULL,NULL,NULL,products,NULL
+1172,Metal,معدني,approved,1169,1,2021-03-09 16:11:10,2021-03-09 16:11:10,NULL,NULL,NULL,products,NULL
+1173,Fabric,قماشي,approved,1169,1,2021-03-09 16:11:27,2021-03-09 16:11:27,NULL,NULL,NULL,products,NULL
+1197,Sunglasses,نظارات شمسية,approved,1054,1,2021-03-09 16:48:15,2021-03-09 16:48:15,NULL,NULL,NULL,products,NULL
+1198,Eyeglasses,نظارات طبية,approved,1054,1,2021-03-09 16:48:49,2021-03-09 16:48:49,NULL,NULL,NULL,products,NULL
+1199,Eyeglasses chain,سلاسل نظارات,approved,1054,1,2021-03-09 16:49:13,2021-03-09 16:49:13,NULL,NULL,NULL,products,NULL
+1201,Holder,حاملات,approved,1052,1,2021-03-09 17:11:43,2021-03-09 17:11:43,NULL,NULL,NULL,products,NULL
+1202,Other,أخرى,approved,1052,1,2021-03-09 17:12:05,2021-06-10 15:45:34,NULL,NULL,NULL,products,NULL
+1213,Keychains,حامل مفاتيح,approved,1055,1,2021-03-09 17:30:43,2021-03-09 17:30:43,NULL,NULL,NULL,products,NULL
+1214,Other,أخرى,approved,1055,1,2021-03-09 17:30:59,2021-06-10 15:47:22,NULL,NULL,NULL,products,NULL
+1217,Colored,ملون,approved,1213,1,2021-03-09 17:31:55,2021-03-09 17:31:55,NULL,NULL,NULL,products,NULL
+1218,Yellow gold,ذهبي,approved,1213,1,2021-03-09 17:32:13,2021-03-09 17:32:13,NULL,NULL,NULL,products,NULL
+1220,Silver,فضي,approved,1213,1,2021-03-09 17:32:52,2021-03-09 17:32:52,NULL,NULL,NULL,products,NULL
+1221,Platinum,بلاتيني,approved,1213,1,2021-03-09 17:33:48,2021-03-09 17:33:48,NULL,NULL,NULL,products,NULL
+1225,Stainless steel,فولاذي,approved,1213,1,2021-03-09 18:16:39,2021-03-09 18:16:39,NULL,NULL,NULL,products,NULL
+1226,Bags,حقائب,approved,1047,1,2021-03-09 18:50:18,2021-03-09 18:50:18,NULL,NULL,NULL,products,NULL
+1227,Backpacks,حقائب ظهر,approved,1226,1,2021-03-09 18:59:14,2021-03-09 18:59:14,NULL,NULL,NULL,products,NULL
+1228,Handbags,حقائب يد,approved,1226,1,2021-03-09 18:59:31,2021-03-09 18:59:31,NULL,NULL,NULL,products,NULL
+1229,Luggage bags,حقائب سفر,approved,1226,1,2021-03-09 18:59:54,2021-03-09 18:59:54,NULL,NULL,NULL,products,NULL
+1230,Wallets,محافظ,approved,1047,1,2021-03-09 19:00:41,2021-03-09 19:00:41,NULL,NULL,NULL,products,NULL
+1231,Small wallets,محافظ صغيره,approved,1230,1,2021-03-09 19:01:17,2021-03-09 19:01:17,NULL,NULL,NULL,products,NULL
+1232,Long wallets,محافظ طويلة,approved,1230,1,2021-03-09 19:01:47,2021-03-09 19:01:47,NULL,NULL,NULL,products,NULL
+1233,Cardholders,حاملات البطاقات,approved,1230,1,2021-03-09 19:02:13,2021-03-09 19:02:13,NULL,NULL,NULL,products,NULL
+1235,Gloves,قفّازات,approved,1234,1,2021-06-14 17:47:41,2021-06-14 17:47:41,NULL,NULL,NULL,products,NULL
+1236,Face Masks,كمّامات,approved,1234,1,2021-06-14 17:48:40,2021-06-14 17:48:40,NULL,NULL,NULL,products,NULL
+1237,Sanitisers,معقّمات,approved,1234,1,2021-06-14 17:51:08,2021-06-14 17:51:08,NULL,NULL,NULL,products,NULL
+1238,Hand Sanitiser Gel,جل معقّم  لليدين,approved,1237,1,2021-06-14 17:55:07,2021-06-14 17:55:07,NULL,NULL,NULL,products,NULL
+1239,Surface Disinfectant,معقّم للأسطح,approved,1237,1,2021-06-14 18:06:25,2021-06-14 18:06:25,NULL,NULL,NULL,products,NULL
+1240,Sanitizing Spray,بخاخ معقّم,approved,1237,1,2021-06-14 18:10:24,2021-06-14 18:10:24,NULL,NULL,NULL,products,NULL
+1241,Other,أخرى,approved,1260,1,2021-10-06 16:47:35,2022-05-25 19:19:41,NULL,NULL,NULL,products,NULL
+1242,Other,أخرى,approved,1241,1,2021-10-06 16:51:52,2022-05-25 19:20:12,NULL,NULL,NULL,products,NULL
+1243,Other,أخرى,approved,1261,1,2021-10-06 16:52:44,2022-05-25 19:21:13,NULL,NULL,NULL,products,NULL
+1244,Other,أخرى,approved,47,1,2021-10-07 16:23:06,2022-05-25 17:53:29,NULL,NULL,NULL,products,NULL
+1245,Other,أخرى,approved,1244,1,2021-10-07 16:23:47,2022-05-25 19:01:42,NULL,NULL,NULL,products,NULL
+1246,Other,أخرى,approved,1245,1,2021-10-07 16:25:19,2022-05-25 19:03:19,NULL,NULL,NULL,products,NULL
+1247,Other,أخرى,approved,1252,1,2021-10-07 16:26:05,2022-05-25 19:10:17,NULL,NULL,NULL,products,NULL
+1248,Other,أخرى,approved,1249,1,2021-10-07 16:27:03,2022-05-25 19:06:32,NULL,NULL,NULL,products,NULL
+1249,Other,أخرى,approved,153,1,2021-10-07 16:28:01,2022-05-25 19:05:33,NULL,NULL,NULL,products,NULL
+1250,Other,أخرى,approved,1248,1,2021-10-07 16:28:54,2022-05-25 19:07:46,NULL,NULL,NULL,products,NULL
+1251,Other,أخرى,approved,1268,1,2021-10-07 16:29:56,2022-05-25 19:09:02,NULL,NULL,NULL,products,NULL
+1252,Other,أخرى,approved,1251,1,2021-10-07 16:30:37,2022-05-25 19:09:33,NULL,NULL,NULL,products,NULL
+1253,Other,أخرى,approved,1247,1,2021-10-07 16:31:36,2022-05-25 19:10:54,NULL,NULL,NULL,products,NULL
+1254,Other,أخرى,approved,1253,1,2021-10-07 16:32:29,2022-05-25 19:11:33,NULL,NULL,NULL,products,NULL
+1255,Other,أخرى,approved,1257,1,2021-10-07 16:33:39,2022-05-25 19:14:59,NULL,NULL,NULL,products,NULL
+1256,Other,أخرى,approved,1254,1,2021-10-07 16:34:23,2022-05-25 19:12:31,NULL,NULL,NULL,products,NULL
+1257,Other,أخرى,approved,1256,1,2021-10-07 16:35:05,2022-05-25 19:13:05,NULL,NULL,NULL,products,NULL
+1258,Other,أخرى,approved,1255,1,2021-10-07 16:36:06,2022-05-25 19:15:33,NULL,NULL,NULL,products,NULL
+1259,Other,أخرى,approved,1258,1,2021-10-07 16:36:56,2022-05-25 19:16:46,NULL,NULL,NULL,products,NULL
+1260,Other,أخرى,approved,183,1,2021-10-07 16:37:49,2022-05-25 19:19:07,NULL,NULL,NULL,products,NULL
+1261,Other,أخرى,approved,1242,1,2021-10-07 16:39:02,2022-05-25 19:20:46,NULL,NULL,NULL,products,NULL
+1262,Other,أخرى,approved,1265,1,2021-10-07 16:40:26,2022-05-25 19:26:27,NULL,NULL,NULL,products,NULL
+1263,Other,أخرى,approved,239,1,2021-10-07 16:41:19,2022-05-25 19:22:52,NULL,NULL,NULL,products,NULL
+1264,Other,أخرى,approved,1270,1,2021-10-07 16:42:33,2022-05-25 19:25:13,NULL,NULL,NULL,products,NULL
+1265,Other,أخرى,approved,1264,1,2021-10-07 16:43:50,2022-05-25 19:25:59,NULL,NULL,NULL,products,NULL
+1266,Construction Tools,أدوات البناء,approved,831,1,2021-10-12 13:56:29,2021-10-12 13:56:29,NULL,NULL,NULL,products,NULL
+1271,Ready Clothes,الملابس الجاهزة,approved,23,1,2022-05-25 20:08:42,2022-08-04 17:38:49,NULL,NULL,NULL,products,NULL
+1276,Fresh Milk,حليب طازج,approved,155,1,2022-05-26 18:20:03,2022-05-26 18:23:42,NULL,NULL,NULL,products,NULL
+1277,Long Life Milk,حليب طويل الأجل,approved,155,1,2022-05-26 18:21:13,2022-05-26 18:21:13,NULL,NULL,NULL,products,NULL
+1279,Oil and Ghee,الزيت والسمن,approved,1,1,2022-05-26 18:58:33,2022-05-26 19:24:34,NULL,NULL,NULL,products,NULL
+1280,Vegetable Oils,الزيوت النباتية,approved,1279,1,2022-05-26 19:00:59,2022-05-26 19:00:59,NULL,NULL,NULL,products,NULL
+1281,Butter,زبدة,approved,1279,1,2022-05-26 19:07:10,2022-05-26 19:07:10,NULL,NULL,NULL,products,NULL
+1282,Ghee,السمن الحيواني,approved,1279,1,2022-05-26 19:12:56,2022-05-26 19:12:56,NULL,NULL,NULL,products,NULL
+1283,Margarine,السمن النباتي,approved,1279,1,2022-05-26 19:13:47,2022-05-26 19:13:47,NULL,NULL,NULL,products,NULL
+1284,Oil Spray,بخاخ الزيت,approved,1280,1,2022-05-26 19:29:34,2022-05-26 19:29:34,NULL,NULL,NULL,products,NULL
+1285,Vegetable Oil,الزيت النباتي,approved,1280,1,2022-05-26 19:34:34,2022-05-26 19:34:34,NULL,NULL,NULL,products,NULL
+1286,Fresh Cheese,الأجبان الطازجة,approved,57,1,2022-05-26 19:35:18,2022-05-26 19:35:18,NULL,NULL,NULL,products,NULL
+1287,Long Life Cheese,الأجبان طويلة الأجل,approved,57,1,2022-05-26 19:37:37,2022-05-26 19:37:37,NULL,NULL,NULL,products,NULL
+1288,Sterilized Cream,قشطة طويلة الأجل,approved,61,1,2022-05-26 19:59:01,2022-05-26 19:59:01,NULL,NULL,NULL,products,NULL
+1289,Fresh Cream,قشطة طازجة,approved,61,1,2022-05-26 19:59:29,2022-05-26 19:59:29,NULL,NULL,NULL,products,NULL
+1290,Sour Cream,قشطة رائبة,approved,61,1,2022-05-26 20:01:19,2022-05-26 20:01:19,NULL,NULL,NULL,products,NULL
+1291,Cooking Cream,كريمة الطبخ,approved,61,1,2022-05-26 20:02:54,2022-06-13 17:52:12,NULL,NULL,NULL,products,NULL
+1294,Ground Coffee,القهوة المطحونة,approved,162,1,2022-05-26 21:16:41,2022-05-26 21:19:10,NULL,NULL,NULL,products,NULL
+1296,Flavored Drinks,المشروبات المنكهة,approved,161,1,2022-05-26 21:20:14,2022-08-07 18:37:57,NULL,NULL,NULL,products,NULL
+1297,Powdered Drinks,مشروبات مجففة,approved,1296,1,2022-05-26 21:21:02,2022-08-07 18:39:11,NULL,NULL,NULL,products,NULL
+1299,Sugar,السكر,approved,227,1,2022-05-26 22:49:10,2022-05-26 22:49:10,NULL,NULL,NULL,products,NULL
+1300,Sugar,سكر,approved,241,1,2022-05-26 22:55:04,2022-05-29 19:25:43,NULL,NULL,NULL,products,NULL
+1301,Grains,الحبوب,approved,250,1,2022-05-29 16:44:38,2022-06-20 17:47:47,NULL,NULL,NULL,products,NULL
+1302,Saplings,الشتلات,approved,796,1,2022-05-29 20:27:52,2022-05-29 20:27:52,NULL,NULL,NULL,products,NULL
+1303,Cladding,كلادنج,approved,856,1,2022-05-29 22:58:46,2022-05-29 22:58:46,NULL,NULL,NULL,products,NULL
+1304,Reinforcing Bars,حديد التسليح,approved,856,1,2022-05-29 23:00:07,2022-05-29 23:00:07,NULL,NULL,NULL,products,NULL
+1305,Wood,الخشب,approved,856,1,2022-05-29 23:00:43,2022-05-29 23:00:43,NULL,NULL,NULL,products,NULL
+1306,Ceramic,السيراميك,approved,856,1,2022-05-29 23:01:17,2022-05-29 23:01:17,NULL,NULL,NULL,products,NULL
+1307,Stone,الحجر,approved,856,1,2022-05-29 23:01:46,2022-05-29 23:01:46,NULL,NULL,NULL,products,NULL
+1308,Marble,الرخام,approved,273,0,2022-05-29 23:02:17,2022-05-29 23:07:07,NULL,NULL,NULL,products,NULL
+1309,Sand,الرمل,approved,856,1,2022-05-29 23:04:22,2022-05-29 23:04:22,NULL,NULL,NULL,products,NULL
+1310,Marble,الرخام,approved,856,1,2022-05-29 23:04:41,2022-05-29 23:04:41,NULL,NULL,NULL,products,NULL
+1311,Gravel,الحصى,approved,856,1,2022-05-29 23:05:44,2022-05-29 23:05:44,NULL,NULL,NULL,products,NULL
+1313,Fences,الحواجز,approved,830,1,2022-05-29 23:33:26,2022-06-12 21:49:34,NULL,NULL,NULL,products,NULL
+1314,Wallpaper,ورق الجدران,approved,898,1,2022-05-30 17:32:48,2022-07-05 17:20:27,NULL,NULL,NULL,products,NULL
+1315,Regular Wallpaper,ورق الجدران العادي,approved,1314,1,2022-05-30 17:34:35,2022-06-12 21:44:57,NULL,NULL,NULL,products,NULL
+1316,General Contracting,المقاولات العامة,approved,1703,1,2022-05-30 17:55:47,2022-08-10 18:48:35,NULL,NULL,NULL,products,NULL
+1317,Industrial Contractor,مقاول صناعي,approved,780,1,2022-05-30 17:56:29,2022-05-30 17:56:29,NULL,NULL,NULL,products,NULL
+1318,Medical Contractor,مقاول طبي,approved,780,1,2022-05-30 17:56:55,2022-05-30 17:56:55,NULL,NULL,NULL,products,NULL
+1321,Nursing,التمريض,approved,1695,1,2022-05-30 21:28:08,2022-07-27 17:50:50,NULL,NULL,NULL,products,NULL
+1322,Security Guards,الحراسات الأمنية,approved,1320,1,2022-05-30 21:29:03,2022-06-12 21:51:59,NULL,NULL,NULL,products,NULL
+1323,Janitors,عمال النظافة,approved,1320,1,2022-05-30 21:31:18,2022-05-30 21:31:18,NULL,NULL,NULL,products,NULL
+1324,Cleaning Services,خدمات التنظيف,approved,1670,1,2022-05-30 22:25:37,2022-07-26 22:06:16,NULL,NULL,NULL,products,NULL
+1326,Dumpsters,الحاويات,approved,771,1,2022-05-30 22:31:31,2022-05-30 22:31:31,NULL,NULL,NULL,products,NULL
+1327,Technicians,العمالة المهنية,approved,1320,1,2022-05-30 22:45:24,2022-05-30 22:45:24,NULL,NULL,NULL,products,NULL
+1328,Well Drilling,حفر الآبار,approved,771,1,2022-05-30 22:47:34,2022-07-27 17:45:23,NULL,NULL,NULL,products,NULL
+1333,Special Wallpaper Type,ورق الجدران المخصص,approved,1314,1,2022-05-31 18:19:32,2022-06-12 21:44:25,NULL,NULL,NULL,products,NULL
+1334,Vinyl Wallpaper,ورق جدران فينيل,approved,1314,1,2022-05-31 18:23:35,2022-06-12 21:46:26,NULL,NULL,NULL,products,NULL
+1336,Stairlifts,كراسي الدرج الكهربائية,approved,936,1,2022-05-31 22:22:33,2022-05-31 22:22:33,NULL,NULL,NULL,products,NULL
+1337,Smoke Detectors,كاشفات الدخان,approved,945,1,2022-06-01 16:54:17,2022-07-05 17:56:55,NULL,NULL,NULL,products,NULL
+1338,Heat Dedectors,كاشفات الحرارة,approved,945,1,2022-06-01 16:55:23,2022-06-01 16:55:23,NULL,NULL,NULL,products,NULL
+1339,Carbon Monoxide Detectors,كاشفات أول أكسيد الكربون,approved,945,1,2022-06-01 16:56:06,2022-06-01 22:44:03,NULL,NULL,NULL,products,NULL
+1340,Multi-Sensors,الأجهزة متعددة الحساسات,approved,945,1,2022-06-01 16:57:57,2022-06-01 16:57:57,NULL,NULL,NULL,products,NULL
+1341,Manual Call Points,نقاط الإنذار اليدوية,approved,945,1,2022-06-01 16:58:29,2022-06-01 16:58:29,NULL,NULL,NULL,products,NULL
+1342,Glass,الزجاج,approved,856,1,2022-06-02 17:31:14,2022-06-02 17:31:14,NULL,NULL,NULL,products,NULL
+1343,Water Dispensers,برادات المياه,approved,505,1,2022-06-02 18:21:43,2022-06-02 18:21:43,NULL,NULL,NULL,products,NULL
+1344,Water Dispensers,برادات المياه,approved,534,1,2022-06-02 18:38:00,2022-06-08 20:02:07,NULL,NULL,NULL,products,NULL
+1346,Special Paint Type,الدهانات المخصصة,approved,901,1,2022-06-12 21:34:45,2022-06-12 21:34:45,NULL,NULL,NULL,products,NULL
+1347,Regular Paint,الدهان العادي,approved,901,1,2022-06-12 21:37:19,2022-06-12 21:37:19,NULL,NULL,NULL,products,NULL
+1348,Special Paint Type,الدهانات المخصصة,approved,902,1,2022-06-12 21:38:03,2022-06-12 21:38:03,NULL,NULL,NULL,products,NULL
+1349,Regular Paint,الدهان العادي,approved,902,1,2022-06-12 21:38:47,2022-06-12 21:38:47,NULL,NULL,NULL,products,NULL
+1350,Towers,الأبراج,approved,1001,1,2022-06-12 23:14:13,2022-06-12 23:14:13,NULL,NULL,NULL,products,NULL
+1351,Kerosene,الكيروسين,approved,968,1,2022-06-12 23:21:03,2022-06-12 23:21:03,NULL,NULL,NULL,products,NULL
+1354,Concentrated Drinks,مشروبات مركزة,approved,1296,1,2022-06-13 17:39:35,2022-08-07 18:40:36,NULL,NULL,NULL,products,NULL
+1355,Loose Leaf Tea,شاي تلقيمة,approved,1295,1,2022-06-13 17:45:12,2022-06-13 17:45:12,NULL,NULL,NULL,products,NULL
+1356,Teabags,شاي فلة (مغلف),approved,1295,1,2022-06-13 17:46:09,2022-06-13 17:46:09,NULL,NULL,NULL,products,NULL
+1357,Whipping Cream,كريمة الخفق,approved,61,1,2022-06-13 17:54:44,2022-06-13 17:54:44,NULL,NULL,NULL,products,NULL
+1358,Coffee Machines,آلات القهوة,approved,525,1,2022-06-13 18:45:37,2022-06-13 18:45:37,NULL,NULL,NULL,products,NULL
+1359,Espresso Machines,آلات الاسبريسو,approved,1358,1,2022-06-13 18:46:58,2022-06-13 18:46:58,NULL,NULL,NULL,products,NULL
+1360,American Coffee Maker,آلات القهوة الأمريكية,approved,1358,1,2022-06-13 18:48:22,2022-06-13 18:48:22,NULL,NULL,NULL,products,NULL
+1361,Capsule Coffee Machines,ماكينة قهوة كبسولات,approved,1358,1,2022-06-13 18:49:54,2022-06-13 18:49:54,NULL,NULL,NULL,products,NULL
+1362,Coffee Grinders,طواحين القهوة,approved,1358,1,2022-06-13 18:50:48,2022-06-13 18:50:48,NULL,NULL,NULL,products,NULL
+1363,Coffee Equipments,معدات القهوة,approved,525,1,2022-06-13 18:54:07,2022-06-13 18:54:07,NULL,NULL,NULL,products,NULL
+1364,Coffee Tools,أدوات القهوة,approved,525,1,2022-06-13 18:55:17,2022-06-13 18:55:17,NULL,NULL,NULL,products,NULL
+1365,Coffee Accessories,إكسسوارات القهوة,approved,525,1,2022-06-13 18:55:53,2022-06-13 18:55:53,NULL,NULL,NULL,products,NULL
+1366,Chopping Boards,قطاعات,approved,560,1,2022-06-13 20:05:42,2022-06-13 20:05:42,NULL,NULL,NULL,products,NULL
+1367,Bakeware,أدوات الخبز,approved,560,1,2022-06-13 20:07:06,2022-06-13 20:07:06,NULL,NULL,NULL,products,NULL
+1368,Food Packaging Equipment,معدات تغليف الأطعمة,approved,560,1,2022-06-13 20:07:55,2022-06-13 20:07:55,NULL,NULL,NULL,products,NULL
+1369,Food Scale,ميزان الطعام,approved,560,1,2022-06-13 20:08:21,2022-06-13 20:08:21,NULL,NULL,NULL,products,NULL
+1370,Kitchen Equipments and Appliances,معدات وأجهزة المطبخ,approved,7,1,2022-06-13 20:09:06,2022-06-13 21:31:07,NULL,NULL,NULL,products,NULL
+1374,Coffee,القهوة وملحقاتها,approved,7,1,2022-06-13 20:19:35,2022-06-13 20:19:35,NULL,NULL,NULL,products,NULL
+1375,Coffee Accessories,إكسسوارات القهوة,approved,1374,1,2022-06-13 20:20:05,2022-06-13 20:20:05,NULL,NULL,NULL,products,NULL
+1376,Coffee Equipments,معدات القهوة,approved,1374,1,2022-06-13 20:21:42,2022-06-13 20:21:42,NULL,NULL,NULL,products,NULL
+1377,Coffee Tools,أدوات القهوة,approved,1374,1,2022-06-13 20:22:11,2022-06-13 20:22:11,NULL,NULL,NULL,products,NULL
+1378,Coffee Machines,آلات القهوة,approved,1374,1,2022-06-13 20:22:38,2022-06-13 20:22:38,NULL,NULL,NULL,products,NULL
+1379,American Coffee Makers,آلات القهوة الأمريكية,approved,1378,1,2022-06-13 20:23:23,2022-06-13 20:23:23,NULL,NULL,NULL,products,NULL
+1380,Capsule Coffee Machines,ماكينة قهوة كبسولات,approved,1378,1,2022-06-13 20:23:57,2022-06-13 20:23:57,NULL,NULL,NULL,products,NULL
+1381,Coffee Grinders,طاحنات القهوة,approved,1378,1,2022-06-13 20:24:24,2022-06-13 23:17:48,NULL,NULL,NULL,products,NULL
+1382,Espresso Machines,آلات الاسبريسو,approved,1378,1,2022-06-13 20:25:01,2022-06-13 20:25:01,NULL,NULL,NULL,products,NULL
+1384,Electronic Ovens,أفران كهربائية,approved,1383,1,2022-06-13 20:26:20,2022-06-13 20:26:20,NULL,NULL,NULL,products,NULL
+1385,Gas Ovens,أفران غاز,approved,1383,1,2022-06-13 20:26:57,2022-06-13 20:26:57,NULL,NULL,NULL,products,NULL
+1387,Cooling,التبريد,approved,1386,1,2022-06-13 20:27:54,2022-06-13 20:27:54,NULL,NULL,NULL,products,NULL
+1388,Freezing,التجميد,approved,1386,1,2022-06-13 20:28:12,2022-06-13 20:28:12,NULL,NULL,NULL,products,NULL
+1391,Melamine,الميلامين,approved,585,1,2022-06-13 20:49:21,2022-06-13 20:49:21,NULL,NULL,NULL,products,NULL
+1392,Porcelain,بورسلان,approved,585,1,2022-06-13 20:50:04,2022-06-13 20:50:04,NULL,NULL,NULL,products,NULL
+1394,Dry Storage,تخزين جاف,approved,618,1,2022-06-13 21:01:06,2022-06-13 21:01:06,NULL,NULL,NULL,products,NULL
+1395,Cold Storage,مستودعات باردة,approved,618,1,2022-06-13 21:01:42,2022-06-13 21:01:42,NULL,NULL,NULL,products,NULL
+1396,Freezer Rooms,غرف تجميد,approved,595,1,2022-06-13 21:16:09,2022-06-13 21:16:09,NULL,NULL,NULL,products,NULL
+1398,Plastic Wrap,تغليف البلاستيك,approved,554,1,2022-06-13 21:24:20,2022-06-13 21:24:20,NULL,NULL,NULL,products,NULL
+1399,Paper Wrap,التغليف الورقي,approved,554,1,2022-06-13 21:25:02,2022-06-13 21:25:02,NULL,NULL,NULL,products,NULL
+1400,Aluminum Foil Wrap,تغليف القصدير,approved,554,1,2022-06-13 21:27:51,2022-06-13 21:27:51,NULL,NULL,NULL,products,NULL
+1401,Kitchen Equipment,معدات المطبخ,approved,1370,1,2022-06-13 21:31:55,2022-06-13 21:31:55,NULL,NULL,NULL,products,NULL
+1402,Kitchen Appliances,أجهزة المطبخ,approved,1370,1,2022-06-13 21:32:40,2022-06-13 21:32:40,NULL,NULL,NULL,products,NULL
+1403,Blenders,خلاطات,approved,1402,1,2022-06-13 21:37:04,2022-06-13 21:37:04,NULL,NULL,NULL,products,NULL
+1404,Dishwashers,غسالات الصحون,approved,1402,1,2022-06-13 21:37:50,2022-06-13 21:37:50,NULL,NULL,NULL,products,NULL
+1405,Food Processors,محضرات الطعام,approved,1402,1,2022-06-13 21:38:39,2022-06-13 21:38:39,NULL,NULL,NULL,products,NULL
+1406,Juicers,عصارات,approved,1402,1,2022-06-13 21:39:09,2022-06-13 21:39:09,NULL,NULL,NULL,products,NULL
+1407,Microwaves,مايكرويف,approved,1402,1,2022-06-13 21:39:55,2022-06-13 21:39:55,NULL,NULL,NULL,products,NULL
+1408,Thermometer,مقياس الحرارة,approved,1402,1,2022-06-13 21:40:27,2022-06-13 21:40:27,NULL,NULL,NULL,products,NULL
+1409,Ovens,الأفران,approved,1401,1,2022-06-13 21:41:18,2022-06-13 21:41:18,NULL,NULL,NULL,products,NULL
+1410,Electronic Ovens,أفران كهربائية,approved,1409,1,2022-06-13 21:41:51,2022-06-13 21:41:51,NULL,NULL,NULL,products,NULL
+1411,Gas Ovens,أفران غاز,approved,1409,1,2022-06-13 21:42:15,2022-06-13 21:42:15,NULL,NULL,NULL,products,NULL
+1412,Ice,الثلج,approved,1402,1,2022-06-13 21:46:48,2022-06-13 21:46:48,NULL,NULL,NULL,products,NULL
+1413,Ice Makers,صانعات الثلج,approved,1412,1,2022-06-13 21:47:15,2022-06-13 21:47:15,NULL,NULL,NULL,products,NULL
+1414,Ice Crushers,طاحونات الثلج,approved,1412,1,2022-06-13 21:48:44,2022-06-13 21:51:48,NULL,NULL,NULL,products,NULL
+1415,Fryers,قلايات,approved,1402,1,2022-06-13 21:53:53,2022-06-13 21:53:53,NULL,NULL,NULL,products,NULL
+1416,Deep Fryers,قلايات زيت,approved,1415,1,2022-06-13 21:54:40,2022-06-13 21:54:40,NULL,NULL,NULL,products,NULL
+1417,Air Fryers,قلايات هوائية,approved,1415,1,2022-06-13 21:57:54,2022-06-13 21:57:54,NULL,NULL,NULL,products,NULL
+1418,Blenders,خلاطات,approved,1405,1,2022-06-13 22:00:41,2022-06-13 22:00:41,NULL,NULL,NULL,products,NULL
+1419,Juicers,عصارات,approved,1405,1,2022-06-13 22:01:31,2022-06-13 22:01:31,NULL,NULL,NULL,products,NULL
+1420,Mixers,عجانات,approved,1405,1,2022-06-13 22:03:48,2022-06-13 22:03:48,NULL,NULL,NULL,products,NULL
+1421,Coffee and Tea Pots,أباريق القهوة والشاي,approved,583,1,2022-06-13 22:10:41,2022-06-13 22:10:41,NULL,NULL,NULL,products,NULL
+1422,Spice Grinders,طاحونة البهارات,approved,1402,1,2022-06-13 22:18:57,2022-06-13 22:18:57,NULL,NULL,NULL,products,NULL
+1423,Toasters,الحماصات,approved,1402,1,2022-06-13 22:19:49,2022-06-13 22:19:49,NULL,NULL,NULL,products,NULL
+1424,Water Kettles,غلايات الماء,approved,1402,1,2022-06-13 22:20:47,2022-08-10 18:17:25,NULL,NULL,NULL,products,NULL
+1425,Barbecue Grills,معدات الشواء,approved,1401,1,2022-06-13 22:22:28,2022-06-13 22:22:28,NULL,NULL,NULL,products,NULL
+1426,Coffee and Tea Sets,الفناجين والاستكانات,approved,583,1,2022-06-13 22:25:54,2022-06-13 22:25:54,NULL,NULL,NULL,products,NULL
+1427,Serving Trays,صواني التقديم,approved,583,1,2022-06-13 22:27:29,2022-06-13 22:27:29,NULL,NULL,NULL,products,NULL
+1428,Aluminum,المنيوم,approved,566,1,2022-06-13 22:30:55,2022-06-13 22:30:55,NULL,NULL,NULL,products,NULL
+1429,Stainless Steel,ستانلس ستيل,approved,566,1,2022-06-13 22:32:49,2022-06-13 22:32:49,NULL,NULL,NULL,products,NULL
+1430,Glass,زجاج,approved,566,1,2022-06-13 22:33:22,2022-06-13 22:33:22,NULL,NULL,NULL,products,NULL
+1431,Porcelain,بورسلان,approved,566,1,2022-06-13 22:34:29,2022-06-13 22:34:29,NULL,NULL,NULL,products,NULL
+1432,Knives,سكاكين,approved,560,1,2022-06-13 22:39:42,2022-06-13 22:43:51,NULL,NULL,NULL,products,NULL
+1433,Pots,قدور,approved,564,1,2022-06-13 22:45:47,2022-06-13 22:45:47,NULL,NULL,NULL,products,NULL
+1434,Pressure Cookers,قدور الضغط,approved,564,1,2022-06-13 22:46:22,2022-06-13 22:46:22,NULL,NULL,NULL,products,NULL
+1436,Cookware,أواني الطبخ,approved,1370,1,2022-06-13 22:54:48,2022-06-13 22:54:48,NULL,NULL,NULL,products,NULL
+1437,Cookware,أواني الطهي,approved,7,1,2022-06-13 22:56:46,2022-06-14 22:43:18,NULL,NULL,NULL,products,NULL
+1438,Pots,القدور,approved,1437,1,2022-06-13 22:57:06,2022-06-13 22:57:06,NULL,NULL,NULL,products,NULL
+1439,Pans,المقالي,approved,1437,1,2022-06-13 22:59:36,2022-06-13 22:59:36,NULL,NULL,NULL,products,NULL
+1440,Pressure Cookers,قدور الضغط,approved,1437,1,2022-06-13 23:00:01,2022-06-13 23:00:01,NULL,NULL,NULL,products,NULL
+1442,Towels Maxi,ماكسي رول,approved,624,1,2022-06-14 19:59:40,2022-06-14 19:59:40,NULL,NULL,NULL,products,NULL
+1443,Dining Napkins,السفرة,approved,624,1,2022-06-14 20:03:21,2022-06-14 20:34:12,NULL,NULL,NULL,products,NULL
+1444,Wet Wipes,مناديل مبللة,approved,624,1,2022-06-14 20:14:06,2022-06-14 20:14:06,NULL,NULL,NULL,products,NULL
+1445,Scented Wet Wipes,معطرة,approved,1444,1,2022-06-14 20:16:41,2022-06-14 20:37:53,NULL,NULL,NULL,products,NULL
+1446,Antibacterial Wipes,معقمة,approved,1444,1,2022-06-14 20:17:46,2022-06-14 20:37:13,NULL,NULL,NULL,products,NULL
+1447,Cleaning Cloths,أقمشة التنظيف,approved,623,1,2022-06-14 20:18:47,2022-06-14 20:18:47,NULL,NULL,NULL,products,NULL
+1448,Carpet,السجاد,approved,632,1,2022-06-14 20:24:11,2022-06-14 20:24:11,NULL,NULL,NULL,products,NULL
+1449,Parquet,باركيه,approved,632,1,2022-06-14 20:26:01,2022-06-14 20:26:01,NULL,NULL,NULL,products,NULL
+1450,Grill Tops,آلات الشواء,approved,640,1,2022-06-14 20:39:13,2022-06-14 20:39:13,NULL,NULL,NULL,products,NULL
+1451,Produce Disinfectants,الخضار والفواكه,approved,640,1,2022-06-14 20:41:32,2022-06-14 20:48:41,NULL,NULL,NULL,products,NULL
+1452,Warewash Chemicals,غسالة الصحون,approved,640,1,2022-06-14 20:46:03,2022-06-14 20:49:24,NULL,NULL,NULL,products,NULL
+1453,Liquid,سوائل التنظيف,approved,648,1,2022-06-14 20:56:33,2022-06-14 20:56:33,NULL,NULL,NULL,products,NULL
+1454,Detergent,المنظف,approved,1453,1,2022-06-14 20:57:59,2022-06-14 22:09:19,NULL,NULL,NULL,products,NULL
+1455,Bleach,مبيض,approved,1453,1,2022-06-14 21:00:12,2022-06-14 21:00:12,NULL,NULL,NULL,products,NULL
+1456,Softener,منعم,approved,1453,1,2022-06-14 21:01:18,2022-06-14 21:01:18,NULL,NULL,NULL,products,NULL
+1457,Pots,القدور اليدوية,approved,1438,1,2022-06-14 22:40:44,2022-06-14 22:40:44,NULL,NULL,NULL,products,NULL
+1458,Electric Pots,القدور الكهربائية,approved,1438,1,2022-06-14 22:41:56,2022-06-14 22:41:56,NULL,NULL,NULL,products,NULL
+1460,Body Care,العناية بالجسم,approved,1459,1,2022-06-14 22:55:19,2022-06-14 22:55:19,NULL,NULL,NULL,products,NULL
+1461,Hair Care,العناية بالشعر,approved,1459,1,2022-06-14 22:58:14,2022-06-16 19:56:58,NULL,NULL,NULL,products,NULL
+1462,Dental Care,العناية بالأسنان,approved,1459,1,2022-06-14 22:59:09,2022-06-14 22:59:09,NULL,NULL,NULL,products,NULL
+1463,Admission Kit,حقيبة العناية المتكاملة,approved,1459,1,2022-06-14 23:00:06,2022-06-14 23:00:06,NULL,NULL,NULL,products,NULL
+1464,Liquid Soap,سائل,approved,656,1,2022-06-15 17:30:25,2022-06-15 17:30:25,NULL,NULL,NULL,products,NULL
+1465,Soap Bars,قوالب,approved,656,1,2022-06-15 17:31:36,2022-06-15 17:31:36,NULL,NULL,NULL,products,NULL
+1466,Antibacterial Soap,مضاد للبكتيريا,approved,656,1,2022-06-15 17:33:04,2022-06-15 17:33:04,NULL,NULL,NULL,products,NULL
+1467,Glass,زجاج,approved,661,1,2022-06-15 17:34:34,2022-06-15 17:34:34,NULL,NULL,NULL,products,NULL
+1468,Wood,الخشب,approved,661,1,2022-06-15 17:35:12,2022-06-15 17:35:12,NULL,NULL,NULL,products,NULL
+1469,Stainless Steel,ستانلس ستيل,approved,661,1,2022-06-15 17:36:02,2022-06-15 17:36:02,NULL,NULL,NULL,products,NULL
+1470,IT,تقنية المعلومات,approved,1678,1,2022-06-15 17:43:34,2022-06-15 17:43:34,NULL,NULL,NULL,products,NULL
+1471,Systems and Development,الأنظمة والتطوير,approved,1470,1,2022-06-15 17:44:58,2022-06-15 17:44:58,NULL,NULL,NULL,products,NULL
+1472,Web Development,تطوير ويب,approved,1471,1,2022-06-15 17:45:53,2022-06-15 17:45:53,NULL,NULL,NULL,products,NULL
+1473,Mobile Development,تطوير التطبيقات,approved,1471,1,2022-06-15 17:46:49,2022-06-15 17:46:49,NULL,NULL,NULL,products,NULL
+1474,UI/UX Design,تصميم واجهات التطبيقات UI/UX,approved,1471,1,2022-06-15 17:48:18,2022-06-15 17:48:18,NULL,NULL,NULL,products,NULL
+1475,IoT Development,انترنت الأشياء,approved,1471,1,2022-06-15 17:48:53,2022-06-15 17:48:53,NULL,NULL,NULL,products,NULL
+1476,Data Centers,مراكز بيانات,approved,1470,1,2022-06-15 17:49:24,2022-06-15 17:49:24,NULL,NULL,NULL,products,NULL
+1477,Integrated Systems,أنظمة متكاملة,approved,1470,1,2022-06-15 17:49:52,2022-06-15 17:49:52,NULL,NULL,NULL,products,NULL
+1478,Networks,شبكات,approved,1470,1,2022-06-15 17:50:10,2022-06-15 17:50:10,NULL,NULL,NULL,products,NULL
+1479,Cyber Security,حماية وأمان,approved,1470,1,2022-06-15 17:50:43,2022-06-15 17:50:43,NULL,NULL,NULL,products,NULL
+1480,Computer Components,مكونات الكمبيوتر الرئيسية,approved,1488,1,2022-06-15 21:40:16,2022-06-15 21:54:07,NULL,NULL,NULL,products,NULL
+1481,CPUs,وحدة المعالجة المركزية,approved,1480,1,2022-06-15 21:41:56,2022-06-15 21:50:29,NULL,NULL,NULL,products,NULL
+1482,Ram Memory,الذاكرة العشوائية,approved,1480,1,2022-06-15 21:44:15,2022-06-15 21:44:15,NULL,NULL,NULL,products,NULL
+1483,Motherboards,اللوحة الأم,approved,1480,1,2022-06-15 21:44:58,2022-06-16 16:44:30,NULL,NULL,NULL,products,NULL
+1484,GPUs,بطاقات الفيديو,approved,1480,1,2022-06-15 21:46:37,2022-06-15 21:46:37,NULL,NULL,NULL,products,NULL
+1485,Power Supplies,مزودات الطاقة,approved,1480,1,2022-06-15 21:47:40,2022-06-15 21:47:40,NULL,NULL,NULL,products,NULL
+1486,Computer Cases,صناديق الكمبيوتر,approved,1480,1,2022-06-15 21:48:19,2022-06-15 21:48:19,NULL,NULL,NULL,products,NULL
+1487,Hard Drives,أقراص صلبة,approved,1480,1,2022-06-15 21:49:46,2022-06-16 16:44:08,NULL,NULL,NULL,products,NULL
+1488,Computers,أجهزة الكمبيوتر,approved,5,1,2022-06-15 21:52:46,2022-07-06 18:38:36,NULL,NULL,NULL,products,NULL
+1489,All-in-One Computers,شاشة مدمجة بالكمبيوتر,approved,1488,1,2022-06-15 22:00:31,2022-06-15 22:00:31,NULL,NULL,NULL,products,NULL
+1490,Pre Built Computers,أجهزة كمبيوتر جاهزة,approved,1488,1,2022-06-15 22:05:03,2022-07-06 18:35:36,NULL,NULL,NULL,products,NULL
+1493,Faxes and Printers,الفاكسات و الطابعات,approved,5,1,2022-06-15 22:14:36,2022-08-04 17:52:30,NULL,NULL,NULL,products,NULL
+1494,Scanners,الماسح الضوئي,approved,1493,1,2022-06-15 22:25:28,2022-06-15 22:25:28,NULL,NULL,NULL,products,NULL
+1495,Fax Machine,الفاكس,approved,1493,1,2022-06-15 22:32:37,2022-06-15 22:32:37,NULL,NULL,NULL,products,NULL
+1497,Heavy Duty Printers,طابعات الحمل العالي,approved,1493,1,2022-06-15 22:40:43,2022-06-15 22:40:43,NULL,NULL,NULL,products,NULL
+1500,Ink and Laser Printers and Multifunction Printers,طابعات الحبر والليزر والطابعات متعددة الوظائف,approved,1493,1,2022-06-15 22:43:17,2022-08-04 17:56:00,NULL,NULL,NULL,products,NULL
+1502,Air Cooling Systems,أجهزة التكييف,approved,5,1,2022-06-15 22:59:14,2022-06-15 23:31:00,NULL,NULL,NULL,products,NULL
+1503,Freon,فريون,approved,1502,1,2022-06-15 23:01:50,2022-06-15 23:32:13,NULL,NULL,NULL,products,NULL
+1504,Water,مائي,approved,1502,1,2022-06-15 23:02:15,2022-06-15 23:32:56,NULL,NULL,NULL,products,NULL
+1508,Web Services Development,$,approved,1470,1,2022-06-15 23:19:25,2022-06-15 23:19:25,NULL,NULL,NULL,products,NULL
+1510,User Interface Design and Development,تصميم وتطوير واجهة المستخدم,approved,1470,1,2022-06-15 23:20:08,2022-06-16 16:22:32,NULL,NULL,NULL,products,NULL
+1512,Software Development,تطوير برمجيات,approved,1470,1,2022-06-15 23:26:20,2022-07-07 18:05:33,NULL,NULL,NULL,products,NULL
+1513,Home Theater,أجهزة عرض سينما منزلية,approved,535,1,2022-06-15 23:30:50,2022-06-16 16:50:33,NULL,NULL,NULL,products,NULL
+1514,Central Units,أنظمة مركزية,approved,1503,1,2022-06-15 23:34:57,2022-06-15 23:34:57,NULL,NULL,NULL,products,NULL
+1515,Split Units,سبليت,approved,1503,1,2022-06-15 23:35:24,2022-06-15 23:35:24,NULL,NULL,NULL,products,NULL
+1516,Window,شباك,approved,1503,1,2022-06-15 23:36:50,2022-06-15 23:36:50,NULL,NULL,NULL,products,NULL
+1517,Portable,متنقل,approved,1503,1,2022-06-15 23:37:16,2022-06-15 23:37:16,NULL,NULL,NULL,products,NULL
+1518,Central,مركزي,approved,1504,1,2022-06-15 23:39:58,2022-06-15 23:39:58,NULL,NULL,NULL,products,NULL
+1519,Window,شباك,approved,1504,1,2022-06-15 23:40:19,2022-06-15 23:40:19,NULL,NULL,NULL,products,NULL
+1520,Portable,متنقل,approved,1504,1,2022-06-15 23:41:36,2022-06-15 23:41:36,NULL,NULL,NULL,products,NULL
+1521,Inks,الأحبار,approved,1493,1,2022-06-16 00:12:00,2022-06-16 00:12:00,NULL,NULL,NULL,products,NULL
+1524,Smart Watches,الساعات الذكية,approved,541,1,2022-06-16 00:15:27,2022-06-16 00:15:27,NULL,NULL,NULL,products,NULL
+1525,Accessories,الأكسسوارات,approved,1522,1,2022-06-16 00:16:34,2022-06-16 00:16:34,NULL,NULL,NULL,products,NULL
+1526,Systems Subscription,اشتراكات الأنظمة,approved,1488,1,2022-06-16 00:19:12,2022-08-11 23:17:11,NULL,NULL,NULL,products,NULL
+1527,Windows,ويندوز,approved,1526,1,2022-06-16 00:20:20,2022-06-16 00:20:20,NULL,NULL,NULL,products,NULL
+1528,Microsoft Office,تطبيقات الاوفيس,approved,1526,1,2022-06-16 00:21:44,2022-06-16 00:21:44,NULL,NULL,NULL,products,NULL
+1529,Accessories,الإكسسوارات,approved,1491,1,2022-06-16 00:23:32,2022-06-16 00:23:32,NULL,NULL,NULL,products,NULL
+1530,New Categories,فئات جديدة,approved,1678,1,2022-06-16 17:56:01,2022-06-16 17:56:01,NULL,NULL,NULL,products,NULL
+1536,Single Seaters,مقعد واحد,approved,1531,1,2022-06-16 18:10:49,2022-06-16 18:10:49,NULL,NULL,NULL,products,NULL
+1537,2 Seaters,مقعدين,approved,1531,1,2022-06-16 18:11:22,2022-06-16 18:11:22,NULL,NULL,NULL,products,NULL
+1538,3 Seaters,ثلاثة مقاعد,approved,1531,1,2022-06-16 18:11:55,2022-06-16 18:11:55,NULL,NULL,NULL,products,NULL
+1539,4 Seaters,اربعة مقاعد,approved,1531,1,2022-06-16 18:12:42,2022-06-16 18:12:42,NULL,NULL,NULL,products,NULL
+1540,Sofa Beds,سرير أريكة,approved,1531,1,2022-06-16 18:13:30,2022-06-16 18:13:30,NULL,NULL,NULL,products,NULL
+1541,Corner Sofa Sets,مجموعات ركن الأريكة,approved,1531,1,2022-06-16 18:14:56,2022-06-16 18:14:56,NULL,NULL,NULL,products,NULL
+1542,Recliners,كراسي إسترخاء,approved,1531,1,2022-06-16 18:17:01,2022-06-16 18:17:01,NULL,NULL,NULL,products,NULL
+1543,Living Chair,كرسي المعيشة,approved,1531,1,2022-06-16 18:17:54,2022-06-16 18:17:54,NULL,NULL,NULL,products,NULL
+1544,Coffee Tables,طاولات القهوة,approved,1532,1,2022-06-16 18:21:24,2022-06-16 18:21:24,NULL,NULL,NULL,products,NULL
+1545,End Table,طاولة جانبية,approved,1532,1,2022-06-16 18:21:58,2022-06-16 18:21:58,NULL,NULL,NULL,products,NULL
+1546,Consoles And Mirrors,طاولات كونسول و مرايا,approved,1532,1,2022-06-16 18:24:51,2022-06-16 18:24:51,NULL,NULL,NULL,products,NULL
+1547,Fireplace,المدفأة,approved,1532,1,2022-06-16 18:27:01,2022-06-16 18:27:01,NULL,NULL,NULL,products,NULL
+1549,Bedroom Sets,غرف النوم الكامله,approved,1548,1,2022-06-16 18:31:24,2022-06-16 18:31:24,NULL,NULL,NULL,products,NULL
+1550,Wardrobes,خزائن,approved,1534,1,2022-06-16 18:32:31,2022-06-16 18:32:31,NULL,NULL,NULL,products,NULL
+1551,Dressers,التسريحات,approved,1534,1,2022-06-16 18:33:11,2022-06-16 18:33:11,NULL,NULL,NULL,products,NULL
+1552,Night Stands,طاولة سرير,approved,1532,1,2022-06-16 18:35:05,2022-06-16 18:35:05,NULL,NULL,NULL,products,NULL
+1554,Dining Tables,طاولات الطعام,approved,1553,1,2022-06-16 18:40:02,2022-06-16 18:40:02,NULL,NULL,NULL,products,NULL
+1555,Dining Sets,أطقم الطعام,approved,1553,1,2022-06-16 18:40:30,2022-06-16 18:40:30,NULL,NULL,NULL,products,NULL
+1556,Dining Chairs,كراسي الطعام,approved,1553,1,2022-06-16 18:41:11,2022-06-16 18:41:11,NULL,NULL,NULL,products,NULL
+1557,Dining Serve,خدمة العشاء,approved,1553,1,2022-06-16 18:42:52,2022-06-16 18:42:52,NULL,NULL,NULL,products,NULL
+1559,Office Tables,طاولات المكتب,approved,1532,1,2022-06-16 18:47:51,2022-06-16 18:47:51,NULL,NULL,NULL,products,NULL
+1560,Office Chairs,كراسي المكتب,approved,1532,1,2022-06-16 18:49:06,2022-06-16 18:49:06,NULL,NULL,NULL,products,NULL
+1561,Cabinet,خزانة,approved,1534,1,2022-06-16 18:50:16,2022-06-16 18:50:16,NULL,NULL,NULL,products,NULL
+1562,Bookcase,خزانة الكتب,approved,1534,1,2022-06-16 18:50:53,2022-06-16 18:50:53,NULL,NULL,NULL,products,NULL
+1564,Swings,كراسي معلقه,approved,1563,1,2022-06-16 18:58:34,2022-06-16 18:58:34,NULL,NULL,NULL,products,NULL
+1565,Umbrellas And Gazebos,مظلات وخيمات,approved,1563,1,2022-06-16 19:00:00,2022-06-16 19:00:00,NULL,NULL,NULL,products,NULL
+1566,Prints and Boards,المطبوعات واللوحات,approved,1678,1,2022-06-16 19:54:44,2022-08-11 23:24:18,NULL,NULL,NULL,products,NULL
+1567,Toiletries,مستلزمات العناية الشخصية,approved,623,1,2022-06-16 20:01:18,2022-06-16 20:01:18,NULL,NULL,NULL,products,NULL
+1568,Admission Kits,حقائب العناية الشخصية,approved,1567,1,2022-06-16 20:02:05,2022-06-16 20:02:05,NULL,NULL,NULL,products,NULL
+1569,Body Care,العناية بالجسم,approved,1567,1,2022-06-16 20:02:43,2022-06-16 20:02:43,NULL,NULL,NULL,products,NULL
+1570,Hair Care,العناية بالشعر,approved,1567,1,2022-06-16 20:03:24,2022-06-16 20:03:24,NULL,NULL,NULL,products,NULL
+1571,Dental Care,العناية بالأسنان,approved,1567,1,2022-06-16 20:03:52,2022-06-16 20:03:52,NULL,NULL,NULL,products,NULL
+1572,Dental Care,العناية بالأسنان,approved,1567,1,2022-06-16 20:03:52,2022-06-16 20:03:52,NULL,NULL,NULL,products,NULL
+1576,Living Room,غرف المعيشة,approved,795,1,2022-06-16 20:17:57,2022-06-19 20:20:19,NULL,NULL,NULL,products,NULL
+1577,Cleaning Tools,أدوات التنظيف,approved,670,1,2022-06-16 20:22:50,2022-06-16 22:02:49,NULL,NULL,NULL,products,NULL
+1578,Mops,المماسح,approved,1577,1,2022-06-16 20:25:53,2022-06-16 20:25:53,NULL,NULL,NULL,products,NULL
+1579,Brooms,المكانس اليدوية,approved,1577,1,2022-06-16 20:26:29,2022-06-16 22:04:13,NULL,NULL,NULL,products,NULL
+1580,Garbage Bins,صناديق القمامة,approved,1577,1,2022-06-16 20:28:45,2022-06-16 20:28:45,NULL,NULL,NULL,products,NULL
+1581,Trollies,عربات التنظيف,approved,1577,1,2022-06-16 20:29:11,2022-06-16 20:29:11,NULL,NULL,NULL,products,NULL
+1582,Cleaning Accessories,الإكسسوارات واللوح الإرشادية,approved,670,1,2022-06-16 20:30:03,2022-06-16 22:01:05,NULL,NULL,NULL,products,NULL
+1583,Cleaning Equipment,معدات التنظيف,approved,670,1,2022-06-16 20:30:35,2022-06-16 20:30:35,NULL,NULL,NULL,products,NULL
+1584,Scrubbers,أجهزة تنظيف الأرضيات,approved,1583,1,2022-06-16 20:38:53,2022-06-16 20:38:53,NULL,NULL,NULL,products,NULL
+1585,Polishers,أجهزة التلميع,approved,1583,1,2022-06-16 20:39:39,2022-06-16 20:39:39,NULL,NULL,NULL,products,NULL
+1586,Extractor Machines,آلات الشفط,approved,1583,1,2022-06-16 20:40:19,2022-06-16 20:40:19,NULL,NULL,NULL,products,NULL
+1587,Heavy-duty Vacuums,مكانس أداء عالي,approved,1583,1,2022-06-16 20:40:55,2022-06-16 20:46:24,NULL,NULL,NULL,products,NULL
+1589,Swings,كراسي معلقه,approved,1588,1,2022-06-16 21:02:11,2022-06-16 21:02:11,NULL,NULL,NULL,products,NULL
+1590,Umbrellas And Gazebos,مظلات وخيمات,approved,1588,1,2022-06-16 21:03:26,2022-06-16 21:03:26,NULL,NULL,NULL,products,NULL
+1592,Ad Boards,اللوحات,approved,1566,1,2022-06-16 21:18:21,2022-08-10 18:31:14,NULL,NULL,NULL,products,NULL
+1595,Dishwashers,غسالات الصحون,approved,687,1,2022-06-16 21:36:58,2022-06-16 21:36:58,NULL,NULL,NULL,products,NULL
+1596,Napkins - Interfold Dispenser,منظم المناديل,approved,687,1,2022-06-16 21:37:29,2022-08-10 17:46:33,NULL,NULL,NULL,products,NULL
+1597,Soap,موزع الصابون السائل,approved,687,1,2022-06-16 21:37:55,2022-06-16 21:37:55,NULL,NULL,NULL,products,NULL
+1599,Fire Stove,موقدات النار,approved,552,1,2022-06-16 22:28:41,2022-08-10 18:02:21,NULL,NULL,NULL,products,NULL
+1600,Coffee and Tea,القهوة والشاي,approved,1,1,2022-06-16 22:30:36,2022-06-16 22:30:36,NULL,NULL,NULL,products,NULL
+1601,Firewood,حطب,approved,1599,1,2022-06-16 22:31:27,2022-06-16 22:31:27,NULL,NULL,NULL,products,NULL
+1602,Charcoal,فحم,approved,1599,1,2022-06-16 22:32:51,2022-06-16 22:32:51,NULL,NULL,NULL,products,NULL
+1603,Coffee,القهوة,approved,1600,1,2022-06-16 22:34:43,2022-06-16 22:34:43,NULL,NULL,NULL,products,NULL
+1604,Beans,البن,approved,1603,1,2022-06-16 22:39:27,2022-06-16 22:39:27,NULL,NULL,NULL,products,NULL
+1605,Robusta,روبوستا,approved,1604,1,2022-06-16 22:40:54,2022-06-16 22:40:54,NULL,NULL,NULL,products,NULL
+1606,Arabica,ارابيكا,approved,1604,1,2022-06-16 22:41:21,2022-06-16 22:41:21,NULL,NULL,NULL,products,NULL
+1607,Coffee Beans,حبوب البن,approved,1606,1,2022-06-16 22:42:01,2022-06-16 22:42:01,NULL,NULL,NULL,products,NULL
+1608,Ground Coffee,قهوة مطحونة,approved,1606,1,2022-06-16 22:43:16,2022-06-16 22:43:16,NULL,NULL,NULL,products,NULL
+1609,Coffee Beans,حبوب البن,approved,1605,1,2022-06-16 22:44:08,2022-06-16 22:44:08,NULL,NULL,NULL,products,NULL
+1610,Ground Coffee,قهوة مطحونة,approved,1605,1,2022-06-16 22:44:41,2022-06-16 22:44:41,NULL,NULL,NULL,products,NULL
+1611,Instant Drip Coffee Packs,أظرف التقطير الفورية,approved,1603,1,2022-06-16 23:09:51,2022-06-16 23:09:51,NULL,NULL,NULL,products,NULL
+1612,Lighting Cubes,مكعبات الإشعال,approved,1599,1,2022-06-16 23:10:21,2022-08-10 18:07:03,NULL,NULL,NULL,products,NULL
+1613,Capsules,كبسولات,approved,1603,1,2022-06-16 23:10:26,2022-06-16 23:10:26,NULL,NULL,NULL,products,NULL
+1614,Tea,الشاي,approved,1600,1,2022-06-16 23:10:54,2022-06-16 23:13:08,NULL,NULL,NULL,products,NULL
+1615,Loose Leaf Tea,شاي تلقيمة,approved,1614,1,2022-06-16 23:11:34,2022-06-16 23:11:34,NULL,NULL,NULL,products,NULL
+1616,Lighters,الولاعات,approved,1599,1,2022-06-16 23:11:35,2022-06-16 23:11:35,NULL,NULL,NULL,products,NULL
+1617,Teabags,شاي فلة أكياس,approved,1614,1,2022-06-16 23:12:20,2022-06-16 23:12:20,NULL,NULL,NULL,products,NULL
+1619,Office Supplies,اللوازم المكتبية,approved,1678,1,2022-06-19 18:48:33,2022-06-19 21:47:44,NULL,NULL,NULL,products,NULL
+1621,Mirrors,المرايا,approved,866,1,2022-06-19 20:36:43,2022-06-19 20:36:43,NULL,NULL,NULL,products,NULL
+1622,Paintings,اللوحات,approved,866,1,2022-06-19 20:37:39,2022-06-19 20:37:39,NULL,NULL,NULL,products,NULL
+1623,Artificial Plants,النباتات الصناعية,approved,866,1,2022-06-19 20:38:39,2022-06-19 20:38:39,NULL,NULL,NULL,products,NULL
+1624,Antiques,التحف,approved,866,1,2022-06-19 20:55:01,2022-06-19 20:55:01,NULL,NULL,NULL,products,NULL
+1625,Jack Lift,رافعة طبليات,approved,911,1,2022-06-19 21:21:44,2022-08-10 17:36:46,NULL,NULL,NULL,products,NULL
+1626,Foldable Platform Trolly,عربات السحب اليدوية,approved,911,1,2022-06-19 21:32:03,2022-06-19 21:32:03,NULL,NULL,NULL,products,NULL
+1627,Staionary,القرطاسية,approved,1619,1,2022-06-19 21:46:02,2022-06-19 21:46:02,NULL,NULL,NULL,products,NULL
+1628,Office Tools,الأدوات المكتبية,approved,1619,1,2022-06-19 21:46:58,2022-06-19 21:46:58,NULL,NULL,NULL,products,NULL
+1629,Marketing Agencies,وكالات التسويق,approved,1593,1,2022-06-19 21:51:15,2022-06-19 21:51:15,NULL,NULL,NULL,products,NULL
+1631,Brochures and Publications,الكتيبات والمنشورات,approved,1852,1,2022-06-19 22:43:17,2022-08-10 18:36:47,NULL,NULL,NULL,products,NULL
+1632,External Boards,اللوحات الخارجية,approved,1592,1,2022-06-19 22:44:26,2022-06-19 22:44:26,NULL,NULL,NULL,products,NULL
+1633,Interior Boards,اللوحات الداخلية,approved,1592,1,2022-06-19 22:45:10,2022-06-19 22:47:17,NULL,NULL,NULL,products,NULL
+1635,Beans,البقوليات,approved,250,1,2022-06-20 17:50:18,2022-06-20 17:51:43,NULL,NULL,NULL,products,NULL
+1636,Revolving Doors,الأبواب الدوارة,approved,927,1,2022-07-05 17:26:16,2022-07-05 17:26:16,NULL,NULL,NULL,products,NULL
+1637,Trucks,الشاحنات,approved,838,1,2022-07-05 17:34:37,2022-07-05 17:34:37,NULL,NULL,NULL,products,NULL
+1638,Ramps and Cranes,السلالم والرافعات,approved,838,1,2022-07-05 17:35:28,2022-07-05 17:40:13,NULL,NULL,NULL,products,NULL
+1639,Electric Generators,المولدات الكهربائية,approved,939,1,2022-07-05 17:53:20,2022-07-05 17:53:20,NULL,NULL,NULL,products,NULL
+1640,Alarm Systems,أنظمة الإنذار,approved,945,1,2022-07-05 18:01:14,2022-07-05 18:01:14,NULL,NULL,NULL,products,NULL
+1641,Carpentry Services,خدمات النجارة,approved,771,1,2022-07-05 18:16:23,2022-07-05 18:16:23,NULL,NULL,NULL,products,NULL
+1642,Moving Walkways,الممرات المتحركة,approved,936,1,2022-07-05 18:43:04,2022-07-05 18:43:04,NULL,NULL,NULL,products,NULL
+1643,Moving Walkways,الممرات المتحركة,approved,1009,1,2022-07-05 18:43:42,2022-07-05 18:43:42,NULL,NULL,NULL,products,NULL
+1644,Stairlifts,كراسي الدرج الكهربائية,approved,1009,1,2022-07-05 18:45:12,2022-07-05 18:45:12,NULL,NULL,NULL,products,NULL
+1645,Fire Extinguisher,طفايات الحريق,approved,945,1,2022-07-05 18:49:09,2022-07-05 18:49:09,NULL,NULL,NULL,products,NULL
+1646,Petrochemical Energy Generators,مولدات الطاقة البيتروكيماوية,approved,1026,1,2022-07-05 18:52:46,2022-07-05 18:52:46,NULL,NULL,NULL,products,NULL
+1657,Computer Monitors,شاشات الكمبوتر,approved,1488,1,2022-07-06 18:45:07,2022-07-06 18:45:07,NULL,NULL,NULL,products,NULL
+1658,Laptops,أجهزة الكمبيوتر المحمولة,approved,1488,1,2022-07-06 18:48:09,2022-07-06 18:48:09,NULL,NULL,NULL,products,NULL
+1660,Dining Sets,أطقم السفرة,approved,583,1,2022-07-07 18:04:18,2022-07-07 18:04:18,NULL,NULL,NULL,products,NULL
+1662,Pasta,المعكرونة والشعيرية,approved,41,1,2022-07-07 18:17:47,2022-08-07 19:42:32,NULL,NULL,NULL,products,NULL
+1665,Services,الخدمات,approved,0,1,2021-02-02 13:53:06,2022-07-26 21:52:11,NULL,NULL,NULL,products,NULL
+1669,Technical Services,الخدمات التقنية,approved,1665,1,NULL,2022-08-02 19:18:05,NULL,NULL,NULL,products,NULL
+1670,Cleaning and sterilization Services,خدمات التنظيف والتعقيم,approved,1665,1,NULL,2022-07-26 22:09:46,NULL,NULL,NULL,products,NULL
+1672,Buildings and Facilities,المباني والمنشآت,approved,1665,1,NULL,2022-08-10 18:47:01,NULL,NULL,NULL,products,NULL
+1676,Publicity and Advertising,الدعاية والإعلان,approved,1665,1,2022-06-16 19:54:44,2022-08-02 22:39:25,NULL,NULL,NULL,products,NULL
+1678,Products,المنتجات,approved,0,1,2021-02-02 13:53:06,2022-07-26 21:51:43,NULL,NULL,NULL,products,NULL
+1680,Sewing,الخياطة,approved,1668,1,2022-07-27 16:47:47,2022-07-27 16:47:47,NULL,NULL,NULL,products,NULL
+1682,Furniture,أثاث,approved,1667,1,2022-07-27 17:02:17,2022-07-27 17:02:17,NULL,NULL,NULL,products,NULL
+1683,Cars,سيارات,approved,1667,1,2022-07-27 17:03:14,2022-07-27 17:03:14,NULL,NULL,NULL,products,NULL
+1684,"Machine, Tools and Devices",الآلات والأدوات والأجهزة,approved,1667,1,2022-07-27 17:05:46,2022-07-27 17:05:46,NULL,NULL,NULL,products,NULL
+1685,Programming and Development Services,خدمات البرمجة والتطوير,approved,1674,1,2022-07-27 17:07:52,2022-07-27 17:07:52,NULL,NULL,NULL,products,NULL
+1686,Marketing Services,خدمات التسويق,approved,1676,1,2022-07-27 17:10:34,2022-08-13 02:58:05,NULL,NULL,NULL,products,NULL
+1688,Logistics,الخدمات اللوجستية,approved,1665,1,2022-07-27 17:19:11,2022-07-27 18:33:45,NULL,NULL,NULL,products,NULL
+1689,Transport Services,النقل,approved,1688,1,2022-07-27 17:20:35,2022-07-27 18:41:11,NULL,NULL,NULL,products,NULL
+1691,Warehouses and Storage,المستودعات والتخزين,approved,1688,1,2022-07-27 17:22:08,2022-07-27 18:42:40,NULL,NULL,NULL,products,NULL
+1692,Events Organizing,تنظيم المناسبات,approved,1665,1,2022-07-27 17:26:02,2022-07-27 17:26:02,NULL,NULL,NULL,products,NULL
+1693,Valet Service,خدمة صف السيارات,approved,1692,1,2022-07-27 17:27:23,2022-07-27 17:27:23,NULL,NULL,NULL,products,NULL
+1694,Catering,تقديم الطعام,approved,1692,1,2022-07-27 17:28:02,2022-07-27 17:28:02,NULL,NULL,NULL,products,NULL
+1695,Human Resources,الموارد البشرية,approved,1665,1,2022-07-27 17:48:20,2022-07-27 17:48:20,NULL,NULL,NULL,products,NULL
+1696,Janitors,عمال النظافة,approved,1695,1,2022-07-27 17:56:31,2022-07-27 17:56:31,NULL,NULL,NULL,products,NULL
+1697,Security Guards,الحراسات الأمنية,approved,1695,1,2022-07-27 17:59:23,2022-07-27 17:59:23,NULL,NULL,NULL,products,NULL
+1698,Technicians,العمالة المهنية,approved,1695,1,2022-07-27 18:00:02,2022-07-27 18:00:02,NULL,NULL,NULL,products,NULL
+1699,Disinfection and Sterilization,التطهير والتعقيم,approved,1670,1,2022-07-27 18:02:58,2022-07-27 18:02:58,NULL,NULL,NULL,products,NULL
+1700,Building Façade Cleaning,تنظيف واجهات المباني,approved,1670,1,2022-07-27 18:05:32,2022-07-27 18:05:32,NULL,NULL,NULL,products,NULL
+1701,Pest Control,مكافحة الحشرات,approved,1670,1,2022-07-27 18:06:51,2022-07-27 18:06:51,NULL,NULL,NULL,products,NULL
+1702,Agriculture and garden decoration,الزراعة و تزيين الحدائق,approved,1704,1,2022-07-27 18:19:35,2022-08-02 22:44:41,NULL,NULL,NULL,products,NULL
+1703,Contracting,المقاولات,approved,1672,1,2022-07-27 19:15:22,2022-07-27 19:15:22,NULL,NULL,NULL,products,NULL
+1704,General Services & Maintenance,الخدمات العامة والصيانة,approved,1672,1,2022-07-27 19:16:18,2022-08-10 18:52:07,NULL,NULL,NULL,products,NULL
+1705,Industrial Contracting,المقاولات الصناعية,approved,1703,1,2022-07-27 19:18:47,2022-08-10 18:49:58,NULL,NULL,NULL,products,NULL
+1706,Medical Contracting,المقاولات الطبية,approved,1703,1,2022-07-27 19:20:32,2022-08-10 18:50:45,NULL,NULL,NULL,products,NULL
+1707,Carpentry,النجارة,approved,1704,1,2022-07-27 19:23:39,2022-07-27 19:23:39,NULL,NULL,NULL,products,NULL
+1708,Dumpsters,الحاويات,approved,1704,1,2022-07-27 19:24:16,2022-07-27 19:24:16,NULL,NULL,NULL,products,NULL
+1709,Well Drilling,حفر الآبار,approved,1704,1,2022-07-27 19:24:46,2022-07-27 19:24:46,NULL,NULL,NULL,products,NULL
+1710,Call Center,مركز الاتصال,approved,1695,1,2022-07-27 21:01:08,2022-08-02 22:34:59,NULL,NULL,NULL,products,NULL
+1711,Electricity,الكهرباء,approved,1704,1,2022-07-27 21:04:05,2022-07-27 21:04:05,NULL,NULL,NULL,products,NULL
+1712,Maintenance,اعمال الصيانة,approved,1704,1,2022-07-27 21:05:15,2022-08-12 15:22:24,NULL,NULL,NULL,products,NULL
+1715,Passengers,ركاب,approved,1689,1,2022-07-28 18:47:05,2022-07-28 18:47:05,NULL,NULL,NULL,products,NULL
+1716,Merchandise,بضائع,approved,1689,1,2022-07-28 18:47:41,2022-08-02 22:36:05,NULL,NULL,NULL,products,NULL
+1717,Programming and development services,خدمات البرمجة و التطوير,approved,1669,1,2022-08-02 19:19:54,2022-08-02 19:19:54,NULL,NULL,NULL,products,NULL
+1718,Event Planner,مخطط المناسبات,approved,1692,1,2022-08-02 19:23:12,2022-08-02 22:49:17,NULL,NULL,NULL,products,NULL
+1721,Buildings,المباني,approved,1712,1,2022-08-02 19:47:46,2022-08-12 15:23:42,NULL,NULL,NULL,products,NULL
+1724,Factories,المصانع,approved,1722,1,2022-08-02 19:51:45,2022-08-02 19:51:45,NULL,NULL,NULL,products,NULL
+1725,Health Centers,المراكز الصحية,approved,1722,1,2022-08-02 19:52:43,2022-08-02 19:52:43,NULL,NULL,NULL,products,NULL
+1726,Shopping Center,المراكز التجارية,approved,1722,1,2022-08-02 19:54:27,2022-08-02 19:54:27,NULL,NULL,NULL,products,NULL
+1728,Elevators,المصاعد,approved,1727,1,2022-08-02 19:57:23,2022-08-02 19:57:23,NULL,NULL,NULL,products,NULL
+1729,Escalators,السلالم المتحركة,approved,1727,1,2022-08-02 19:58:39,2022-08-02 19:58:39,NULL,NULL,NULL,products,NULL
+1730,Moving Walkways,الممرات المتحركة,approved,1727,1,2022-08-02 20:01:30,2022-08-02 20:01:30,NULL,NULL,NULL,products,NULL
+1731,Stairlifts,كراسي الدرج الكهربائي,approved,1727,1,2022-08-02 20:02:10,2022-08-02 20:02:10,NULL,NULL,NULL,products,NULL
+1733,Glass Doors,الابواب الزجاجية,approved,1727,1,2022-08-02 20:05:15,2022-08-02 20:05:15,NULL,NULL,NULL,products,NULL
+1734,Iron Doors,الابواب الحديدية,approved,1727,1,2022-08-02 20:07:31,2022-08-02 20:07:31,NULL,NULL,NULL,products,NULL
+1736,Hot Water Generators,مولدات تسخين المياه,approved,1735,1,2022-08-02 20:09:26,2022-08-02 20:09:26,NULL,NULL,NULL,products,NULL
+1737,Water Pump Generators,مولدات ضخ المياه,approved,1735,1,2022-08-02 20:10:23,2022-08-02 20:10:23,NULL,NULL,NULL,products,NULL
+1738,Petrochemical Power Generators,مولدات الطاقة البتروكيميائية,approved,1735,1,2022-08-02 20:11:38,2022-08-02 20:11:38,NULL,NULL,NULL,products,NULL
+1739,Electric Power Generators,مولدات الطاقة الكهربائية,approved,1735,1,2022-08-02 20:12:40,2022-08-02 22:37:04,NULL,NULL,NULL,products,NULL
+1741,Certified Certificates and Reports Request,طلب شهادات وتقارير مصدقة,approved,1665,1,2022-08-02 20:25:39,2022-08-02 20:25:39,NULL,NULL,NULL,products,NULL
+1742,Fire Systems,أنظمة الحريق,approved,1741,1,2022-08-02 20:26:41,2022-08-02 20:26:41,NULL,NULL,NULL,products,NULL
+1744,Glass Doors,الأبواب الزجاجية,approved,1009,1,2022-08-03 19:22:19,2022-08-03 19:22:19,NULL,NULL,NULL,products,NULL
+1745,Iron doors,الأبواب الحديدية,approved,1009,1,2022-08-03 19:23:44,2022-08-03 19:23:44,NULL,NULL,NULL,products,NULL
+1746,Sugar and Baking Supplies,السكر ومستلزمات الخباز,approved,1,1,2022-08-04 19:19:27,2022-08-10 17:13:44,NULL,NULL,NULL,products,NULL
+1747,Flour,الطحين,approved,1746,1,2022-08-04 19:21:53,2022-08-04 19:21:53,NULL,NULL,NULL,products,NULL
+1748,Sugar,السكر,approved,1746,1,2022-08-04 19:22:29,2022-08-04 19:22:29,NULL,NULL,NULL,products,NULL
+1749,Baking Powder,مسحوق الخبز,approved,1746,1,2022-08-04 19:24:23,2022-08-04 19:24:23,NULL,NULL,NULL,products,NULL
+1750,Bicarbonate of soda,بيكربونات الصودا,approved,1746,1,2022-08-04 19:25:24,2022-08-04 19:25:24,NULL,NULL,NULL,products,NULL
+1751,Corn starch & Corn flour,نشاء الذرة ودقيق الذرة,approved,1746,1,2022-08-04 19:26:46,2022-08-04 19:26:46,NULL,NULL,NULL,products,NULL
+1752,Ready-to-cook bakery mix,خليط المخبوزات الجاهزة للطبخ,approved,1746,1,2022-08-04 19:29:36,2022-08-04 19:29:36,NULL,NULL,NULL,products,NULL
+1753,Whipping Cream Mixture,- خليط كريمة الخفق,approved,1746,1,2022-08-04 19:30:42,2022-08-04 19:30:42,NULL,NULL,NULL,products,NULL
+1754,Vanilla Flavor,نكهة الفانيليا,approved,1746,1,2022-08-04 19:31:36,2022-08-04 19:31:36,NULL,NULL,NULL,products,NULL
+1755,Sweetened Condensed Milk,الحليب المكثف المحلى,approved,1746,1,2022-08-04 19:33:11,2022-08-04 19:33:11,NULL,NULL,NULL,products,NULL
+1756,Canned Food,المعلبات,approved,1,1,2022-08-04 19:34:55,2022-08-04 19:34:55,NULL,NULL,NULL,products,NULL
+1757,Chocolate Powder,بودرة الشوكولاتة,approved,1746,1,2022-08-04 19:36:26,2022-08-04 19:36:26,NULL,NULL,NULL,products,NULL
+1758,Legumes,البقوليات,approved,1756,1,2022-08-04 19:37:32,2022-08-04 19:37:32,NULL,NULL,NULL,products,NULL
+1759,Tuna,التونة,approved,1756,1,2022-08-04 19:38:53,2022-08-04 19:38:53,NULL,NULL,NULL,products,NULL
+1760,Fruits & Vegetables,الفواكة والخضار,approved,1756,1,2022-08-04 19:40:26,2022-08-04 19:40:26,NULL,NULL,NULL,products,NULL
+1761,Olives,الزيتون,approved,1756,1,2022-08-04 19:41:03,2022-08-04 19:41:03,NULL,NULL,NULL,products,NULL
+1762,Pickles,المخللات,approved,1756,1,2022-08-04 19:41:43,2022-08-04 19:41:43,NULL,NULL,NULL,products,NULL
+1763,Grape Leaves,ورق عنب,approved,1756,1,2022-08-04 19:42:44,2022-08-04 19:42:44,NULL,NULL,NULL,products,NULL
+1764,Vinegar,الخل,approved,1756,1,2022-08-04 19:43:30,2022-08-04 19:43:30,NULL,NULL,NULL,products,NULL
+1765,Lemon concentrate,ليمون مركز,approved,1756,1,2022-08-04 19:44:34,2022-08-04 19:44:34,NULL,NULL,NULL,products,NULL
+1766,Liquid Tahini,طحينة سائلة,approved,1756,1,2022-08-04 19:45:23,2022-08-04 19:45:23,NULL,NULL,NULL,products,NULL
+1767,Ready Sauces,الصلصات جاهزة,approved,1756,1,2022-08-04 19:48:44,2022-08-04 19:48:44,NULL,NULL,NULL,products,NULL
+1768,ketchup,كاتشب,approved,1767,1,2022-08-04 19:49:25,2022-08-04 19:49:25,NULL,NULL,NULL,products,NULL
+1769,Mayonnaise,مايونيز,approved,1767,1,2022-08-04 19:50:30,2022-08-04 19:50:30,NULL,NULL,NULL,products,NULL
+1770,Hot sauce,الصوص الحار,approved,1767,1,2022-08-04 19:51:53,2022-08-04 19:51:53,NULL,NULL,NULL,products,NULL
+1771,Mustard,الخردل,approved,1767,1,2022-08-04 19:52:26,2022-08-04 19:52:26,NULL,NULL,NULL,products,NULL
+1772,Soy Sauce,صلصة الصويا,approved,1767,1,2022-08-04 19:54:10,2022-08-04 19:54:10,NULL,NULL,NULL,products,NULL
+1773,Pomegranate Molasses,دبس الرمان,approved,1767,1,2022-08-04 19:55:17,2022-08-04 19:55:17,NULL,NULL,NULL,products,NULL
+1774,Breakfast Products,منتجات الإفطار,approved,1,1,2022-08-04 19:57:48,2022-08-04 19:57:48,NULL,NULL,NULL,products,NULL
+1775,Breakfast Cereal,حبوب الإفطار,approved,1774,1,2022-08-04 19:58:25,2022-08-04 19:58:25,NULL,NULL,NULL,products,NULL
+1777,Cereal bars,ألواح الحبوب,approved,1774,1,2022-08-04 19:59:46,2022-08-04 19:59:46,NULL,NULL,NULL,products,NULL
+1779,Honey,العسل,approved,1778,1,2022-08-04 20:01:19,2022-08-04 20:01:19,NULL,NULL,NULL,products,NULL
+1780,Jam,المربى,approved,1778,1,2022-08-04 20:01:59,2022-08-04 20:01:59,NULL,NULL,NULL,products,NULL
+1781,Peanut Butter,زبدة الفول السوداني,approved,1778,1,2022-08-04 20:02:37,2022-08-04 20:02:37,NULL,NULL,NULL,products,NULL
+1782,Spreadable Chocolate,شوكولاتة قابلة للدهن,approved,1778,1,2022-08-04 20:05:23,2022-08-04 20:05:23,NULL,NULL,NULL,products,NULL
+1783,Halawa,حلاوة طحينية,approved,1842,1,2022-08-04 20:06:14,2022-08-10 17:07:39,NULL,NULL,NULL,products,NULL
+1784,Healthy Alternatives,البدائل الصحية,approved,1,1,2022-08-04 20:09:10,2022-08-04 20:09:10,NULL,NULL,NULL,products,NULL
+1785,Artificial Sweeteners,المحليات الصناعية,approved,1784,1,2022-08-04 20:10:23,2022-08-04 20:10:23,NULL,NULL,NULL,products,NULL
+1786,Gluten Free Products,المنتجات الخالية من الغلوتين,approved,1784,1,2022-08-04 20:11:52,2022-08-04 20:11:52,NULL,NULL,NULL,products,NULL
+1788,Vegetarian Alternatives,بدائل نباتية,approved,1784,1,2022-08-04 20:14:15,2022-08-04 20:14:15,NULL,NULL,NULL,products,NULL
+1789,Snacks,أطعمة خفيفة,approved,1784,1,2022-08-04 20:14:49,2022-08-04 20:14:49,NULL,NULL,NULL,products,NULL
+1801,Cooking Products,منتجات الطبخ,approved,1,1,2022-08-07 17:45:02,2022-08-07 17:45:02,NULL,NULL,NULL,products,NULL
+1802,Oil and Ghee,الزيت و السمن,approved,1801,1,2022-08-07 17:47:48,2022-08-07 17:47:48,NULL,NULL,NULL,products,NULL
+1803,Butter,زبدة,approved,1802,1,2022-08-07 17:52:53,2022-08-07 17:52:53,NULL,NULL,NULL,products,NULL
+1804,Animal Ghee,سمن حيواني,approved,1802,1,2022-08-07 17:53:27,2022-08-07 17:53:27,NULL,NULL,NULL,products,NULL
+1805,Vegetable Ghee,سمن نباتي,approved,1802,1,2022-08-07 17:54:02,2022-08-07 17:54:02,NULL,NULL,NULL,products,NULL
+1806,Vegetable Oils,الزيوت النباتية,approved,1802,1,2022-08-07 17:54:37,2022-08-07 17:54:37,NULL,NULL,NULL,products,NULL
+1807,Food Flavorings and Spices,منكهات الطعام والتوابل,approved,1801,1,2022-08-07 17:56:13,2022-08-07 17:56:13,NULL,NULL,NULL,products,NULL
+1808,Salt,الملح,approved,1807,1,2022-08-07 17:56:39,2022-08-07 17:56:39,NULL,NULL,NULL,products,NULL
+1809,Spices,التوابل و البهارات,approved,1807,1,2022-08-07 17:58:01,2022-08-07 17:58:01,NULL,NULL,NULL,products,NULL
+1810,Cooking Stock Cubes and Flavor Improver,مكعبات مرقة الطهي ومحسن النكهة,approved,1807,1,2022-08-07 18:03:02,2022-08-07 18:03:02,NULL,NULL,NULL,products,NULL
+1811,Sauces,الصلصات,approved,1807,1,2022-08-07 18:04:13,2022-08-10 16:45:30,NULL,NULL,NULL,products,NULL
+1813,Food Flavorings - Natural/Artificial,منكهات طعام - طبيعية / صناعية,approved,1807,1,2022-08-07 18:07:15,2022-08-07 18:07:15,NULL,NULL,NULL,products,NULL
+1814,Sweets,حلويات,approved,176,1,2022-08-07 18:10:47,2022-08-07 18:10:47,NULL,NULL,NULL,products,NULL
+1815,Sweets,الحلويات,approved,269,1,2022-08-07 18:13:34,2022-08-07 18:13:34,NULL,NULL,NULL,products,NULL
+1816,Potato Chips,رقائق البطاطس,approved,269,1,2022-08-07 18:15:07,2022-08-07 18:15:07,NULL,NULL,NULL,products,NULL
+1817,Nuts,المكسرات,approved,269,1,2022-08-07 18:15:35,2022-08-07 18:15:35,NULL,NULL,NULL,products,NULL
+1818,Chocolate,الشوكولاتة,approved,269,1,2022-08-07 18:16:13,2022-08-07 18:16:13,NULL,NULL,NULL,products,NULL
+1819,Organic Food,منتجات عضوية,approved,1784,1,2022-08-07 18:26:52,2022-08-07 18:26:52,NULL,NULL,NULL,products,NULL
+1820,Grains and Legumes,الحبوب والبقوليات,approved,1,1,2022-08-07 18:58:32,2022-08-07 19:00:44,NULL,NULL,NULL,products,NULL
+1821,Grains,الحبوب,approved,1820,1,2022-08-07 19:04:25,2022-08-07 19:04:25,NULL,NULL,NULL,products,NULL
+1822,Legumes,البقوليات,approved,1820,1,2022-08-07 19:05:00,2022-08-07 19:05:00,NULL,NULL,NULL,products,NULL
+1823,Wheat,القمح,approved,1821,1,2022-08-07 19:26:27,2022-08-07 19:26:27,NULL,NULL,NULL,products,NULL
+1824,Barley,الشعير,approved,1821,1,2022-08-07 19:27:37,2022-08-07 19:27:37,NULL,NULL,NULL,products,NULL
+1825,Rice,الأرز,approved,1821,1,2022-08-07 19:28:07,2022-08-07 19:28:07,NULL,NULL,NULL,products,NULL
+1826,Oats,الشوفان,approved,1821,1,2022-08-07 19:28:55,2022-08-07 19:28:55,NULL,NULL,NULL,products,NULL
+1827,Corn,حبوب الذرة,approved,1821,1,2022-08-07 19:29:31,2022-08-07 19:29:31,NULL,NULL,NULL,products,NULL
+1828,Quinoa,الكينوا,approved,1821,1,2022-08-07 19:30:08,2022-08-07 19:30:08,NULL,NULL,NULL,products,NULL
+1829,Bulgur,البرغل,approved,1821,1,2022-08-07 19:31:20,2022-08-07 19:31:20,NULL,NULL,NULL,products,NULL
+1830,Chickpeas,الحمص,approved,1822,1,2022-08-07 19:34:14,2022-08-07 19:34:14,NULL,NULL,NULL,products,NULL
+1831,peas,البازيلاء,approved,1822,1,2022-08-07 19:35:35,2022-08-07 19:35:35,NULL,NULL,NULL,products,NULL
+1832,Lentils,العدس,approved,1822,1,2022-08-07 19:36:11,2022-08-07 19:36:11,NULL,NULL,NULL,products,NULL
+1833,Beans,حبوب الفول والفاصوليا,approved,1822,1,2022-08-07 19:37:59,2022-08-07 19:37:59,NULL,NULL,NULL,products,NULL
+1834,Soybeans,حبوب الصويا,approved,1822,1,2022-08-07 19:38:30,2022-08-07 19:38:30,NULL,NULL,NULL,products,NULL
+1835,Dry Pasta,معكرونة جافة,approved,1662,1,2022-08-07 19:47:03,2022-08-07 19:47:03,NULL,NULL,NULL,products,NULL
+1836,Fresh Pasta,المعكرونة الطازجة,approved,1662,1,2022-08-07 19:47:47,2022-08-07 19:47:47,NULL,NULL,NULL,products,NULL
+1837,Noodles,شعيرية,approved,1662,1,2022-08-07 19:49:02,2022-08-07 19:49:02,NULL,NULL,NULL,products,NULL
+1838,Instant Noodles,معكرونة سريعة التحضير,approved,1662,1,2022-08-07 19:49:59,2022-08-07 19:49:59,NULL,NULL,NULL,products,NULL
+1839,Instant Soup,شوربة سريعة التحضير,approved,1662,1,2022-08-07 19:51:56,2022-08-07 19:51:56,NULL,NULL,NULL,products,NULL
+1840,Olive Oil,زيت الزيتون,approved,1802,1,2022-08-10 16:31:11,2022-08-10 16:31:11,NULL,NULL,NULL,products,NULL
+1841,Fresh - Local,طازجة - محلية,approved,204,1,2022-08-10 17:03:35,2022-08-10 17:03:35,NULL,NULL,NULL,products,NULL
+1842,Spreadable Products,منتجات قابلة للدهن,approved,1774,1,2022-08-10 17:06:37,2022-08-10 17:06:37,NULL,NULL,NULL,products,NULL
+1843,Honey,العسل,approved,1842,1,2022-08-10 17:09:01,2022-08-10 17:09:01,NULL,NULL,NULL,products,NULL
+1844,Jam,المربى,approved,1842,1,2022-08-10 17:09:31,2022-08-10 17:09:31,NULL,NULL,NULL,products,NULL
+1845,Peanut Butter,زبدة الفول السوداني,approved,1842,1,2022-08-10 17:11:11,2022-08-10 17:11:11,NULL,NULL,NULL,products,NULL
+1846,Spreadable Chocolate,شوكولاتة قابلة للدهن,approved,1842,1,2022-08-10 17:11:42,2022-08-10 17:11:42,NULL,NULL,NULL,products,NULL
+1847,Bedspread,المفارش,approved,4,1,2022-08-10 17:18:53,2022-08-10 17:18:53,NULL,NULL,NULL,products,NULL
+1848,Paper Tissue,المناديل الورقية,approved,555,1,2022-08-10 18:12:21,2022-08-10 18:12:21,NULL,NULL,NULL,products,NULL
+1849,Paper Cups,الأكواب الورقية,approved,555,1,2022-08-10 18:13:14,2022-08-10 18:13:14,NULL,NULL,NULL,products,NULL
+1850,Hot,الحار,approved,1849,1,2022-08-10 18:14:02,2022-08-10 18:14:02,NULL,NULL,NULL,products,NULL
+1851,Cold,البارد,approved,1849,1,2022-08-10 18:14:32,2022-08-10 18:14:32,NULL,NULL,NULL,products,NULL
+1852,Printed Ads,المطبوعات,approved,1566,1,2022-08-10 18:35:45,2022-08-10 18:35:45,NULL,NULL,NULL,products,NULL
+1854,Smart Cards,البطاقات الذكية,approved,1852,1,2022-08-10 18:38:30,2022-08-10 18:38:30,NULL,NULL,NULL,products,NULL
+1855,Digital Boards,اللوحات الرقمية,approved,1592,1,2022-08-10 18:40:04,2022-08-10 18:40:04,NULL,NULL,NULL,products,NULL
+1856,Human Resources,الموارد البشرية,approved,1704,1,2022-08-10 18:54:35,2022-08-10 18:54:35,NULL,NULL,NULL,products,NULL
+1858,Carpentry,النجارة,approved,1856,1,2022-08-10 18:59:48,2022-08-10 18:59:48,NULL,NULL,NULL,products,NULL
+1859,Electricity,الكهرباء,approved,1856,1,2022-08-10 19:00:31,2022-08-10 19:00:31,NULL,NULL,NULL,products,NULL
+1860,Plumbing,السباكة,approved,1856,1,2022-08-10 19:01:01,2022-08-10 19:01:01,NULL,NULL,NULL,products,NULL
+1861,Paint,الدهان,approved,1856,1,2022-08-10 19:01:29,2022-08-10 19:01:29,NULL,NULL,NULL,products,NULL
+1862,Call Centers,مراكز الإتصال,approved,1856,1,2022-08-10 19:02:05,2022-08-10 19:02:05,NULL,NULL,NULL,products,NULL
+1863,Janitors,عمال النظافة,approved,1856,1,2022-08-10 19:02:34,2022-08-10 19:02:34,NULL,NULL,NULL,products,NULL
+1864,Nursing,التمريض,approved,1856,1,2022-08-10 19:03:04,2022-08-10 19:03:04,NULL,NULL,NULL,products,NULL
+1865,Security Guards,الحراسات الأمنية,approved,1856,1,2022-08-10 19:03:34,2022-08-10 19:03:34,NULL,NULL,NULL,products,NULL
+1866,Cold,بارد,approved,1716,1,2022-08-10 19:08:12,2022-08-10 19:08:12,NULL,NULL,NULL,products,NULL
+1867,Dry,جاف,approved,1716,1,2022-08-10 19:09:55,2022-08-10 19:10:50,NULL,NULL,NULL,products,NULL
+1868,Open,مفتوح,approved,1867,1,2022-08-10 19:11:47,2022-08-10 19:11:47,NULL,NULL,NULL,products,NULL
+1869,Closed,مغلق,approved,1867,1,2022-08-10 19:12:27,2022-08-10 19:12:27,NULL,NULL,NULL,products,NULL
+1870,Clod,بارد,approved,1691,1,2022-08-10 19:14:16,2022-08-10 19:14:16,NULL,NULL,NULL,products,NULL
+1871,Dry,جاف,approved,1691,1,2022-08-10 19:14:41,2022-08-10 19:14:41,NULL,NULL,NULL,products,NULL
+1874,Companies,الشركات,approved,1721,1,2022-08-12 15:47:40,2022-08-12 15:47:40,NULL,NULL,NULL,products,NULL
+1875,Factories,المصانع,approved,1721,1,2022-08-12 15:48:33,2022-08-12 15:48:33,NULL,NULL,NULL,products,NULL
+1876,Health Centers,المراكز الصحية,approved,1721,1,2022-08-12 15:50:41,2022-08-12 15:50:41,NULL,NULL,NULL,products,NULL
+1877,Shopping Centers,المراكز التجارية,approved,1721,1,2022-08-12 15:51:36,2022-08-12 15:51:36,NULL,NULL,NULL,products,NULL
+1878,Elevators and Moving Doors,المصاعد والأبواب المتحركة,approved,1712,1,2022-08-12 15:54:10,2022-08-12 15:54:10,NULL,NULL,NULL,products,NULL
+1880,Fire Systems,أنظمة الحرائق,approved,1712,1,2022-08-13 02:35:23,2022-08-13 02:35:23,NULL,NULL,NULL,products,NULL
+1881,Generators,المولدات,approved,1712,1,2022-08-13 02:37:16,2022-08-13 02:37:16,NULL,NULL,NULL,products,NULL
+1882,Elevators,المصاعد,approved,1878,1,2022-08-13 02:41:15,2022-08-13 02:41:15,NULL,NULL,NULL,products,NULL
+1883,Escalators,السلالم المتحركة,approved,1878,1,2022-08-13 02:42:30,2022-08-13 02:42:30,NULL,NULL,NULL,products,NULL
+1884,Glass Doors,الأبواب الزجاجية,approved,1878,1,2022-08-13 02:43:40,2022-08-13 02:43:40,NULL,NULL,NULL,products,NULL
+1885,Iron Doors,الأبواب الحديدية,approved,1878,1,2022-08-13 02:44:41,2022-08-13 02:44:41,NULL,NULL,NULL,products,NULL
+1886,Moving Walkways,الممرات المتحركة,approved,1878,1,2022-08-13 02:45:31,2022-08-13 02:45:31,NULL,NULL,NULL,products,NULL
+1887,Stairlifts,كراسي الدرج الكهربائي,approved,1878,1,2022-08-13 02:49:11,2022-08-13 02:49:11,NULL,NULL,NULL,products,NULL
+1888,Electric Power Generators,مولدات الطاقة الكهربائية,approved,1881,1,2022-08-13 02:52:13,2022-08-13 02:52:13,NULL,NULL,NULL,products,NULL
+1889,Hot Water Generators,مولدات تسخين المياه,approved,1881,1,2022-08-13 02:53:18,2022-08-13 02:53:18,NULL,NULL,NULL,products,NULL
+1890,Petrochemical Power Generators,مولدات الطاقة البتروكيميائية,approved,1881,1,2022-08-13 02:54:47,2022-08-13 02:54:47,NULL,NULL,NULL,products,NULL
+1891,Water Pump Generators,مولدات ضخ المياه,approved,1881,1,2022-08-13 02:56:32,2022-08-13 02:56:32,NULL,NULL,NULL,products,NULL
+1892,Visual advertising,الإعلان المرئي,approved,1676,1,2022-08-13 02:59:18,2022-08-13 02:59:18,NULL,NULL,NULL,products,NULL
+1893,Design and montage,التصميم والمونتاج,approved,1676,1,2022-08-13 03:00:21,2022-08-13 03:00:21,NULL,NULL,NULL,products,NULL
+1894,Cartons,الكراتين,approved,552,1,2022-08-13 03:03:09,2022-08-13 03:03:09,NULL,NULL,NULL,products,NULL

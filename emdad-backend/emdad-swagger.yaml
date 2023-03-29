@@ -1,0 +1,192 @@
+openapi: 3.1.0
+x-stoplight:
+  id: v8co0257hs46t
+info:
+  title: emdad
+  version: '1.0'
+servers:
+  - url: 'http://localhost:8000/api/v1'
+paths:
+  '/roles/{roleId}':
+    parameters:
+      '-schema':
+        type: integer
+      name: roleId
+      in: path
+      required: true
+      description: Id of an existing user.
+    get:
+      summary: Get role info by id
+      tags: []
+      responses:
+        '200':
+          description: Role Found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Role'
+              examples:
+                Get Role supper:
+                  value:
+                    id: 142
+                    name: 142
+                    type: 1
+        '400':
+          description: not found
+      operationId: get-users-userId
+      description: Retrieve the information of the user with the matching user ID.
+  '/users/{userId}':
+    parameters:
+      - schema:
+          type: integer
+        name: userId
+        in: path
+        required: true
+        description: Id of an existing user.
+    get:
+      summary: Get User Info by User ID
+      tags: []
+      responses:
+        '200':
+          description: User Found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+              examples:
+                Get User Alice Smith:
+                  value:
+                    id: 142
+                    roleId: 142
+                    firstName: Alice
+                    mobile: 9665054852
+                    lastName: Smith
+                    email: alice.smith@gmail.com
+                    emailVerified: true
+                    createDate: '2019-08-24'
+        '404':
+          description: User Not Found
+      operationId: get-users-userId
+      description: Retrieve the information of the user with the matching user ID.
+    /user: null
+    post:
+      summary: Create New User
+      operationId: post-user
+      responses:
+        '200':
+          description: User Created
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+              examples:
+                New User Bob Fellow:
+                  value:
+                    id: 12
+                    firstName: Bob
+                    lastName: Fellow
+                    email: bob.fellow@gmail.com
+                    dateOfBirth: '1996-08-24'
+                    emailVerified: false
+                    createDate: '2020-11-18'
+        '400':
+          description: Missing Required Information
+        '409':
+          description: Email Already Taken
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                firstName:
+                  type: string
+                roleId:
+                  type: integer
+                lastName:
+                  type: string
+                email:
+                  type: string
+                mobile:
+                  type: string
+                password:
+                  type: string
+              required:
+                - firstName
+                - lastName
+                - email
+                - mobile
+                - password
+                - roleId
+            examples:
+              Create User Bob Fellow:
+                value:
+                  firstName: Bob
+                  lastName: Fellow
+                  email: bob.fellow@gmail.com
+                  mobile: '966525255874'
+        description: Post the necessary fields for the API to create a new user.
+      description: Create a new user.
+components:
+  schemas:
+    Role:
+      title: Role
+      type: object
+      description: ''
+      examples:
+        - id: 1
+          name: Super Admin
+          type: 1
+      properties:
+        id:
+          type: integer
+          description: null
+        name: 'type:string'
+        type: 'type:integer'
+      required: 'id, name, type'
+    User:
+      title: User
+      type: object
+      description: ''
+      examples:
+        - id: 142
+          firstName: Alice
+          lastName: Smith
+          email: alice.smith@gmail.com
+          dateOfBirth: '1997-10-31'
+          emailVerified: true
+          signUpDate: '2019-08-24'
+      properties:
+        id:
+          type: integer
+          description: Unique identifier for the given user.
+        firstName:
+          type: string
+        mobile:
+          type: string
+        lastName:
+          type: string
+        password:
+          type: string
+        email:
+          type: string
+          format: email
+        companyId:
+          type: integer
+        roleId:
+          type: integer
+        emailVerified:
+          type: boolean
+          description: Set to true if the user's email has been verified.
+        createDate:
+          type: string
+          format: date
+          description: The date that the user was created.
+      required:
+        - id
+        - firstName
+        - lastName
+        - email
+        - mobile
+        - password
+        - roleId

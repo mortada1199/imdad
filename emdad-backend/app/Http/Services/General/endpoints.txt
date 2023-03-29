@@ -1,0 +1,12 @@
+fullinfo/{id}
+/info/{id}
+/status/{id}
+/managers/{id}
+/owners/{id}
+/owns/{id}/{idtype}
+
+all-lookups
+
+folder ://emdad-lookups
+
+

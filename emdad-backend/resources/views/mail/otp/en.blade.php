@@ -1,0 +1,1 @@
+Your One-time passcode (OTP) is: <span style="color:blue;">{{ $viewData['otp'] }}</span>

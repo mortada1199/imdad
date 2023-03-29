@@ -1,0 +1,669 @@
+openapi: 3.1.0
+x-stoplight:
+  id: v8co0257hs46t
+info:
+  title: emdad
+  version: '1.0'
+servers:
+  - url: 'http://localhost:8000/api/v1'
+paths:
+  /users/register:
+    post:
+      summary: Create New User
+      operationId: create-user
+      responses:
+        '200':
+          description: User Created
+          content:
+            application/json:
+              schema:
+                type: object
+                x-examples:
+                  example-1:
+                    message: User created successfully
+                    data:
+                      token: 5|ne3npe6soT5RLnOu1fnAcWbQmcNLHl9Sabcy7Sdp
+                      user:
+                        id: 5
+                        name: marwan
+                        email: marwan.salah@nctr.sd
+                        roleId: null
+                        companyId: null
+                        mobile: '249964450403'
+                        isSuperAdmin: null
+                        otp: '196999'
+                        otpExpiresAt: '2022-10-19T06:23:34.647036Z'
+                properties:
+                  message:
+                    type: string
+                  data:
+                    type: object
+                    properties:
+                      token:
+                        type: string
+                      user:
+                        type: object
+                        properties:
+                          id:
+                            type: integer
+                            minimum: 1
+                            maximum: 9999
+                          name:
+                            type: string
+                            minLength: 3
+                            maxLength: 50
+                          email:
+                            type: string
+                            format: email
+                          roleId:
+                            type: integer
+                            minimum: 1
+                            maximum: 9999
+                          companyId:
+                            type: integer
+                            minimum: 1
+                            maximum: 9999
+                          mobile:
+                            type: integer
+                            minimum: 100000000
+                            maximum: 99999999999999
+                          isSuperAdmin:
+                            type: boolean
+                          otp:
+                            type: integer
+                            minimum: 10000
+                            maximum: 999999
+                          otpExpiresAt:
+                            type: string
+                            format: date
+              examples:
+                New User Marwan:
+                  value:
+                    message: User created successfully
+                    data:
+                      token: 5|ne3npe6soT5RLnOu1fnAcWbQmcNLHl9Sabcy7Sdp
+                      user:
+                        id: 5
+                        name: marwan
+                        email: marwan.salah@nctr.sd
+                        roleId: 31
+                        companyId: 41
+                        mobile: 249964450403
+                        isSuperAdmin: true
+                        otp: 196999
+                        otpExpiresAt: '2022-10-19'
+        '400':
+          description: Missing Required Information
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                email:
+                  type: string
+                mobile:
+                  type: string
+                password:
+                  type: string
+              required:
+                - name
+                - email
+                - mobile
+                - password
+            examples:
+              Create User Marwan:
+                value:
+                  name: Marwan
+                  password: '123'
+                  email: bob.fellow@gmail.com
+                  mobile: '966525255874'
+        description: Post the necessary fields for the API to create a new user.
+      description: Create a new user.
+  /users/activate:
+    post:
+      summary: Activate User
+      operationId: activate-user
+      responses:
+        '200':
+          description: Activated
+          headers: {}
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                  data:
+                    type: object
+                    properties:
+                      user:
+                        type: object
+                        properties:
+                          id:
+                            type: integer
+                          name:
+                            type: string
+                          email:
+                            type: string
+                          roleId:
+                            type: integer
+                          companyId:
+                            type: integer
+                          mobile:
+                            type: integer
+                          isSuperAdmin:
+                            type: boolean
+                          otp:
+                            type: integer
+                          otpExpiresAt:
+                            type: string
+                x-examples:
+                  example-1:
+                    message: Your account has been activated successfully.
+                    data:
+                      user:
+                        id: 5
+                        name: marwan
+                        email: marwan.salah@nctr.sd
+                        roleId: 31
+                        companyId: 41
+                        mobile: 249964450403
+                        isSuperAdmin: true
+                        otp: 196999
+                        otpExpiresAt: '2022-10-19'
+              examples:
+                activate user:
+                  value:
+                    message: string
+                    data:
+                      user:
+                        id: 0
+                        name: string
+                        email: string
+                        roleId: 0
+                        companyId: 0
+                        mobile: 0
+                        isSuperAdmin: true
+                        otp: 0
+                        otpExpiresAt: string
+      description: User activation
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              x-examples:
+                example-1:
+                  message: Logged in
+                  passwordType: Password
+                  data:
+                    user:
+                      id: 5
+                      name: marwan
+                      email: marwan.salah@nctr.sd
+                      roleId: 31
+                      companyId: 41
+                      mobile: 249964450403
+                      isSuperAdmin: true
+                      otp: 196999
+                      otpExpiresAt: '2022-10-19'
+                    token: 7|UAkn0Bq8aghGJRQsL7tYKWldr8nvGfFClINP9t7s
+              properties:
+                id:
+                  type: integer
+                otp:
+                  type: number
+              required:
+                - id
+                - otp
+        description: ''
+    parameters: []
+  /users/login:
+    post:
+      summary: User Login
+      operationId: login-user
+      responses:
+        '200':
+          description: Logged in
+          content:
+            application/json:
+              schema:
+                type: object
+                x-examples:
+                  example-1:
+                    message: Logged in
+                    passwordType: Password
+                    data:
+                      user:
+                        id: 6
+                        name: marwan
+                        email: marwan.salah@nctr.sd
+                        roleId: null
+                        companyId: null
+                        mobile: '249964450403'
+                        isSuperAdmin: 0
+                        otp: '809970'
+                        otpExpiresAt: '2022-10-19 09:58:52'
+                      token: 7|UAkn0Bq8aghGJRQsL7tYKWldr8nvGfFClINP9t7s
+                properties:
+                  message:
+                    type: string
+                  data:
+                    type: object
+                    properties:
+                      user:
+                        type: object
+                        properties:
+                          id:
+                            type: integer
+                          name:
+                            type: string
+                          email:
+                            type: string
+                          roleId:
+                            type: integer
+                          companyId:
+                            type: integer
+                          mobile:
+                            type: number
+                          isSuperAdmin:
+                            type: boolean
+                          otp:
+                            type: number
+                          otpExpiresAt:
+                            type: string
+                            format: date
+                      token:
+                        type: string
+              examples:
+                User Login:
+                  value:
+                    message: Logged in
+                    data:
+                      user:
+                        id: 5
+                        name: marwan
+                        email: marwan.salah@nctr.sd
+                        roleId: 31
+                        companyId: 41
+                        mobile: 249964450403
+                        isSuperAdmin: true
+                        otp: 196999
+                        otpExpiresAt: '2022-10-19'
+                      token: 7|UAkn0Bq8aghGJRQsL7tYKWldr8nvGfFClINP9t7s
+        '400':
+          description: Missing Required Information
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              x-examples:
+                example-1:
+                  email: marwan.salah@nctr.sd
+                  password: 12fdbas3
+              properties:
+                email:
+                  type: string
+                  format: email
+                password:
+                  type: string
+                  format: password
+            examples:
+              Create User Marwan:
+                value:
+                  email: marwan.salah@nctr.sd
+                  password: 12fdbas3
+          application/xml:
+            schema:
+              type: object
+              properties: {}
+        description: Post the necessary fields for the user to login into the system.
+      description: User login
+    parameters: []
+  /users/update:
+    put:
+      summary: Update User
+      operationId: update-user
+      responses:
+        '200':
+          description: Activated
+          headers: {}
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                  data:
+                    type: object
+                    properties:
+                      user:
+                        type: object
+                        properties:
+                          id:
+                            type: integer
+                          name:
+                            type: string
+                          email:
+                            type: string
+                          roleId:
+                            type: integer
+                          companyId:
+                            type: integer
+                          mobile:
+                            type: integer
+                          isSuperAdmin:
+                            type: boolean
+                          otp:
+                            type: integer
+                          otpExpiresAt:
+                            type: string
+                x-examples:
+                  example-1:
+                    message: Your account has been activated successfully.
+                    data:
+                      user:
+                        id: 5
+                        name: marwan
+                        email: marwan.salah@nctr.sd
+                        roleId: 31
+                        companyId: 41
+                        mobile: 249964450403
+                        isSuperAdmin: true
+                        otp: 196999
+                        otpExpiresAt: '2022-10-19'
+              examples:
+                activate user:
+                  value:
+                    message: User updated successfully
+                    data:
+                      user:
+                        id: 0
+                        name: string
+                        email: string
+                        roleId: 0
+                        companyId: 0
+                        mobile: 0
+                        isSuperAdmin: true
+                        otp: 0
+                        otpExpiresAt: string
+      description: User update
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              x-examples:
+                example-1:
+                  name: Marwan
+                  roleId: 23
+                  companyId: 2
+                  email: bob.fellow@gmail.com
+                  mobile: 966525255874
+              properties:
+                id:
+                  type: integer
+                'name ':
+                  type: string
+                roleId:
+                  type: integer
+                companyId:
+                  type: integer
+                email:
+                  type: string
+                mobile:
+                  type: integer
+              required:
+                - id
+            examples:
+              User update:
+                value:
+                  id: 4
+                  name: Marwan
+                  roleId: 23
+                  companyId: 2
+                  email: bob.fellow@gmail.com
+                  mobile: 966525255874
+        description: Put the necessary fields for the API to update a user.
+    parameters: []
+  '/users/delete/{id}':
+    delete:
+      summary: Delete User
+      operationId: delete-user
+      responses:
+        '200':
+          description: OK
+          headers: {}
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    default: User deleted successfully
+              examples:
+                user delete:
+                  value:
+                    message: User deleted successfully
+      description: User delete
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                id:
+                  type: integer
+              required:
+                - id
+            examples:
+              Delete User:
+                value:
+                  id: 8
+    parameters:
+      - schema:
+          type: string
+        name: id
+        in: path
+        required: true
+  '/users/restore/{id}':
+    put:
+      summary: Create New User
+      operationId: restore-user
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    default: User restored successfully
+      description: User restore
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                id:
+                  type: integer
+              required:
+                - id
+    parameters:
+      - schema:
+          type: string
+        name: id
+        in: path
+        required: true
+  '/roles/{roleId}':
+    parameters:
+      - schema:
+          type: integer
+        name: roleId
+        in: path
+        required: true
+        description: Id of an existing user.
+    get:
+      summary: Get role info by id
+      tags: []
+      responses:
+        '200':
+          description: Role Found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Role'
+              examples:
+                Get Role supper:
+                  value:
+                    id: 142
+                    name: '142'
+                    type: 1
+        '400':
+          description: not found
+      operationId: get-roles-roleId
+      description: Retrieve the information of the user with the matching user ID.
+components:
+  schemas:
+    Role:
+      title: Role
+      type: object
+      examples:
+        - id: 1
+          name: Super Admin
+          type: 1
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        type:
+          type: integer
+        deletedAt:
+          type: string
+          format: date
+        createdAt:
+          type: string
+          format: date
+        updatedAt:
+          type: string
+          format: date
+      required:
+        - id
+        - name
+        - type
+    User:
+      title: User
+      type: object
+      examples:
+        - id: 142
+          name: Marwan
+          email: marwansalah44@gmail.com
+          roleId: 3
+          password: test123
+      properties:
+        id:
+          type: integer
+          description: Unique identifier for the given user.
+        name:
+          type: string
+        email:
+          type: string
+          format: email
+        emailVerifiedAt:
+          type: string
+          format: date
+        password:
+          type: string
+        roleId:
+          type: integer
+        companyId:
+          type: integer
+        rememberToken:
+          type: string
+        createdAt:
+          type: string
+          format: date
+        updatedAt:
+          type: string
+          format: date
+        mobile:
+          type: string
+        isSuperAdmin:
+          type: boolean
+        otp:
+          type: string
+        forgetPass:
+          type: boolean
+        usedOtp:
+          type: boolean
+        otpExpiresAt:
+          type: string
+          format: date
+    Company:
+      title: Company
+      type: object
+      examples:
+        - id: 142
+          name: myCompany
+          email: marwansalah44@gmail.com
+          companyId: 3
+          companyType: Supplier
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        createdAt:
+          type: string
+          format: date
+        updatedAt:
+          type: string
+          format: date
+        logoPath:
+          type: string
+        crPath:
+          type: string
+        vatPath:
+          type: string
+        companyId:
+          type: integer
+        companyType:
+          type: string
+        companyVatId:
+          type: string
+        companyCrId:
+          type: string
+        contactName:
+          type: string
+        contactPhone:
+          type: string
+        isValidated:
+          type: boolean
+        contactEmail:
+          type: string
+          format: email
+        crExpiresAt:
+          type: string
+          format: date
+        subscriptionDetails:
+          type: string
+        subscriptionId:
+          type: string
+        deletedAt:
+          type: string
+          format: date

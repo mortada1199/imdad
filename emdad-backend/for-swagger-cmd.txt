@@ -1,0 +1,17 @@
+composer require darkaonline/l5-swagger
+php artisan vendor:publish --provider "L5Swagger\L5SwaggerServiceProvider"
+php artisan l5-swagger:generate
+php artisan optimize
+
+apikey
+php artisan apikey:generate app1
+
+for column renaming
+composer require doctrine/dbal
+
+
+ #install QueryBuilder and publish it
+composer install
+php artisan vendor:publish --provider="Spatie\QueryBuilder\QueryBuilderServiceProvider" --tag="query-builder-config"
+
+

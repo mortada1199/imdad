@@ -1,0 +1,53 @@
+#workflow:
+#  rules:
+#    - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
+workflow:
+  rules:
+    - if: $CI_PIPELINE_SOURCE == 'web'
+    
+variables:
+    IMAGE_REG: hub.nctr.sd/emdad
+    R_USER : emdad
+    R_PASS : Emdad@123
+    NCTR_REG : https://hub.nctr.sd
+    IMAGE_NAME : emdad-test-be
+    CON_NAME : emdad-test-be
+    NETWORK : emdad_network
+stages:
+    - build
+    - deploy
+
+build_image:
+    stage: build
+    tags:
+        - prod_docker
+    image: hub.nctr.sd/private/docker:20.10.17
+    before_script:
+        - docker login -u $R_USER -p $R_PASS $NCTR_REG
+    script:
+        - docker build -t $IMAGE_REG/$IMAGE_NAME:$CI_COMMIT_SHORT_SHA .
+        - docker images
+        - IMAGE_ID=$(docker images | grep $IMAGE_REG/$IMAGE_NAME | awk '{print $3}')
+        - echo $IMAGE_ID
+        - docker tag $IMAGE_ID $IMAGE_REG/$IMAGE_NAME:latest
+        - echo "Done"
+        - docker push $IMAGE_REG/$IMAGE_NAME:$CI_COMMIT_SHORT_SHA
+        - docker push $IMAGE_REG/$IMAGE_NAME:latest
+        - docker rmi $IMAGE_ID -f
+
+deploy:
+    stage: deploy
+    tags:
+        - prod_shell
+    before_script: 
+        - docker login -u $R_USER -p $R_PASS $NCTR_REG
+    script: 
+        - if [ $(docker ps -a | grep -w $CON_NAME | wc -l ) -gt 0 ]; then 
+            docker pull $IMAGE_REG/$IMAGE_NAME:latest; 
+            docker stop $CON_NAME; 
+            docker rmi $(docker images | grep $IMAGE_REG/$IMAGE_NAME | awk '{print $3}') -f; 
+            docker rm $(docker ps -f name=$CON_NAME -aq); 
+            echo "From IF ";
+            fi
+        -  docker run -d -p 9000:8000 -p 90:80 -p 4443:443 --name $CON_NAME --network $NETWORK --restart=always $IMAGE_REG/$IMAGE_NAME:latest
+
